@@ -6,9 +6,8 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
-## 2026-07-27 (Mon) — Day 7: Repo setup + Plugins & Data Plugin
+## 2026-07-27 (Mon) — Day 7: Plugins & Data Plugin
 
-- Set up my `AI_Journey` GitHub repo: installed Git, cloned it, built the folder structure, learned the `add` → `commit` → `push` workflow
 - Course L14 — Practical Demo: Using Skills and LinkedIn posts (15 min)
 - Course L15 — Claude Plugins (7 min)
 - Course L16–L18 — Practical Demo: Data Plugin, Parts 1–3 (27 min)
@@ -20,10 +19,11 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
-## 2026-07-26 (Sun) — Day 6: Agent Skills
+## 2026-07-26 (Sun) — Day 6: Agent Skills + Repo setup
 
 - Course L13 — Agent Skills (17 min)
 - Learned what Agent Skills are and how they extend what Claude can do
+- Set up my `AI_Journey` GitHub repo: installed Git, cloned it, built the folder structure, learned the `add` → `commit` → `push` workflow
 
 ---
 
