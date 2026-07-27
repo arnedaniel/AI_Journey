@@ -6,13 +6,17 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
-## 2026-07-27 (Mon) — Day 7: Repo setup + Skills demo
+## 2026-07-27 (Mon) — Day 7: Repo setup + Plugins & Data Plugin
 
 - Set up my `AI_Journey` GitHub repo: installed Git, cloned it, built the folder structure, learned the `add` → `commit` → `push` workflow
 - Course L14 — Practical Demo: Using Skills and LinkedIn posts (15 min)
-- **Section 2 progress: 10/23 lessons done**
+- Course L15 — Claude Plugins (7 min)
+- Course L16–L18 — Practical Demo: Data Plugin, Parts 1–3 (27 min)
+- Course L19–L20 — Practice Opportunity: Data Visualization (question + solution, 8 min)
+- **Course total: 20/158 lessons — Section 2 at 16/23**
+- Big day: knocked out 7 lessons and got ahead of my study plan 🎉
 
-**Next up:** L15 — Claude Plugins.
+**Next up:** L21 — Practical Demo: Data Plugin Part 4 (Statistical Analysis & PowerPoint).
 
 ---
 
