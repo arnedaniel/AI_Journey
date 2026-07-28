@@ -6,6 +6,16 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-07-28 (Tue) — Day 8: Statistical analysis & financial forecasting
+
+- **L21 — Practical Demo: Data Plugin - Part 4 - Statistical Analysis & PowerPoint** (10 min) — Took the data plugin one step further: ran statistical analysis on the dataset and had Claude turn the results straight into a finished PowerPoint deck.
+- **L22 — Financial Forecasting with Claude Cowork with Skills** (14 min) — Used a Skill to build a financial forecast in Cowork, projecting future numbers from historical data instead of modelling it all by hand.
+- **Course total: 22/158 lessons — Section 2 at 18/23**
+
+**Next up:** L23 — Practical Demo: Create Finance Plugin - Part 1.
+
+---
+
 ## 2026-07-27 (Mon) — Day 7: Plugins & Data Plugin
 
 - **L14 — Practical Demo: Using Skills and LinkedIn posts** (15 min) — Saw a Skill in action, using it to generate ready-to-post LinkedIn content.
