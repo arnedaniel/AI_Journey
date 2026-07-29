@@ -6,6 +6,19 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-07-29 (Wed) — Day 9: Building a finance plugin from scratch
+
+- **L23 — Practical Demo: Create Finance Plugin - Part 1** (13 min) — Started building my own finance plugin, scaffolding the structure and defining what the plugin should be able to do.
+- **L24 — Practical Demo: Create Finance Plugin - Part 2** (6 min) — Filled in the plugin's skills and instructions so Claude knows how to handle finance-specific tasks.
+- **L25 — Practical Demo: Create Finance Plugin - Part 3** (8 min) — Installed and tested the finished plugin, running it against real finance data to check the output.
+- **L26–L27 — Practice: Analyze data plugin** (question + solution, 11 min) — Practiced using a data plugin end to end, then compared my approach against the walkthrough solution.
+- **Course total: 27/158 lessons — Section 2 complete at 23/23**
+- Section 2 "Mastery for Workflow Automation" is done ✅ — on to Claude Chat Mastery.
+
+**Next up:** L28 — Using Claude Chat to Perform Research and Data Visualization.
+
+---
+
 ## 2026-07-28 (Tue) — Day 8: Statistical analysis & financial forecasting
 
 - **L21 — Practical Demo: Data Plugin - Part 4 - Statistical Analysis & PowerPoint** (10 min) — Took the data plugin one step further: ran statistical analysis on the dataset and had Claude turn the results straight into a finished PowerPoint deck.
