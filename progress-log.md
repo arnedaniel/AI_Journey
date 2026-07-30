@@ -6,6 +6,15 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-07-30 (Thu) — Day 10: Into Claude Chat Mastery
+
+- **L28 — Using Claude Chat to Perform Research and Data Visualization** (8 min) — Started Section 3 by using plain Claude Chat as a research assistant: gathering and structuring information on a topic, then having Claude turn the findings into charts and visual summaries without leaving the conversation.
+- **Course total: 28/158 lessons — Section 3 at 1/13**
+
+**Next up:** L29 — Prompt Engineering Fundamentals Explained.
+
+---
+
 ## 2026-07-29 (Wed) — Day 9: Building a finance plugin from scratch
 
 - **L23 — Practical Demo: Create Finance Plugin - Part 1** (13 min) — Started building my own finance plugin, scaffolding the structure and defining what the plugin should be able to do.
