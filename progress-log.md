@@ -6,6 +6,20 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-07-31 (Fri) — Day 11: Prompt engineering, deep research & dashboards
+
+- **L29 — Prompt Engineering Fundamentals Explained** (9 min) — Learned what actually makes a prompt work: giving clear context, a defined role, explicit instructions and a stated output format instead of vague one-liners.
+- **L30 — Prompt Engineering Techniques** (8 min) — Covered the practical techniques — few-shot examples, step-by-step reasoning, structured/XML-style sections and iterative refinement — and when each one is worth reaching for.
+- **L31 — Deep Research Mode in Claude** (10 min) — Used Claude's deep research mode to run a multi-source investigation on a topic and get back a synthesized, cited report rather than a single-shot answer.
+- **L32 — Claude Chat for Creative Writing** (6 min) — Worked with Claude as a writing partner: setting tone and voice, drafting, and iterating on the text instead of accepting the first draft.
+- **L33 — Claude For Brainstorming ideas** (3 min) — Short lesson on using Claude to generate and pressure-test ideas quickly, pushing for volume first and then narrowing down.
+- **L34 — Develop Dashboards Using Claude Front End Design Skill** (9 min) — Used the front-end design Skill to turn data into a working, good-looking HTML dashboard without writing the UI code myself.
+- **Course total: 34/158 lessons — Section 3 at 7/13**
+
+**Next up:** L35 — Extract Financial Data from PDF to Excel and PowerPoint.
+
+---
+
 ## 2026-07-30 (Thu) — Day 10: Into Claude Chat Mastery
 
 - **L28 — Using Claude Chat to Perform Research and Data Visualization** (8 min) — Started Section 3 by using plain Claude Chat as a research assistant: gathering and structuring information on a topic, then having Claude turn the findings into charts and visual summaries without leaving the conversation.
