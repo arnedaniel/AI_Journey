@@ -6,6 +6,24 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-08-03 (Mon) — Day 12: Finished Claude Chat, jumped into Claude Code
+
+- **L35 — Extract Financial Data from PDF to Excel and PowerPoint** (7 min) — Pulled structured financial figures out of a PDF and had Claude push them straight into a spreadsheet and a deck, skipping the manual retyping step.
+- **L36 — Financial Data Analysis and One Pager Summary Generation with PPTX Skills** (6 min) — Used the PPTX Skill to turn a financial analysis into a clean one-pager summary slide instead of formatting it by hand.
+- **L37 — Learn with Claude Chat** (5 min) — How to use Claude as a study partner: asking it to explain concepts at the right level, quiz me, and break down material step by step.
+- **L38 — Code with Claude Chat** (4 min) — Using plain chat for coding help — writing, explaining and debugging snippets without needing a full dev setup.
+- **L39 — Write with Claude Chat** (6 min) — Writing workflows in chat: drafting, tightening and adapting tone for different audiences.
+- **L40 — Claude for Image generation Vs. Gemini** (4 min) — Compared Claude's approach to visuals against Gemini's image generation and where each one is the better tool.
+- **L67 — Getting Started with Claude Code in the Desktop App (Method 1)** (8 min) — Started Section 6 by getting Claude Code running through the desktop app — the quickest way in, no terminal setup required.
+- **L68 — Claude Code in VS Code: Full Setup + First Workflow (Method 2)** (12 min) — Set up Claude Code inside VS Code and ran a first end-to-end workflow directly in the editor.
+- **L69 — Installation and Setup Guide for Mac and Windows** (1 min) — Short reference lesson with the platform-specific install steps and downloadable setup guide.
+- **Course total: 43/158 lessons — Section 3 complete at 13/13, Section 6 at 3/23**
+- Section 3 "Claude Chat Mastery" is done ✅. Skipped ahead past Sections 4 (Excel) and 5 (PowerPoint) for now to get into Claude Code.
+
+**Next up:** L70 — Intro to Claude Code.
+
+---
+
 ## 2026-07-31 (Fri) — Day 11: Prompt engineering, deep research & dashboards
 
 - **L29 — Prompt Engineering Fundamentals Explained** (9 min) — Learned what actually makes a prompt work: giving clear context, a defined role, explicit instructions and a stated output format instead of vague one-liners.
