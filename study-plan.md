@@ -12,12 +12,14 @@ Sections 1–3 are complete ✅. On track for the 2026-08-09 Section 6 milestone
 
 ## Section milestones — "watched by this date"
 
-| By date | Section | Lessons | ~Time |
-|---------|---------|---------|-------|
-| 2026-08-02 | 3 — Claude Chat Mastery *(finish the rest)* | 13 | 1h 25 |
+Recalculated 2026-08-04 from what's actually left. **82 target lessons / 12h 36 remaining.** Dates assume 30 min/day.
+
+| By date | Section | Left | ~Time left |
+|---------|---------|------|------------|
+| ~~2026-08-02~~ | 1–3 — Intro, Cowork/Skills/Plugins, Claude Chat | ✅ done | — |
 | ~~—~~ | ~~4 — Claude in Microsoft Excel~~ | ~~16~~ | *skipped* |
 | ~~—~~ | ~~5 — Claude in PowerPoint~~ | ~~10~~ | *skipped* |
-| 2026-08-09 | 6 — Claude Code Foundations *(biggest section)* | 23 | 3h 35 |
+| 2026-08-09 | 6 — Claude Code Foundations *(biggest section)* | 13 of 23 | 2h 08 |
 | 2026-08-12 | 7 — Claude Code for Building Apps | 9 | 1h 25 |
 | 2026-08-17 | 8 — Claude Code for Building AI Agents | 20 | 2h 22 |
 | 2026-08-20 | 9 + 10 — Build Your Personal AI Agent (intro + architecture) | 12 | 1h 28 |
@@ -26,7 +28,9 @@ Sections 1–3 are complete ✅. On track for the 2026-08-09 Section 6 milestone
 | 2026-08-29 | 13 — Automations: Research Teams, CRM, Meeting Intel, Email Triage | 9 | 1h 46 |
 | 2026-08-31 | 14 — Automations: Expense Wrangler, Content Machine, Weekly Exec → **Course done 🎉** | 6 | 1h 04 |
 
-**Target lessons (excluding skipped 4 & 5): 132 of 158.**
+**Target lessons (excluding skipped 4 & 5): 132 of 158 — 50 done, 82 to go.**
+
+**Reality check:** actual pace since 2026-07-21 is ~26 min/day (6h 30 over 15 days). That's inside the 25–30 target but at the low end — it lands the finish around **2026-09-02** rather than 08-31. Holding 30 min/day keeps the dates above intact.
 
 ---
 
