@@ -6,6 +6,21 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-08-04 (Tue) — Day 13: Claude Code landing pages & the front-end design skill
+
+- **L70 — Intro to Claude Code** (12 min) — Proper introduction to Claude Code: what it is, how the terminal-based agentic loop works, and how it differs from chatting with Claude.
+- **L71 — Project 1. Build Landing Pages with Claude Code - No Skill (Part A)** (16 min) — Built a landing page with Claude Code using plain prompting only, to see what the baseline output looks like before adding any Skill.
+- **L72 — Understanding Claude Skills & Front-end Design Skill** (11 min) — Revisited how Skills work in the Claude Code context and what the front-end design Skill specifically brings to the table.
+- **L73 — Install the front-end design skill** (9 min) — Walked through actually installing the front-end design Skill so Claude Code can pick it up.
+- **L74 — Project 1. Building Landing Pages with Front-end Design Skills (Part B)** (12 min) — Rebuilt the same landing page with the Skill active — noticeably better structure and visual quality for the same prompt.
+- **L75 — Why Agents and Claude folders containing the same skill.md** (3 min) — Cleared up why the same `skill.md` shows up in both the agents and Claude folders, and which location gets used when.
+- **L76 — Practice: Build a Pet Grooming Landing Page with AI** (question, 3 min) — Set up the practice exercise: build a pet grooming landing page end to end on my own.
+- **Course total: 50/158 lessons — Section 6 at 10/23**
+
+**Next up:** L77 — Practice Opportunity Solution - Build a Pet Grooming Landing Page with AI.
+
+---
+
 ## 2026-08-03 (Mon) — Day 12: Finished Claude Chat, jumped into Claude Code
 
 - **L35 — Extract Financial Data from PDF to Excel and PowerPoint** (7 min) — Pulled structured financial figures out of a PDF and had Claude push them straight into a spreadsheet and a deck, skipping the manual retyping step.
