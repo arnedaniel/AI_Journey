@@ -2,7 +2,9 @@
 
 Target pace: **~25–30 min per day** (a few videos daily). Started 2026-07-21.
 
-**Current position (2026-07-31): 28/158 done — in Section 3 (Claude Chat Mastery), 1/13.** Up next: **L29 — Prompt Engineering Fundamentals**.
+**Current position (2026-08-04): 50/158 done (50 of the 132 target lessons) — in Section 6 (Claude Code Foundations), 10/23.** Up next: **L77 — Practice Solution: Pet Grooming Landing Page**.
+
+Sections 1–3 are complete ✅. On track for the 2026-08-09 Section 6 milestone: 13 lessons left, 5 days — about 2–3 a day.
 
 > **Skipping Sections 4 & 5** (Claude in Excel, Claude in PowerPoint) for now — less interested in the Microsoft-tool workflows, more into the Claude Chat & Claude Code chapters. Can always come back to them later. This cuts ~2h 40 of video and moves the finish date up to **end of August**.
 
