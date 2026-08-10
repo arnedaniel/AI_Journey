@@ -6,6 +6,25 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-08-10 (Mon) — Day 15: Slash commands in Claude Code
+
+- **L78 — Claude Slash Commands** (12 min) — Learned what slash commands are in Claude Code: reusable prompt shortcuts stored as markdown files that you invoke with `/name`, and how they differ from Skills.
+- **L79–L81 — Project 2. Create Your slash command in Claude Code, Parts 1–3** (34 min) — Built my own slash command end to end: set up the command file and its instructions, wired in arguments, then tested and refined it until it produced consistent output.
+- **Course total: 55/158 lessons — Section 6 at 15/23**
+
+**Next up:** L82 — Practice Opportunity Question - Create a slash command for your brand.
+
+---
+
+## 2026-08-05 (Wed) — Day 14: Finished the pet grooming landing page project
+
+- **L77 — Practice Opportunity Solution - Build a Pet Grooming Landing Page with AI** (11 min) — Walked through the solution to yesterday's practice exercise, building the pet grooming landing page end to end with the front-end design Skill and comparing it against my own attempt.
+- **Course total: 51/158 lessons — Section 6 at 11/23**
+
+**Next up:** L78 — Claude Slash Commands.
+
+---
+
 ## 2026-08-04 (Tue) — Day 13: Claude Code landing pages & the front-end design skill
 
 - **L70 — Intro to Claude Code** (12 min) — Proper introduction to Claude Code: what it is, how the terminal-based agentic loop works, and how it differs from chatting with Claude.
