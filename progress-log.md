@@ -6,6 +6,27 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-08-16 (Sun) — Day 17: Finished Section 6 with the plugin competitor-assessment project
+
+- **L85–L87 — Project - Claude Plugin and competitor assessment, Parts 1–3** (29 min) — Built a plugin that runs a competitor assessment end to end: scoped what the plugin should analyse and set up its structure, wrote the skills and instructions that drive the research and comparison, then ran it on real competitors and reviewed the output.
+- **L88–L89 — Practice: Competition and Brand Positioning with Plugins** (question + solution, 16 min) — Practised using a plugin to assess competition and map brand positioning on my own, then compared my approach against the walkthrough solution.
+- **Course total: 63/158 lessons — Section 6 complete at 23/23**
+- Section 6 "Claude Code Foundations" is done ✅ — next stop, building actual apps with Claude Code.
+
+**Next up:** L90 — CLAUDE.md Best Practices.
+
+---
+
+## 2026-08-12 (Wed) — Day 16: Finished slash commands, started Claude Code Plugins
+
+- **L82–L83 — Practice Opportunity Question & Solution - Create a slash command for your brand** (14 min) — Built a brand-specific slash command as a practice exercise, then compared my version against the walkthrough solution to see where the instructions could be tighter.
+- **L84 — Claude Code Plugins** (14 min) — Learned what Plugins are in the Claude Code context: bundles that package skills, slash commands and MCP servers together, how to install them from a marketplace, and when a plugin beats a standalone Skill.
+- **Course total: 58/158 lessons — Section 6 at 18/23**
+
+**Next up:** L85 — Project - Claude Plugin and competitor assessment - Part 1.
+
+---
+
 ## 2026-08-10 (Mon) — Day 15: Slash commands in Claude Code
 
 - **L78 — Claude Slash Commands** (12 min) — Learned what slash commands are in Claude Code: reusable prompt shortcuts stored as markdown files that you invoke with `/name`, and how they differ from Skills.
