@@ -6,6 +6,21 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-08-20 (Thu) — Day 19: Built the Calorie Tracker end to end and finished Section 7
+
+- **L93 — Calorie Tracker Phase 1 - Build a basic app first phase** (18 min) — Built the first working version of the Calorie Tracker with Claude Code: basic app scaffolding and UI, getting something running before layering any AI on top.
+- **L94 — Calorie Tracker Project - Phase 2 - Add Gemini AI** (6 min) — Wired the Gemini API into the app so it can actually interpret food input and return calorie estimates instead of relying on manual entry.
+- **L95 — Calorie Tracker Project - Phase 2 - Build API Routes plan** (6 min) — Planned the API routes before writing any of them, having Claude lay out the endpoints and data flow first so the implementation had a spec to follow.
+- **L96 — Calorie Tracker Project - Phase 2 - Build API Routes in action** (8 min) — Executed that plan, letting Claude Code implement the routes and then testing them against the front end.
+- **L97 — Calorie Tracker Project - Phase 3 - Improve with Ralph Loops Plan** (5 min) — Learned the Ralph Loop idea: pointing Claude at the app in a repeated plan-fix-verify cycle so it keeps improving the codebase autonomously, and drafted the plan for it.
+- **L98 — Calorie Tracker Project - Phase 3 - Improve with Ralph Loops Implementation** (11 min) — Ran the loop for real and watched it iterate on the app — catching issues and refining features across passes without me prompting each fix.
+- **Course total: 72/158 lessons — Section 7 complete at 9/9**
+- Section 7 "Claude Code for Building Apps" is done ✅ — next up, building AI agents.
+
+**Next up:** L99 — The AI Agents Revolution and state.
+
+---
+
 ## 2026-08-19 (Wed) — Day 18: Started Section 7 — CLAUDE.md, context management, and the Calorie Tracker project
 
 - **L90 — CLAUDE.md Best Practices** (11 min) — Learned how to write a `CLAUDE.md` that actually helps: keeping project context, conventions and commands documented in one place so Claude Code picks them up automatically instead of being re-told every session.
