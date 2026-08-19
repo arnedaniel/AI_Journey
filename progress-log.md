@@ -6,6 +6,17 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-08-19 (Wed) — Day 18: Started Section 7 — CLAUDE.md, context management, and the Calorie Tracker project
+
+- **L90 — CLAUDE.md Best Practices** (11 min) — Learned how to write a `CLAUDE.md` that actually helps: keeping project context, conventions and commands documented in one place so Claude Code picks them up automatically instead of being re-told every session.
+- **L91 — Context Window Management in Claude Code** (10 min) — Practical techniques for keeping the context window under control on longer sessions — being deliberate about what gets loaded, compacting or clearing when it fills up, and structuring work so Claude doesn't lose the thread.
+- **L92 — Calorie Tracker Phase 1 - Setup Gemini Key** (9 min) — Kicked off the Calorie Tracker build project by setting up a Gemini API key and wiring it into the project's environment config, ready for the AI features in later phases.
+- **Course total: 66/158 lessons — Section 7 at 3/9**
+
+**Next up:** L93 — Calorie Tracker Phase 1 - Build a basic app first phase.
+
+---
+
 ## 2026-08-16 (Sun) — Day 17: Finished Section 6 with the plugin competitor-assessment project
 
 - **L85–L87 — Project - Claude Plugin and competitor assessment, Parts 1–3** (29 min) — Built a plugin that runs a competitor assessment end to end: scoped what the plugin should analyse and set up its structure, wrote the skills and instructions that drive the research and comparison, then ran it on real competitors and reviewed the output.
