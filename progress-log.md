@@ -6,7 +6,7 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
-## 2026-08-20 (Thu) — Day 19: Built the Calorie Tracker end to end and finished Section 7
+## 2026-08-20 (Thu) — Day 19: Finished Section 7's Calorie Tracker and opened Section 8 on AI agents
 
 - **L93 — Calorie Tracker Phase 1 - Build a basic app first phase** (18 min) — Built the first working version of the Calorie Tracker with Claude Code: basic app scaffolding and UI, getting something running before layering any AI on top.
 - **L94 — Calorie Tracker Project - Phase 2 - Add Gemini AI** (6 min) — Wired the Gemini API into the app so it can actually interpret food input and return calorie estimates instead of relying on manual entry.
@@ -14,10 +14,17 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 - **L96 — Calorie Tracker Project - Phase 2 - Build API Routes in action** (8 min) — Executed that plan, letting Claude Code implement the routes and then testing them against the front end.
 - **L97 — Calorie Tracker Project - Phase 3 - Improve with Ralph Loops Plan** (5 min) — Learned the Ralph Loop idea: pointing Claude at the app in a repeated plan-fix-verify cycle so it keeps improving the codebase autonomously, and drafted the plan for it.
 - **L98 — Calorie Tracker Project - Phase 3 - Improve with Ralph Loops Implementation** (11 min) — Ran the loop for real and watched it iterate on the app — catching issues and refining features across passes without me prompting each fix.
-- **Course total: 72/158 lessons — Section 7 complete at 9/9**
-- Section 7 "Claude Code for Building Apps" is done ✅ — next up, building AI agents.
+- **L99 — The AI Agents Revolution and state** (8 min) — Opened Section 8 with why agents are the next step past one-shot prompting: they hold state across turns, so they can pursue a goal over many steps instead of answering once and forgetting.
+- **L100 — AI Agents 101** (4 min) — The basic anatomy of an agent — a model plus tools, memory and a loop — and what actually separates one from a plain chatbot.
+- **L101 — AI Agents Walkthrough in Action** (10 min) — Watched an agent run end to end: reasoning about the goal, choosing tools, reading results and adjusting on the next pass.
+- **L102 — MCP 101** (5 min) — Refresher on the Model Context Protocol as the standard plug for connecting a model to external tools and data, and why it matters once agents need real capabilities.
+- **L103 — AI Agentic Frameworks** (3 min) — Quick survey of the agent framework landscape and when reaching for a framework beats wiring the loop yourself.
+- **L104 — OpenAI Agents SDK 101** (5 min) — Introduction to the OpenAI Agents SDK: how it models agents, tools and handoffs, and what it handles so you don't have to write the orchestration loop.
+- **L105 — Define and Run an AI Agent Using OpenAI Agents SDK** (5 min) — First hands-on with the SDK: defined an agent with its instructions and tools, then ran it and traced what it did.
+- **Course total: 79/158 lessons — Section 7 complete at 9/9, Section 8 at 7/20**
+- Section 7 "Claude Code for Building Apps" is done ✅ — and Section 8 on AI agents is underway.
 
-**Next up:** L99 — The AI Agents Revolution and state.
+**Next up:** L106 — Build a Personal Finance AI Agents with Memory - Overview.
 
 ---
 
