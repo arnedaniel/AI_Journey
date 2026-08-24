@@ -2,6 +2,10 @@
 
 > Documenting my path into AI — one project at a time.
 
+![Focus](https://img.shields.io/badge/focus-AI%20in%20practice-blue)
+![Projects](https://img.shields.io/badge/projects-2%20active-brightgreen)
+![Since](https://img.shields.io/badge/since-July%202026-lightgrey)
+
 This repository is my personal log. Whenever I pick up something new — a tool, a course, a certification, an idea worth building — it gets a folder here and a dated record of how it actually went.
 
 I started with Claude, because that is where the door opened. Where it goes next depends on what turns out to be worth learning.
