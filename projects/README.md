@@ -13,7 +13,7 @@ My experiments and builds. Each project gets its own folder here, with the same 
 | Project | What | Status |
 |---------|------|--------|
 | [🤖 Claude/](Claude/) | Udemy Masterclass on Claude Code & Cowork | 🔄 Section 8 |
-| [☁️ AWS/](AWS/) | AWS Certified AI Practitioner (AIF-C01) | ✅ Cloud 101 passed |
+| [☁️ AWS/](AWS/) | AWS Certified AI Practitioner (AIF-C01) | 🔄 Cloud 101 passed |
 
 New entries are written by scheduled runs, one per project.
 

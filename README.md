@@ -1,24 +1,27 @@
 # AI_Journey
 
-> Documenting my path into AI: from learning Claude Chat, Cowork & Code to creating my own projects.
+> Documenting my path into AI — one project at a time.
 
-This repository is my personal log — a place to track what I learn, what I build, and how I grow along the way.
+This repository is my personal log. Whenever I pick up something new — a tool, a course, a certification, an idea worth building — it gets a folder here and a dated record of how it actually went.
+
+I started with Claude, because that is where the door opened. Where it goes next depends on what turns out to be worth learning.
 
 ## Goals
 
-- Learn the tools: **Claude Chat**, **Cowork**, and **Code**
-- Understand how AI works in practice, not just in theory
-- Document my progress honestly, step by step
-- Eventually move from *learning* to *building my own projects*
+- **Understand how AI works in practice**, not just in theory
+- **Learn the tools hands-on** — one at a time, whichever ones turn out to matter
+- **Earn the credentials** that open doors
+- **Document honestly**, including the parts that did not work
+- **Move from learning to building** things of my own
 
 ## Projects
 
 | Project | What | Status |
 |---------|------|--------|
-| [🤖 Claude Masterclass](projects/Claude/) | Udemy course on Claude Code & Cowork — 158 lessons | 🔄 Section 8 |
-| [☁️ AWS AI Practitioner](projects/AWS/) | Working toward the AIF-C01 certification | ✅ Cloud 101 passed |
+| [🤖 Claude Masterclass](projects/Claude/) | Learning Claude Code & Cowork through a 158-lesson course | 🔄 Section 8 of 14 |
+| [☁️ AWS AI Practitioner](projects/AWS/) | Certification path toward AWS Certified AI Practitioner (AIF-C01) | 🔄 Cloud 101 passed |
 
-Each project is self-contained: its own `README.md`, `study-plan.md` and `progress.md`.
+Each project is self-contained: its own `README.md`, `study-plan.md` and `progress.md`. This list is meant to grow — new projects get added as I find them.
 
 ## Structure
 
@@ -31,7 +34,7 @@ AI_Journey/
 
 ## How to follow along
 
-Open any project folder and read its `progress.md`. Every entry is dated, newest first, so you can see how things develop over time.
+Open any project folder and read its `progress.md`. Every entry is dated, newest first, so you can see how things develop over time — and how the pace really looks, not how I wish it looked.
 
 ---
 
