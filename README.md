@@ -22,8 +22,8 @@ I started with Claude, because that is where the door opened. Where it goes next
 
 | Project | What | Status |
 |---------|------|--------|
-| [🤖 Claude Masterclass](projects/Claude/) | Learning Claude Code & Cowork through a 158-lesson course | 🔄 Section 8 of 14 |
-| [☁️ AWS AI Practitioner](projects/AWS/) | Certification path toward AWS Certified AI Practitioner (AIF-C01) | 🔄 Cloud 101 passed |
+| [🤖 Claude Masterclass](projects/Claude-Masterclass/) | Learning Claude Code & Cowork through a 158-lesson course | 🔄 Section 8 of 14 |
+| [☁️ AWS AI Practitioner](projects/AWS-AI-Practitioner/) | Certification path toward AWS Certified AI Practitioner (AIF-C01) | 🔄 Cloud 101 passed |
 
 Each project is self-contained: its own `README.md`, `study-plan.md` and `progress.md`. This list is meant to grow — new projects get added as I find them.
 
