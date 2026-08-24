@@ -1,31 +1,33 @@
 # AWS Certified AI Practitioner (AIF-C01)
 
-> My road to the AWS AI Practitioner certification, via the AWS Educate free-voucher path — part of my [AI Journey](../../README.md).
+> My road to the AWS AI Practitioner certification, taken through AWS Educate — part of my [AI Journey](../../README.md).
+
+**Goal:** earn the certification — ideally free, as a student, via the AWS Educate voucher path.
+
+<br>
+
+### Where this stands
 
 <!-- STATUS:START -->
-```
-Progress  ████████░░░░░░░░░░░░   2 / 5 steps
-Stage     Cloud 101 passed, 73.3% first try — badge claimed
-Blocked   Waiting for the Emerging Talent Community to unlock (up to 72h)
-Next      Earn points toward an exam voucher
-```
+**2 of 5 steps done**<br>
+**Cloud 101 passed** — 73.3 % on the first try, badge claimed<br>
+**Waiting** — the Emerging Talent Community can take up to 72 hours to unlock<br>
+**Next up** — earn points toward an exam voucher
 <!-- STATUS:END -->
 
-**Goal:** Earn the AWS Certified AI Practitioner (AIF-C01) certification — ideally free, as a student.
+<br>
 
-## Roadmap
+### The road
 
-| Step | What | Status |
-|:----:|------|:------:|
-| **A** | Create AWS Educate account | ✅ Done |
-| **B** | Complete *Cloud 101* + assessment → earn badge | ✅ Done |
-| **C** | Unlock & onboard the Emerging Talent Community | 🔄 Waiting |
-| **D** | Earn points → redeem exam voucher | ⬜ To do |
-| **E** | Book & pass the AIF-C01 exam 🎓 | ⬜ To do |
+✓ &nbsp;**A** — Create an AWS Educate account<br>
+✓ &nbsp;**B** — Complete *Cloud 101* and its assessment, earn the badge<br>
+▸ &nbsp;**C** — Unlock and onboard the Emerging Talent Community &nbsp;*— here now*<br>
+· &nbsp;**D** — Earn points, redeem an exam voucher<br>
+· &nbsp;**E** — Book and pass the AIF-C01 exam
 
-## Files
+<br>
 
-| File | What it holds |
-|------|---------------|
-| [`progress.md`](./progress.md) | Dated entries — what I studied and what stuck |
-| [`study-plan.md`](./study-plan.md) | The four-week plan and what each week covers |
+### The files here
+
+[`progress.md`](./progress.md) — dated entries: what I studied and what stuck<br>
+[`study-plan.md`](./study-plan.md) — the four-week plan and what each week covers
