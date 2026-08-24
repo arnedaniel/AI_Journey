@@ -32,7 +32,7 @@ This list is meant to grow. New projects get added as I find them.
 
 ### 🏁 Milestones
 
-| | |
+| When | What happened |
 |:--|:--|
 | **24 Aug 2026** | Passed AWS Cloud 101 on the first try — 73.3 % |
 | **20 Aug 2026** | Finished Section 7: a calorie tracker app built end to end with Claude Code |
