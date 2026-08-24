@@ -18,11 +18,14 @@ I started with Claude, because that is where the door opened. Where it goes next
 
 ## 🛠️ What I'm learning
 
-<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-in%20progress-D9822B?style=for-the-badge&logo=anthropic&logoColor=white">
-<img alt="Cowork" src="https://img.shields.io/badge/Cowork-in%20progress-D9822B?style=for-the-badge&logo=anthropic&logoColor=white">
-<img alt="AWS Cloud" src="https://img.shields.io/badge/AWS%20Cloud-certified%20101-2C974B?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-<img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-section%208-1F6FEB?style=for-the-badge">
-<img alt="Git" src="https://img.shields.io/badge/Git-daily-2C974B?style=for-the-badge&logo=git&logoColor=white">
+<p>
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-in%20progress-D9822B?style=for-the-badge">
+  <img alt="Cowork" src="https://img.shields.io/badge/Cowork-in%20progress-D9822B?style=for-the-badge">
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-section%208-1F6FEB?style=for-the-badge">
+  <img alt="AWS Cloud" src="https://img.shields.io/badge/AWS%20Cloud-certified%20101-2C974B?style=for-the-badge">
+  <img alt="Git" src="https://img.shields.io/badge/Git-daily-2C974B?style=for-the-badge">
+  <img alt="Python" src="https://img.shields.io/badge/Python-next%20up-6E7781?style=for-the-badge">
+</p>
 
 Each badge says where I actually stand, not which logos I recognise.
 
