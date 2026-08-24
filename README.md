@@ -11,19 +11,27 @@ This repository is my personal log — a place to track what I learn, what I bui
 - Document my progress honestly, step by step
 - Eventually move from *learning* to *building my own projects*
 
+## Projects
+
+| Project | What | Status |
+|---------|------|--------|
+| [🤖 Claude Masterclass](projects/Claude/) | Udemy course on Claude Code & Cowork — 158 lessons | 🔄 Section 8 |
+| [☁️ AWS AI Practitioner](projects/AWS/) | Working toward the AIF-C01 certification | ✅ Cloud 101 passed |
+
+Each project is self-contained: its own `README.md`, `study-plan.md` and `progress.md`.
+
 ## Structure
 
 ```
 AI_Journey/
-├── README.md         ← you are here
-├── progress-log.md   ← dated entries of what I learned
-├── projects/         ← my experiments and builds
-└── notes/            ← concepts, resources, ideas
+├── README.md      ← you are here
+├── projects/      ← one folder per project, each with its own log
+└── notes/         ← concepts, resources, ideas
 ```
 
 ## How to follow along
 
-Check [`progress-log.md`](progress-log.md) for the latest updates. Every entry is dated, so you can see how things develop over time.
+Open any project folder and read its `progress.md`. Every entry is dated, newest first, so you can see how things develop over time.
 
 ---
 

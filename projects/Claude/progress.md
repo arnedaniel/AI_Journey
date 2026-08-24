@@ -6,6 +6,15 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-08-24 (Mon) — Day 20: Kicked off the Personal Finance AI agent project
+
+- **L106 — Build a Personal Finance AI Agents with Memory - Overview** (4 min) — Set up the next project: a personal finance agent that keeps memory across turns, with an overview of what it will do and why memory changes the behaviour compared to a stateless agent.
+- **Course total: 80/158 lessons — Section 8 at 8/20**
+
+**Next up:** L107 — Build a Personal Finance AI Agents with No Memory - Code Walkthrough.
+
+---
+
 ## 2026-08-20 (Thu) — Day 19: Finished Section 7's Calorie Tracker and opened Section 8 on AI agents
 
 - **L93 — Calorie Tracker Phase 1 - Build a basic app first phase** (18 min) — Built the first working version of the Calorie Tracker with Claude Code: basic app scaffolding and UI, getting something running before layering any AI on top.
