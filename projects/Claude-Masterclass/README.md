@@ -1,11 +1,14 @@
-# 🤖 Claude Code & Cowork Masterclass
+# Claude Code & Cowork Masterclass
 
-Working through the Udemy course **"The Complete Claude Code & Claude Cowork Masterclass [2026]"** by Prof. Ryan Ahmed — part of my [AI Journey](../../README.md).
+> Working through **"The Complete Claude Code & Claude Cowork Masterclass [2026]"** by Prof. Ryan Ahmed — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-![Status](https://img.shields.io/badge/status-in%20progress-blue)
-![Lessons](https://img.shields.io/badge/lessons-80%2F158-brightgreen)
-![Section](https://img.shields.io/badge/current-Section%208%20%288%2F20%29-orange)
+```
+Lessons   ██████████░░░░░░░░░░   80 / 158   ·   80 of 132 target lessons
+Section   8 of 14 — Claude Code for Building AI Agents
+Pace      ~19 min/day against a 30 min target
+Next      L107 — Personal Finance AI Agents with No Memory
+```
 <!-- STATUS:END -->
 
 **Goal:** Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build real things with them, not just watch someone else do it.
@@ -23,8 +26,11 @@ Working through the Udemy course **"The Complete Claude Code & Claude Cowork Mas
 | **9–11** | Build & Set Up Your Personal AI Agent | ⬜ To do |
 | **12–14** | Automations: Sprint Tracker, CRM, Email Triage, and more | ⬜ To do |
 
-> Sections 4 & 5 are skipped for now — less interested in the Microsoft-tool workflows,
-> more into the Claude Chat & Claude Code chapters. Can always come back to them later.
-> **Target lessons: 132 of 158.**
+Sections 4 & 5 are skipped for now — less interested in the Microsoft-tool workflows, more into the Claude Chat & Claude Code chapters. Can always come back to them later. That leaves **132 target lessons of 158**.
 
-📈 Progress: [`progress.md`](./progress.md) &nbsp;·&nbsp; 📘 Study plan: [`study-plan.md`](./study-plan.md)
+## Files
+
+| File | What it holds |
+|------|---------------|
+| [`progress.md`](./progress.md) | Dated entries — what I watched and what I took from it |
+| [`study-plan.md`](./study-plan.md) | Milestones, remaining time, and whether I am actually on schedule |
