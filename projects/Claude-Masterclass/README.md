@@ -5,7 +5,7 @@
 Working through *"The Complete Claude Code & Claude Cowork Masterclass [2026]"* by Prof. Ryan Ahmed — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🔵 &nbsp;Section 8 of 14 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;80 of 158 lessons &nbsp;&nbsp;&nbsp; ⚪ &nbsp;~19 min/day
+🔵 &nbsp;Section 8 of 14 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;84 of 158 lessons &nbsp;&nbsp;&nbsp; ⚪ &nbsp;~19 min/day
 <!-- STATUS:END -->
 
 ---
@@ -17,10 +17,10 @@ Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build 
 ### 🟥 &nbsp;Where this stands
 
 <!-- STATE:START -->
-**80 of 158 lessons** — 80 of the 132 I actually plan to watch<br>
+**84 of 158 lessons** — 84 of the 132 I actually plan to watch<br>
 **Section 8 of 14** — Claude Code for Building AI Agents<br>
 **About 19 minutes a day**, against a 30-minute target<br>
-**Next up** — L107, Personal Finance AI Agents with No Memory
+**Next up** — L111, Automate AI Agent Building with Claude Code & OpenAI SDK - Part 3
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;Sections

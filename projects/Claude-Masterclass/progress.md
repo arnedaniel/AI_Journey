@@ -6,6 +6,18 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-08-26 (Wed) — Day 21: Memory vs. no memory, and letting Claude Code build the agent
+
+- **L107 — Build a Personal Finance AI Agents with No Memory - Code Walkthrough** (11 min) — Walked through the stateless version of the finance agent line by line: every turn starts from nothing, so the agent re-asks for context it was already given and can't build on earlier answers.
+- **L108 — Build a Personal Finance AI Agents with Memory - Code Walkthrough** (3 min) — The same agent with memory added, so prior turns are carried into the next call — a small code change that visibly changes how coherent the conversation feels.
+- **L109 — Automate AI Agent Building with Claude Code & OpenAI SDK - Part 1** (11 min) — Started using Claude Code as the thing that *writes* the agent: scaffolding an OpenAI Agents SDK project from a spec instead of hand-writing the boilerplate.
+- **L110 — Automate AI Agent Building with Claude Code & OpenAI SDK - Part 2** (9 min) — Continued the build, having Claude Code fill in the agent's tools and instructions and then iterate on what it produced rather than accepting the first pass.
+- **Course total: 84/158 lessons — Section 8 at 12/20**
+
+**Next up:** L111 — Automate AI Agent Building with Claude Code & OpenAI SDK - Part 3.
+
+---
+
 ## 2026-08-24 (Mon) — Day 20: Kicked off the Personal Finance AI agent project
 
 - **L106 — Build a Personal Finance AI Agents with Memory - Overview** (4 min) — Set up the next project: a personal finance agent that keeps memory across turns, with an overview of what it will do and why memory changes the behaviour compared to a stateless agent.
