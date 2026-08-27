@@ -6,6 +6,25 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-08-27 (Thu) — Day 22: Finished Section 8 with a team of agents, and started building a personal AI agent
+
+- **L111 — Automate AI Agent Building with Claude Code & OpenAI SDK - Part 3** (10 min) — Kept refining the generated agent with Claude Code, tightening the instructions and tool definitions instead of rewriting the project by hand.
+- **L112 — Automate AI Agent Building with Claude Code & OpenAI SDK - Part 4** (8 min) — Finished the automated build: ran the agent end to end, fixed what broke, and saw how much of the scaffolding never needed to be written manually.
+- **L113 — Build a Team of AI Agents** (8 min) — The case for multiple specialised agents over one do-everything agent: each gets a narrow role, and a coordinator hands work between them.
+- **L114 — Build a Team of AI Agents using OpenAI Agents SDK - Part 1** (10 min) — Started the multi-agent build by defining the individual agents and what each one is actually responsible for.
+- **L115 — Build a Team of AI Agents using OpenAI Agents SDK - Part 2** (7 min) — Wired up handoffs so one agent can pass a task to another, which is what turns separate agents into a team.
+- **L116 — Build a Team of AI Agents using OpenAI Agents SDK - Part 3** (7 min) — Gave the agents their tools and worked through how the SDK decides which agent takes the next step.
+- **L117 — Build a Team of AI Agents using OpenAI Agents SDK - Part 4** (8 min) — Ran the team on a real task and traced the execution to see where control moved between agents.
+- **L118 — Build a Team of AI Agents using OpenAI Agents SDK - Part 5** (7 min) — Closed out the project by tidying the orchestration and reviewing what the team handled well versus where a single agent would have been enough.
+- **L119–L120 — Welcome to Building Your Personal AI Agent + course materials** (2 min) — Opened the personal-AI-agent block and pulled down the project materials for it.
+- **L121 — The Rise of Autonomous Personal AI Agents (OpenClaw, Hermes, & Claude Code)** (9 min) — Context for where personal agents are heading: always-on assistants that hold your own files and history, and how Claude Code fits that shape.
+- **Course total: 95/158 lessons — Section 8 complete at 20/20, Section 9 complete at 1/1, Section 10 at 2/11**
+- Section 8 "Claude Code for Building AI Agents" is done ✅ — the last big block. Everything from here is the personal-agent build.
+
+**Next up:** L122 — Building Personal AI Agent Architecture (Deep Dive).
+
+---
+
 ## 2026-08-26 (Wed) — Day 21: Memory vs. no memory, and letting Claude Code build the agent
 
 - **L107 — Build a Personal Finance AI Agents with No Memory - Code Walkthrough** (11 min) — Walked through the stateless version of the finance agent line by line: every turn starts from nothing, so the agent re-asks for context it was already given and can't build on earlier answers.

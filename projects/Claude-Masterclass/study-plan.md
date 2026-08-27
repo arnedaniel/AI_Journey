@@ -2,9 +2,9 @@
 
 Target pace: **~25–30 min per day** (a few videos daily). Started 2026-07-21.
 
-**Current position (2026-08-24): 80/158 done (80 of the 132 target lessons) — Section 8 at 8/20.** Up next: **L107 — Build a Personal Finance AI Agents with No Memory - Code Walkthrough.**
+**Current position (2026-08-27): 95/158 done (95 of the 132 target lessons) — Section 8 finished at 20/20, Section 10 at 2/11.** Up next: **L122 — Building Personal AI Agent Architecture (Deep Dive).**
 
-Sections 1–3, 6 and 7 are complete ✅. The two biggest sections are behind me — everything left is 20 lessons or fewer per section.
+Sections 1–3, 6, 7, 8 and 9 are complete ✅. Every big section is behind me — everything left is 11 lessons or fewer per section.
 
 > **Skipping Sections 4 & 5** (Claude in Excel, Claude in PowerPoint) for now — less interested in the Microsoft-tool workflows, more into the Claude Chat & Claude Code chapters. Can always come back to them later.
 
@@ -12,7 +12,7 @@ Sections 1–3, 6 and 7 are complete ✅. The two biggest sections are behind me
 
 ## Section milestones — "watched by this date"
 
-Recalculated 2026-08-24 from what's actually left. **52 target lessons / 8h 19 remaining.** Dates assume 30 min/day starting 2026-08-25.
+Recalculated 2026-08-27 from what's actually left. **37 target lessons / 6h 30 remaining.** Dates assume 30 min/day starting 2026-08-28.
 
 | By date | Section | Left | ~Time left |
 |---------|---------|------|------------|
@@ -21,16 +21,16 @@ Recalculated 2026-08-24 from what's actually left. **52 target lessons / 8h 19 r
 | ~~—~~ | ~~5 — Claude in PowerPoint~~ | ~~10~~ | *skipped* |
 | ~~2026-08-16~~ | 6 — Claude Code Foundations *(biggest section)* | ✅ done | — |
 | ~~2026-08-20~~ | 7 — Claude Code for Building Apps | ✅ done | — |
-| 2026-08-28 | 8 — Claude Code for Building AI Agents | 12 | 1h 38 |
-| 2026-08-31 | 9 + 10 — Build Your Personal AI Agent (intro + architecture) | 12 | 1h 28 |
+| ~~2026-08-28~~ | 8 — Claude Code for Building AI Agents | ✅ done | — |
+| 2026-08-30 | 9 + 10 — Build Your Personal AI Agent (intro + architecture) | 9 | 1h 17 |
 | 2026-09-01 | 11 — Setup Your Personal AI Agent | 5 | 52 min |
 | 2026-09-04 | 12 — Automations: Sprint Tracker, Market Pulse, Morning Brief | 8 | 1h 31 |
-| 2026-09-08 | 13 — Automations: Research Teams, CRM, Meeting Intel, Email Triage | 9 | 1h 46 |
-| 2026-09-10 | 14 — Automations: Expense Wrangler, Content Machine, Weekly Exec → **Course done 🎉** | 6 | 1h 04 |
+| 2026-09-07 | 13 — Automations: Research Teams, CRM, Meeting Intel, Email Triage | 9 | 1h 46 |
+| 2026-09-09 | 14 — Automations: Expense Wrangler, Content Machine, Weekly Exec → **Course done 🎉** | 6 | 1h 04 |
 
-**Target lessons (excluding skipped 4 & 5): 132 of 158 — 80 done, 52 to go.**
+**Target lessons (excluding skipped 4 & 5): 132 of 158 — 95 done, 37 to go.**
 
-**Reality check:** 10h 46 of video watched over the 34 days since 2026-07-21 — that's **~19 min/day**, still below the 25–30 min target. Section 8 is the last big block; 8 of its 20 lessons are done and the remaining 12 are short ones. At the actual ~19 min/day pace the finish lands around **2026-09-20**; holding a real 30 min/day pulls it to **2026-09-10** and keeps the table above intact. After Section 8 every remaining section fits in roughly three sittings.
+**Reality check:** 12h 36 of video watched over the 37 days since 2026-07-21 — that's **~20 min/day**, still below the 25–30 min target but creeping up. Section 8 landed a day ahead of its 2026-08-28 marker, on the back of a single long sitting that cleared eleven lessons. Section 9 went with it, so the personal-agent build is already underway. At the actual ~20 min/day pace the finish lands around **2026-09-15**; holding a real 30 min/day pulls it to **2026-09-09** and keeps the table above intact. Every remaining section now fits in roughly two or three sittings.
 
 ---
 

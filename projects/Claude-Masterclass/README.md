@@ -5,7 +5,7 @@
 Working through *"The Complete Claude Code & Claude Cowork Masterclass [2026]"* by Prof. Ryan Ahmed — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🔵 &nbsp;Section 8 of 14 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;84 of 158 lessons &nbsp;&nbsp;&nbsp; ⚪ &nbsp;~19 min/day
+🔵 &nbsp;Section 10 of 14 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;95 of 158 lessons &nbsp;&nbsp;&nbsp; ⚪ &nbsp;~20 min/day
 <!-- STATUS:END -->
 
 ---
@@ -17,10 +17,10 @@ Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build 
 ### 🟥 &nbsp;Where this stands
 
 <!-- STATE:START -->
-**84 of 158 lessons** — 84 of the 132 I actually plan to watch<br>
-**Section 8 of 14** — Claude Code for Building AI Agents<br>
-**About 19 minutes a day**, against a 30-minute target<br>
-**Next up** — L111, Automate AI Agent Building with Claude Code & OpenAI SDK - Part 3
+**95 of 158 lessons** — 95 of the 132 I actually plan to watch<br>
+**Section 10 of 14** — Your Personal AI Agent Architecture in Claude Code & Cowork<br>
+**About 20 minutes a day**, against a 30-minute target<br>
+**Next up** — L122, Building Personal AI Agent Architecture (Deep Dive)
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;Sections
@@ -28,8 +28,8 @@ Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build 
 ✓ &nbsp;**1–3** — Intro, Cowork, Skills and Plugins, Claude Chat Mastery<br>
 ✓ &nbsp;**6** — Claude Code Foundations, the biggest chapter<br>
 ✓ &nbsp;**7** — Claude Code for Building Apps<br>
-▸ &nbsp;**8** — Claude Code for Building AI Agents &nbsp;— *here now*<br>
-· &nbsp;**9–11** — Build and set up a personal AI agent<br>
+✓ &nbsp;**8** — Claude Code for Building AI Agents<br>
+▸ &nbsp;**9–11** — Build and set up a personal AI agent &nbsp;— *here now*<br>
 · &nbsp;**12–14** — Automations: sprint tracker, CRM, email triage and more<br>
 ✗ &nbsp;**4–5** — Claude in Excel and PowerPoint &nbsp;— *skipped on purpose*
 
