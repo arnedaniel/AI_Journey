@@ -6,6 +6,25 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-08-28 (Fri) — Day 23: Finished the agent architecture section — vault, SOUL.md, CLAUDE.md and slash commands
+
+- **L122 — Building Personal AI Agent Architecture (Deep Dive)** (8 min) — The full shape of a personal agent: a plain-file knowledge vault the agent reads, an instruction layer that tells it how to behave, and the tools it reaches for — kept separate so each part can change on its own.
+- **L123 — The Karpathy Wiki Pattern** (9 min) — Writing your own knowledge as a linked wiki of small markdown notes rather than one long document, so the agent can pull in only the notes a task actually needs.
+- **L124 — Obsidian** (7 min) — Obsidian as the human front end to that vault: the same folder of markdown files the agent reads, but with backlinks and a graph view so I can see how notes connect.
+- **L125 — Personal AI Agent Folder Structure** (13 min) — Laid out the actual directory tree — where notes, brand assets, commands and agent instructions live — and why a predictable structure is what makes the agent findable-by-convention instead of needing to be told every path.
+- **L126 — What's inside the Vault?** (9 min) — Walked through the vault's contents: personal context, goals, projects and reference material, and which of it is worth writing down for an agent versus keeping in your head.
+- **L127 — Give your personal AI Agent a Personality Using SOUL.md** (5 min) — SOUL.md holds the agent's voice and values — tone, priorities, what it should push back on — kept apart from the operational instructions so personality edits don't disturb the workflow.
+- **L128 — Setting Up the Agent Playbook via CLAUDE.md** (15 min) — CLAUDE.md as the playbook: standing rules, conventions and how-we-do-things here, loaded every session so the agent starts with the context instead of being re-briefed each time.
+- **L129 — Setup Your Brand Folder (Logo, Slide Template, & Brand Colors)** (5 min) — Put logo, slide template and colour values in a fixed brand folder so anything the agent generates comes out on-brand without being told the hex codes again.
+- **L130 — Pre-defined Slash Commands in Claude Code & Cowork** (7 min) — Turning repeated prompts into named slash commands, which is how a workflow stops being something you retype and becomes something you invoke.
+- **L131 — Overview of the Personal AI Agent Setup Process** (8 min) — Opened Section 11 with the run-through of the setup ahead: feed in personal material, connect the tools, then walk the finished vault.
+- **Course total: 105/158 lessons — Section 10 complete at 11/11, Section 11 at 1/5**
+- Section 10 "Your Personal AI Agent Architecture" is done ✅ — the design is settled, so the next block is actually building the thing.
+
+**Next up:** L132 — Personal AI Agent Setup Part 1: Share Your Social Media, CV, Goals, & Writeups.
+
+---
+
 ## 2026-08-27 (Thu) — Day 22: Finished Section 8 with a team of agents, and started building a personal AI agent
 
 - **L111 — Automate AI Agent Building with Claude Code & OpenAI SDK - Part 3** (10 min) — Kept refining the generated agent with Claude Code, tightening the instructions and tool definitions instead of rewriting the project by hand.
