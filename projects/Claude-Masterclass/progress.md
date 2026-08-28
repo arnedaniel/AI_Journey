@@ -6,7 +6,7 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
-## 2026-08-28 (Fri) — Day 23: Finished the agent architecture section — vault, SOUL.md, CLAUDE.md and slash commands
+## 2026-08-28 (Fri) — Day 23: Designed the agent, then actually built it — vault, SOUL.md, CLAUDE.md, and the real setup
 
 - **L122 — Building Personal AI Agent Architecture (Deep Dive)** (8 min) — The full shape of a personal agent: a plain-file knowledge vault the agent reads, an instruction layer that tells it how to behave, and the tools it reaches for — kept separate so each part can change on its own.
 - **L123 — The Karpathy Wiki Pattern** (9 min) — Writing your own knowledge as a linked wiki of small markdown notes rather than one long document, so the agent can pull in only the notes a task actually needs.
@@ -18,10 +18,16 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 - **L129 — Setup Your Brand Folder (Logo, Slide Template, & Brand Colors)** (5 min) — Put logo, slide template and colour values in a fixed brand folder so anything the agent generates comes out on-brand without being told the hex codes again.
 - **L130 — Pre-defined Slash Commands in Claude Code & Cowork** (7 min) — Turning repeated prompts into named slash commands, which is how a workflow stops being something you retype and becomes something you invoke.
 - **L131 — Overview of the Personal AI Agent Setup Process** (8 min) — Opened Section 11 with the run-through of the setup ahead: feed in personal material, connect the tools, then walk the finished vault.
-- **Course total: 105/158 lessons — Section 10 complete at 11/11, Section 11 at 1/5**
+- **L132 — Personal AI Agent Setup Part 1: Share Your Social Media, CV, Goals, & Writeups** (9 min) — Started filling the vault with my own material — CV, goals, past writing — because an agent that knows nothing about me can only give generic answers.
+- **L133 — Personal AI Agent Setup Part 2: Connect Notion, Gmail, & Calendar & Brand Setup** (17 min) — Wired the agent to the places my life actually lives: Notion, Gmail and Calendar via MCP, plus the brand folder so its output comes out looking like mine.
+- **L134 — Personal AI Agent Setup Part 3: Vault Walkthrough** (8 min) — Walked the finished vault end to end and saw how the pieces from Section 10 land as real folders and files rather than a diagram.
+- **L135 — Personal AI Agent Setup Part 4: Visualize Vault in Obsidian** (10 min) — Opened the same vault in Obsidian and used the graph view to spot which notes are well connected and which are sitting there orphaned.
+- **L136 — Overview of the 10 Automation Blueprints you'll Build!** (13 min) — Preview of the ten automations ahead — sprint tracker, morning brief, market pulse, CRM, email triage and the rest — and how each one reuses the same vault-plus-commands setup.
+- **Course total: 110/158 lessons — Section 10 complete at 11/11, Section 11 complete at 5/5, Section 12 at 1/8**
 - Section 10 "Your Personal AI Agent Architecture" is done ✅ — the design is settled, so the next block is actually building the thing.
+- Section 11 "Setup Your Personal AI Agent" is done ✅ too — the agent exists now, connected to Notion, Gmail and Calendar. From here it's purely automations.
 
-**Next up:** L132 — Personal AI Agent Setup Part 1: Share Your Social Media, CV, Goals, & Writeups.
+**Next up:** L137 — Build Sprint Tracker Automation - Part 1.
 
 ---
 
