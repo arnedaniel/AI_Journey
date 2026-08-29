@@ -6,6 +6,31 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-08-29 (Sat) — Day 24: Closed out the automations' first section, then opened research-team agents
+
+- **L137 — Build Sprint Tracker Automation - Part 1** (11 min) — Started the first automation blueprint: wiring an agent to read project-management data and turn it into a running sprint status, using the vault-plus-commands setup from Section 11.
+- **L138 — Build Sprint Tracker Automation - Part 2** (12 min) — Finished the sprint tracker by adding output formatting and a schedule, closing the loop from raw task data to a readable status update.
+- **L139 — Build Morning Brief Automation** (12 min) — Built a morning-brief automation that pulls calendar, email and task context into a single daily digest.
+- **L140 — Test Morning Brief Automation** (10 min) — Ran the morning brief end to end and checked its output against what it should actually surface, catching where the digest over- or under-included items.
+- **L141 — Morning Brief Automation Testing with Dispatch Mode (Run from Your Phone!)** (8 min) — Triggered the same automation from a phone via Dispatch Mode, showing the agent isn't tied to sitting at the desktop.
+- **L142 — Build Market Pulse Automation** (18 min) — Built a market-pulse automation that monitors and summarizes industry or market signals on a schedule — the longest build in this block.
+- **L143 — Test Market Pulse Automation** (6 min) — Verified the market pulse automation's output for accuracy against a few days of live signal rather than one static test.
+- **L144 — Intro to Personal Agents and Automations Overview** (8 min) — Opened Section 13 with a preview of the next four builds: research teams, CRM, meeting intel and email triage.
+- **L145 — Build Research Team Automation** (17 min) — Built a multi-agent research-team automation that hands a topic off between researcher and writer roles instead of one agent doing everything. Built mainly for practice — not something I need for myself right now.
+- **L146 — Test Research Team Automation Part 1 - PowerPoint Slide Deck** (17 min) — Tested the research team by having it produce a branded slide deck as the final deliverable, checking the multi-agent handoff actually reaches a usable output.
+- **L147 — Test Research Team Automation Part 2 - PDF Report & Dispatch Mode** (12 min) — Extended the same test to a PDF report output and triggered the whole pipeline via Dispatch Mode.
+- **Course total: 121/158 lessons — Section 12 complete at 8/8, Section 13 at 4/9**
+- Section 12 "Build AI Agents Automations: Sprint Tracker, Market Pulse, & Morning Brief" is done ✅ — three of the ten blueprint automations built and tested, including a first run through Dispatch Mode.
+- Fed each automation my own real data instead of the course's sample data — makes the testing actually mean something instead of watching a toy example run.
+- Of the three built so far, the Morning Brief is the one I'd actually keep using daily.
+- Dispatch Mode (triggering automations from the phone) turned out more flexible than expected — not tied to sitting at the desktop is a real difference, not a gimmick.
+- Side experiment outside the course: tried giving my personal agent, MAVE, a real voice through ElevenLabs and a couple of other TTS sources. Not happy with any of the voices, and ElevenLabs' API pricing doesn't work for daily use — parked for now.
+- MAVE is turning into the most fun part of this whole project — building on it daily, separate from the course material.
+
+**Next up:** L148 — Personal CRM Automation Build & Testing.
+
+---
+
 ## 2026-08-28 (Fri) — Day 23: Designed the agent, then actually built it — vault, SOUL.md, CLAUDE.md, and the real setup
 
 - **L122 — Building Personal AI Agent Architecture (Deep Dive)** (8 min) — The full shape of a personal agent: a plain-file knowledge vault the agent reads, an instruction layer that tells it how to behave, and the tools it reaches for — kept separate so each part can change on its own.
