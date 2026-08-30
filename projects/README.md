@@ -11,8 +11,8 @@ Each project gets its own folder here, with the same three files: a `README.md` 
 **[Claude-Masterclass](Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
 Currently in Section 13 of 14
 
-**[AWS-AI-Practitioner](AWS-AI-Practitioner/)** — the road to the AIF-C01 certification, taken through AWS Educate.<br>
-Cloud 101 passed · waiting on the exam voucher
+**[AWS-AI-Practitioner](AWS-AI-Practitioner/)** — the road to the AIF-C01 certification, worked through AWS Skill Builder.<br>
+Cloud fundamentals done · exam prep under way
 
 ### 🟥 &nbsp;Queued
 
