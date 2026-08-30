@@ -13,7 +13,7 @@ I began with Claude, because that is where the door opened. Where it goes next d
 ### 🟧 &nbsp;Projects
 
 **[Claude Masterclass](projects/Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
-Currently in Section 13 of 14
+All 132 target lessons complete
 
 **[AWS AI Practitioner](projects/AWS-AI-Practitioner/)** — the road to the AIF-C01 certification, worked through AWS Skill Builder.<br>
 Cloud fundamentals done · exam prep under way
@@ -30,6 +30,7 @@ Three more are queued and not started yet — they are listed, with the reasonin
 
 ### 🟪 &nbsp;Milestones
 
+**30 Aug 2026** — Finished the Claude Masterclass target lessons: all 132 of 132, sections 13 and 14 both closed out in one sitting<br>
 **30 Aug 2026** — Abandoned the community voucher route for AWS; restarted the certification on Skill Builder<br>
 **25 Aug 2026** — Passed AWS Machine Learning Foundations with 90 %<br>
 **24 Aug 2026** — Passed AWS Cloud 101 on the first try, 73.3 %<br>

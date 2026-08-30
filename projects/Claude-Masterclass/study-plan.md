@@ -2,9 +2,9 @@
 
 Target pace: **~25–30 min per day** (a few videos daily). Started 2026-07-21.
 
-**Current position (2026-08-29): 121/158 done (121 of the 132 target lessons) — Section 12 finished at 8/8, Section 13 at 4/9.** Up next: **L148 — Personal CRM Automation Build & Testing.**
+**Current position (2026-08-30): 132/158 done — all 132 target lessons complete. Sections 13 and 14 both finished today.** Nothing left to schedule: only the skipped Excel/PowerPoint sections remain.
 
-Sections 1–3, 6, 7, 8, 9, 10, 11 and 12 are complete ✅. The personal AI agent is built and its automations are half done — Section 13 is in progress, with Section 14 left after it.
+Sections 1–3 and 6–14 are all complete ✅. The personal AI agent is built, and all ten automation blueprints — sprint tracker through weekly executive reporting — are built and tested. The plan set out below is done.
 
 > **Skipping Sections 4 & 5** (Claude in Excel, Claude in PowerPoint) for now — less interested in the Microsoft-tool workflows, more into the Claude Chat & Claude Code chapters. Can always come back to them later.
 
@@ -12,7 +12,7 @@ Sections 1–3, 6, 7, 8, 9, 10, 11 and 12 are complete ✅. The personal AI agen
 
 ## Section milestones — "watched by this date"
 
-Recalculated 2026-08-29 from what's actually left. **11 target lessons / 1h 55 remaining.** Dates assume 30 min/day starting 2026-08-30.
+Recalculated 2026-08-30 — nothing left. **0 target lessons / 0h remaining.**
 
 | By date | Section | Left | ~Time left |
 |---------|---------|------|------------|
@@ -25,12 +25,12 @@ Recalculated 2026-08-29 from what's actually left. **11 target lessons / 1h 55 r
 | ~~2026-08-30~~ | 9 + 10 — Build Your Personal AI Agent (intro + architecture) | ✅ done | — |
 | ~~2026-08-30~~ | 11 — Setup Your Personal AI Agent | ✅ done | — |
 | ~~2026-08-29~~ | 12 — Automations: Sprint Tracker, Market Pulse, Morning Brief | ✅ done | — |
-| 2026-08-31 | 13 — Automations: Research Teams, CRM, Meeting Intel, Email Triage | 5 | 0h 51 |
-| 2026-09-02 | 14 — Automations: Expense Wrangler, Content Machine, Weekly Exec → **Course done 🎉** | 6 | 1h 04 |
+| ~~2026-08-31~~ | 13 — Automations: Research Teams, CRM, Meeting Intel, Email Triage | ✅ done | — |
+| ~~2026-09-02~~ | 14 — Automations: Expense Wrangler, Content Machine, Weekly Exec → **Course done 🎉** | ✅ done | — |
 
-**Target lessons (excluding skipped 4 & 5): 132 of 158 — 121 done, 11 to go.**
+**Target lessons (excluding skipped 4 & 5): 132 of 158 — 132 done, 0 to go.**
 
-**Reality check:** 17h 10 of video watched over the 39 days since 2026-07-21 — that's **~26 min/day**, still under the 30 min target but climbing for the fourth run in a row. Section 12 landed two days ahead of its 2026-08-31 marker — done in one sitting right after Section 11. At the actual ~26 min/day pace the finish lands around **2026-09-03**; holding a real 30 min/day pulls it to **2026-09-02** and keeps the table above intact. Only two automation sections are left.
+**Reality check:** 19h 07 of video watched over the 40 days since 2026-07-21 — that's **~29 min/day**, the closest this project ever got to the 30 min target. Both Section 13 and Section 14 landed in one sitting today, finishing Section 14 three days ahead of its 2026-09-02 marker and closing out the plan overall. Sections 4 and 5 (Claude in Excel, Claude in PowerPoint) remain skipped on purpose and can be picked up later if they become relevant.
 
 ---
 

@@ -9,7 +9,7 @@ Each project gets its own folder here, with the same three files: a `README.md` 
 ### 🟧 &nbsp;Running
 
 **[Claude-Masterclass](Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
-Currently in Section 13 of 14
+All 132 target lessons complete
 
 **[AWS-AI-Practitioner](AWS-AI-Practitioner/)** — the road to the AIF-C01 certification, worked through AWS Skill Builder.<br>
 Cloud fundamentals done · exam prep under way

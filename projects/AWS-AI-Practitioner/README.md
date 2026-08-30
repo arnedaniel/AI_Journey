@@ -5,14 +5,14 @@
 My road to the AWS AI Practitioner certification, worked through AWS Skill Builder — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🔵 &nbsp;Step C of 5 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Exam prep starting &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam 3 Oct
+🔵 &nbsp;Step C of 5 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Exam prep starting &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam ~11 Sep
 <!-- STATUS:END -->
 
 ---
 
 ### 🟧 &nbsp;The goal
 
-Earn the AWS Certified AI Practitioner certification, and sit the exam on **3 October 2026** — the day before my semester starts, because after that there is no room for it.
+Earn the AWS Certified AI Practitioner certification, and sit the exam in **mid-September 2026**, three weeks before my semester starts. Sitting it early is deliberate: it leaves room for a second attempt if the first one goes wrong. The exact date depends on the booking, which cannot happen until the whole course is done.
 
 ### 🟥 &nbsp;Where this stands
 
@@ -29,7 +29,7 @@ Earn the AWS Certified AI Practitioner certification, and sit the exam on **3 Oc
 ✗ &nbsp;**B** — Earn an exam voucher through the community route &nbsp;— *abandoned, see below*<br>
 ▸ &nbsp;**C** — Work the official exam prep plan on Skill Builder &nbsp;— *here now*<br>
 · &nbsp;**D** — Official practice questions, then a pretest under real conditions<br>
-· &nbsp;**E** — Book and pass the AIF-C01 exam
+· &nbsp;**E** — Collect the last badges, redeem the discount code, book, and pass the AIF-C01 exam
 
 **Step B is crossed out, not deleted.** I spent seven hours on the first route before finding out it does not reach the certification. The hours were not wasted: two passed courses, two badges, and the vocabulary this exam assumes you already have — S3, EC2, Lambda, IAM, VPC, the Shared Responsibility Model, the Well-Architected Framework, and the machine learning groundwork on top. What I lost was the shortcut to the exam, not the learning.
 

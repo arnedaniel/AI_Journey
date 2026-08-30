@@ -2,7 +2,7 @@
 
 A running log of my AWS AI Practitioner journey. Newest entries at the top.
 
-Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, prepared on AWS Skill Builder. The exam is set for 3 October 2026.
+Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, prepared on AWS Skill Builder. The exam follows once the course is finished, targeted for around 10 September 2026.
 
 ---
 
@@ -14,8 +14,9 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 - **What I am not doing** — Deleting the last entry. It happened, I spent seven hours on it, and a log that only shows the parts that worked is not a log.
 - **What the seven hours were worth** — Two passed courses, two badges, and the vocabulary the exam assumes: S3, EC2, Lambda, IAM, VPC, the Shared Responsibility Model, the Well-Architected Framework, plus the machine learning groundwork. What I lost was the shortcut to the exam, not the learning or the credentials.
 - **The new route** — AWS Skill Builder, the official exam prep plan, with the practice question set and the pretest that go with it. I have a student subscription that covers the full plan, labs included.
-- **The date** — 3 October 2026, one day before the semester starts. Five weeks. After that I have six modules and no room, so it is this window or it slips to next year.
-- **Booking** — 12 September, in the middle of the prep rather than at the end. Slots are not always free when you want them, and an unbooked exam is an exam that keeps moving.
+- **The plan** — Ten days at three hours a day, about thirty hours. With ML Foundations already behind me that is enough for a foundational exam. Target date around 11 September.
+- **Why not later** — I first pencilled in 3 October, the day before the semester. That leaves no way back: a bad result there and the whole thing waits for next year. Sitting in mid-September puts three weeks of retake room behind me instead.
+- **Why I cannot book early** — The discount code that pays for the exam is only issued once every badge on the path is collected. So the booking is the last link in the chain, not the first: finish the courses, collect the badges, get the code, then find a slot. I would rather have locked a date on day two and studied toward it, but that is not how this one works.
 
 **Next up:** Check what the exam prep plan actually contains right now, and read the official exam guide before touching any of the courses.
 
