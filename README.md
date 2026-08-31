@@ -4,11 +4,9 @@
 
 Documenting my path into AI — one project at a time.
 
-I started in July 2026, and this repository is the record. Whenever I pick up something new — a tool, a course, a certification, an idea worth building — it gets a folder here and a dated log of how it actually went: what I watched, what I built, what I got wrong. Nothing is backdated and nothing is tidied up afterwards.
+I started in July 2026, and this repository is the record. Whenever I pick up something new — a tool, a course, a certification, an idea worth building — it gets a folder here and a dated log of how it actually went: what I watched, what I built, what I got wrong. Nothing is backdated and nothing is tidied up afterwards. I began with Claude, because that is where the door opened. Right now the AWS certification has my attention; after that, whatever turns out to be worth learning.
 
-I began with Claude, because that is where the door opened. Right now the AWS certification has my attention; after that, whatever turns out to be worth learning.
-
-Two things this repository does not pretend to be. It is not a portfolio of finished software: what I have built runs as a personal automation system on my own machine — twelve automations, ten of them from the course's blueprints and tailored to my own goals, two designed from scratch. It stays private because it reads my mail, my calendar and my coursework. And this is not a highlight reel: the dead ends are logged in the same place as the wins, because a log that only shows the parts that worked is not a log.
+Two things this repository does not pretend to be. It is not a portfolio of finished software: what I have built runs as a personal automation system on my own machine, and it stays private because it reads my mail, my calendar and my coursework. And it is not a highlight reel — the dead ends are logged in the same place as the wins, because a log that only shows the parts that worked is not a log.
 
 ---
 
@@ -24,22 +22,19 @@ Three more are queued and not started yet — they are listed, with the reasonin
 
 ### 🟥 &nbsp;What I'm learning
 
-**Claude Code & Cowork** — the daily driver, and the reason this repo exists<br>
-**AI agents** — state, tools, memory, and why a loop beats a one-shot prompt<br>
+**LLMs in practice** — Claude every day: Code, Cowork, skills, sub-agents<br>
+**Agent systems** — state, tools, memory, and why a loop beats a one-shot prompt<br>
 **AWS** — the vocabulary first, now the AI and machine learning services the certification is actually about<br>
-**Git and GitHub** — every day; this repository is the practice ground<br>
-**Python** — two university modules behind me; what is missing is regular practice, not the basics
+**Git and GitHub** — every day; this repository is the practice ground
 
 ### 🟪 &nbsp;Milestones
 
-**31 Aug 2026** — Personal automation system in use: twelve automations, ten built on the course blueprints and shaped around my own goals, two designed from scratch — eleven in daily reach, one waiting for term to start<br>
-**31 Aug 2026** — Started the AWS exam prep plan properly, and dropped the free-voucher route with it — I am paying for the seat<br>
-**30 Aug 2026** — Finished the Claude Masterclass: all 132 target lessons<br>
-**30 Aug 2026** — Left the AWS community route after seven hours on it, and restarted the certification on Skill Builder<br>
-**25 Aug 2026** — Passed AWS Machine Learning Foundations with 90 %<br>
-**24 Aug 2026** — Passed AWS Cloud 101 on the first try, 73.3 %<br>
-**26 Jul 2026** — Set up this repository; learned add → commit → push<br>
-**21 Jul 2026** — Started the course
+Two so far. A passed quiz is a log entry; a milestone is something that changed how I work.
+
+| Date | What | Why it counted |
+|---|---|---|
+| 31 Aug 2026 | Built MAVE, a personal second brain | It grows every day instead of being finished. It reads my own notes, sources and coursework, keeps them cross-linked, and runs the automations I work with daily. Ten of those follow the course blueprints and I cut them to my own goals; the rest I designed myself, problem and decisions included. It stays private because it runs on my real mail, calendar and coursework. |
+| 30 Aug 2026 | Finished the Claude Masterclass | 132 planned lessons of 158, over six weeks without a gap. It is the reason the line above it exists. |
 
 ### ⬜ &nbsp;How to read this repository
 
