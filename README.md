@@ -8,7 +8,7 @@ I started in July 2026, and this repository is the record. Whenever I pick up so
 
 I began with Claude, because that is where the door opened. Right now the AWS certification has my attention; after that, whatever turns out to be worth learning.
 
-Two things this repository does not pretend to be. It is not a portfolio of finished software — so far it is a record of learning, and the code lives inside the automations rather than here. And it is not a highlight reel: the dead ends are logged in the same place as the wins, because a log that only shows the parts that worked is not a log.
+Two things this repository does not pretend to be. It is not a portfolio of finished software: what I have built runs as a personal automation system on my own machine — twelve automations, ten of them from the course's blueprints and tailored to my own goals, two designed from scratch. It stays private because it reads my mail, my calendar and my coursework. And this is not a highlight reel: the dead ends are logged in the same place as the wins, because a log that only shows the parts that worked is not a log.
 
 ---
 
@@ -26,19 +26,18 @@ Three more are queued and not started yet — they are listed, with the reasonin
 
 **Claude Code & Cowork** — the daily driver, and the reason this repo exists<br>
 **AI agents** — state, tools, memory, and why a loop beats a one-shot prompt<br>
-**AWS** — the cloud vocabulary, on the way to a certification<br>
+**AWS** — the vocabulary first, now the AI and machine learning services the certification is actually about<br>
 **Git and GitHub** — every day; this repository is the practice ground<br>
 **Python** — two university modules behind me; what is missing is regular practice, not the basics
 
 ### 🟪 &nbsp;Milestones
 
-**31 Aug 2026** — Started the AWS exam prep plan for real: first of eight courses done, and the exam booking now waits on nothing but me being ready<br>
-**30 Aug 2026** — Finished the Claude Masterclass target lessons: all 132 of 132, sections 13 and 14 both closed out in one sitting<br>
-**30 Aug 2026** — Abandoned the community voucher route for AWS; restarted the certification on Skill Builder<br>
+**31 Aug 2026** — Personal automation system in use: twelve automations, ten built on the course blueprints and shaped around my own goals, two designed from scratch — eleven in daily reach, one waiting for term to start<br>
+**31 Aug 2026** — Started the AWS exam prep plan properly, and dropped the free-voucher route with it — I am paying for the seat<br>
+**30 Aug 2026** — Finished the Claude Masterclass: all 132 target lessons<br>
+**30 Aug 2026** — Left the AWS community route after seven hours on it, and restarted the certification on Skill Builder<br>
 **25 Aug 2026** — Passed AWS Machine Learning Foundations with 90 %<br>
 **24 Aug 2026** — Passed AWS Cloud 101 on the first try, 73.3 %<br>
-**20 Aug 2026** — Finished Section 7: a calorie tracker app built end to end with Claude Code<br>
-**16 Aug 2026** — Finished Section 6, the biggest chapter — Claude Code foundations<br>
 **26 Jul 2026** — Set up this repository; learned add → commit → push<br>
 **21 Jul 2026** — Started the course
 
@@ -46,12 +45,12 @@ Three more are queued and not started yet — they are listed, with the reasonin
 
 Start with a project — that is where the actual work is. Every project folder holds the same three files:
 
-[`README.md`](projects/Claude-Masterclass/README.md) — what the project is, and exactly where it stands right now<br>
-[`study-plan.md`](projects/Claude-Masterclass/study-plan.md) — where it is going, and whether I am on schedule<br>
-[`progress.md`](projects/Claude-Masterclass/progress.md) — dated entries, newest first
+[`README.md`](projects/AWS-AI-Practitioner/README.md) — what the project is, and exactly where it stands right now<br>
+[`study-plan.md`](projects/AWS-AI-Practitioner/study-plan.md) — where it is going, and what is still undecided<br>
+[`progress.md`](projects/AWS-AI-Practitioner/progress.md) — dated entries, newest first
 
-The counts and the daily pace live on the project pages, not on this one. The pace recorded there is the real one, not the one I wish I had.
+The counts live on the project pages, not on this one. What is recorded there is what happened, not what I meant to happen.
 
 ---
 
-*Started July 2026. Still learning. Always building.*
+*Started July 2026. Written as it happened, not afterwards.*

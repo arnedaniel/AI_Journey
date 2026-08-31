@@ -1,26 +1,51 @@
-# 📘 Study Plan — AWS Certified AI Practitioner (AIF-C01)
+# Study Plan — AWS Certified AI Practitioner (AIF-C01)
 
-Ten days of study, three hours a day. The exam follows as soon as the course is finished — around **11 September 2026**, and not before, for a reason set out below.
+Target: sit the exam in **mid-September 2026**, three weeks before my semester starts on 4 October. Nothing gates the booking, so the date is mine to pick. I want the pretest result first.
 
-| Day | Date | Focus |
-|:---:|------|-------|
-| **1** | Mon 31 Aug | Read the exam guide and its domain weightings before anything else, then start the prep plan. Confirm what the plan currently contains and how many badges are still outstanding. |
-| **2–7** | Tue 1 – Sun 6 Sep | The prep plan, straight through. AI, ML, deep learning and generative AI as the exam distinguishes them; the AWS services that carry those ideas; foundation models, prompting, retrieval-augmented generation, fine-tuning; responsible AI, security and governance. |
-| **8** | Mon 7 Sep | Whatever is left, plus the labs. Running a thing beats watching a thing. **Every remaining badge has to land today.** |
-| **9** | Tue 8 Sep | The official practice question set, worked slowly — every wrong answer written down, every topic behind it back on the list. **Book the exam as soon as the code comes through.** |
-| **10** | Wed 9 Sep | The official pretest in one sitting, ninety minutes, no notes. Then the rest of the day on whatever it exposed. |
-| — | **~Thu 11 Sep** | **Exam**, on whatever slot was free. |
+The plan has two halves on purpose. The first is fixed and short. The second cannot be written yet, because writing it now would mean guessing at what I do not know.
 
 ---
 
-**The booking cannot be brought forward, and that is the whole shape of this plan.** The discount code that pays for the exam is only issued once every badge on the path has been collected. So the sequence is fixed: finish the courses, collect the badges, receive the code, then book. There is no way to lock a date in advance and study toward it.
+### 🟧 &nbsp;Part one — measure
 
-That leaves two things outside my control. Which slots are still open on the day the code arrives, and how long the code itself takes to issue — the Cloud 101 badge came with a note that the email lands within 24 hours, and if the code behaves the same way the exam moves a day or two with it. The date above is therefore a target, not a booking.
+Three days, and none of it depends on anything I have not already got.
 
-**Thirty hours, not sixty.** I am not starting from zero: *Machine Learning Foundations* covered the exam's core subject matter and *Cloud 101* covered the vocabulary around it. What is left is the AWS-specific service knowledge and the exam's own framing.
+| Day | Date | What |
+|:---:|---|---|
+| **1** | Mon 31 Aug | Read the prep plan properly. First learning-plan course done. Subscription claimed, so every practice item is open. |
+| **2** | Tue 1 Sep | Read the exam guide and its domain weightings. Finish the official practice question set — twenty questions, worked slowly, every wrong answer written down with the topic behind it. |
+| **3** | Wed 2 Sep | The official pretest in one sitting: sixty-five questions, ninety minutes, no notes, nothing revised beforehand. Then score it by domain, not overall. |
 
-**Sitting in mid-September buys room.** My semester starts on 4 October. Finishing three weeks ahead of that leaves space for a second attempt if the first one goes wrong. Booking into the last week before term would have left none.
+**The pretest is taken cold and that is the point.** It is a measuring instrument, and revising for it would break the measurement. A weak domain found on day three is cheap; the same weakness found in the exam is not.
 
-**If the pretest on day ten is close, the exam waits.** A narrow pass the day before is a warning, not a reassurance. That is what the three weeks behind it are for.
+### 🟥 &nbsp;Part two — fill only what the measurement found
 
-The exact modules are not listed here. AWS is restructuring its exam prep plans, so a list copied down today would be wrong by the time it mattered — the plan names what to cover, and the current course list gets read off the platform each time.
+Roughly a week, and its shape comes out of day three. The material available is the same either way — five domain reviews with a practice each, eight learning-plan courses feeding those domains, two simulation labs — but how much of it I sit through is a result, not a decision I make now.
+
+| | If the pretest says | Then |
+|---|---|---|
+| **Strong domain** | above the line, no pattern in the wrong answers | Practice questions only. Skip the review and the course. |
+| **Shaky domain** | passing but scattered | Domain review, then the domain practice until the pattern is gone. |
+| **Weak domain** | below the line | The learning-plan courses that feed it first, then the review, then the practice. |
+
+Best case that is three or four days. Worst case it is the full bundle, billed at around twenty-three hours for someone starting from nothing — which I am not, and that gap is exactly what day three measures.
+
+**Domains 3 and 5 get time regardless of the score.** Applications of foundation models, and security and governance. Not because the exam weights them hardest, but because retrieval, prompting, fine-tuning and governance are the parts I want past the exam as well. Passing is the deadline; those two are the reason.
+
+### 🟪 &nbsp;Part three — confirm, then sit
+
+| | What |
+|---|---|
+| **Readiness check** | The official practice exam, full length, under the same conditions as the pretest. This one confirms; it does not diagnose. |
+| **Booking** | Made once the practice exam clears, not before. It hangs on nothing else. |
+| **Exam** | Around 11–12 September, on whatever slot is free. |
+
+**If the practice exam is close, the exam waits.** A narrow pass the day before is a warning, not a reassurance. That is what the three weeks before term are for, and burning them to sit two days earlier would be a bad trade.
+
+### ⬜ &nbsp;What is deliberately not in here
+
+**No module list.** AWS is restructuring its exam prep plans and retiring versions of the same course in parallel, so a list copied down today would be wrong by the time it mattered. The plan names what to cover; the current contents get read off the platform each time.
+
+**No day-by-day breakdown of part two.** It would be fiction until the pretest exists.
+
+**No badge collecting.** The free voucher on that path is earned through daily posting and liking over ninety days, not through study. It would arrive after the events I want the certificate for. I am paying for the seat instead.

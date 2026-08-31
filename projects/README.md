@@ -24,6 +24,8 @@ Not started, and deliberately not folders yet — a folder gets created on the d
 **LangGraph** — agent control flow written as a graph. State that survives a step, loops that may run again, and a defined place to stop and ask a human.<br>
 **AutoGen or CrewAI** — role-based agent teams. Both answer the same question in a different dialect, so this is one choice to make, not two projects. Last, because it only makes sense once a single agent reliably does.
 
-### ⬜ &nbsp;Anything else
+### ⬜ &nbsp;How this list changes
 
-Start small — even a tiny script counts. This is where *learning* turns into *building*.
+An entry moves **Queued → Running → Finished** and never leaves. A folder is created on the day the work starts, not when I decide it sounds interesting, and a project that turns out to be a dead end stays here marked as one.
+
+The order of the queue is a guess, not a commitment.

@@ -1,37 +1,36 @@
 # Study Plan — Claude Code & Cowork Masterclass
 
-Target pace: **~25–30 min per day** (a few videos daily). Started 2026-07-21.
+Started 2026-07-21, finished 2026-08-30. **132 target lessons of 158, all watched.**
 
-**Current position (2026-08-30): 132/158 done — all 132 target lessons complete. Sections 13 and 14 both finished today.** Nothing left to schedule: only the skipped Excel/PowerPoint sections remain.
-
-Sections 1–3 and 6–14 are all complete ✅. The personal AI agent is built, and all ten automation blueprints — sprint tracker through weekly executive reporting — are built and tested. The plan set out below is done.
-
-> **Skipping Sections 4 & 5** (Claude in Excel, Claude in PowerPoint) for now — less interested in the Microsoft-tool workflows, more into the Claude Chat & Claude Code chapters. Can always come back to them later.
+This file is what the plan was and what happened to it. Kept rather than deleted, because the gap between the two is the only interesting part.
 
 ---
 
-## Section milestones — "watched by this date"
+### 🟧 &nbsp;How it was planned
 
-Recalculated 2026-08-30 — nothing left. **0 target lessons / 0h remaining.**
+A few videos a day, sections taken in order, with a date pencilled in for each one. Sections 4 and 5 were left out of the target from the start: the Claude Code and agent chapters were the reason I bought the course, and the Microsoft-tool workflows could wait.
 
-| By date | Section | Left | ~Time left |
-|---------|---------|------|------------|
-| ~~2026-08-02~~ | 1–3 — Intro, Cowork/Skills/Plugins, Claude Chat | ✅ done | — |
-| ~~—~~ | ~~4 — Claude in Microsoft Excel~~ | ~~16~~ | *skipped* |
-| ~~—~~ | ~~5 — Claude in PowerPoint~~ | ~~10~~ | *skipped* |
-| ~~2026-08-16~~ | 6 — Claude Code Foundations *(biggest section)* | ✅ done | — |
-| ~~2026-08-20~~ | 7 — Claude Code for Building Apps | ✅ done | — |
-| ~~2026-08-28~~ | 8 — Claude Code for Building AI Agents | ✅ done | — |
-| ~~2026-08-30~~ | 9 + 10 — Build Your Personal AI Agent (intro + architecture) | ✅ done | — |
-| ~~2026-08-30~~ | 11 — Setup Your Personal AI Agent | ✅ done | — |
-| ~~2026-08-29~~ | 12 — Automations: Sprint Tracker, Market Pulse, Morning Brief | ✅ done | — |
-| ~~2026-08-31~~ | 13 — Automations: Research Teams, CRM, Meeting Intel, Email Triage | ✅ done | — |
-| ~~2026-09-02~~ | 14 — Automations: Expense Wrangler, Content Machine, Weekly Exec → **Course done 🎉** | ✅ done | — |
+| Section | Planned by | Landed |
+|---|---|---|
+| 1–3 — Intro, Cowork, Skills and Plugins, Claude Chat | 2 Aug | on time |
+| 6 — Claude Code Foundations, the biggest chapter | 16 Aug | on time |
+| 7 — Claude Code for Building Apps | 20 Aug | on time |
+| 8 — Claude Code for Building AI Agents | 28 Aug | on time |
+| 9–11 — Personal AI agent: intro, architecture, setup | 30 Aug | on time |
+| 12 — Automations: sprint tracker, market pulse, morning brief | 29 Aug | on time |
+| 13 — Automations: research teams, CRM, meeting intel, email triage | 31 Aug | one day early |
+| 14 — Automations: expense wrangler, content machine, weekly exec | 2 Sep | three days early |
 
-**Target lessons (excluding skipped 4 & 5): 132 of 158 — 132 done, 0 to go.**
+### 🟥 &nbsp;What actually happened
 
-**Reality check:** 19h 07 of video watched over the 40 days since 2026-07-21 — that's **~29 min/day**, the closest this project ever got to the 30 min target. Both Section 13 and Section 14 landed in one sitting today, finishing Section 14 three days ahead of its 2026-09-02 marker and closing out the plan overall. Sections 4 and 5 (Claude in Excel, Claude in PowerPoint) remain skipped on purpose and can be picked up later if they become relevant.
+**19h 07 of video over 40 days.** The last two sections landed together in a single sitting, which is what pulled the finish three days forward.
 
----
+**The plan held, and that was the surprise.** Eight section deadlines, none of them missed, two of them beaten. What it did not predict is that sections 12 to 14 would stop being a course: those ten automations got built and are running, rather than watched and noted.
 
-*Tip: check off each lesson in Udemy as you go — the nightly task logs whatever Udemy marks complete, so skipped sections just won't appear.*
+**Sections 4 and 5 are open, not skipped.** That changed on 31 August. I went back for them and could not get in — the add-in needs administrator rights I do not have on this machine, and it does not appear inside the application on its own either. That is a setup problem, not a decision, so they stay open. If I clear it, the lessons get watched and logged like everything else.
+
+### 🟪 &nbsp;What I would plan differently
+
+**Dates per section worked; a daily minute target did not.** The section deadlines gave the plan its shape and every one of them held. The minutes-per-day figure measured attendance and told me nothing about whether I was getting anywhere, so it is gone from these pages.
+
+**Building alongside watching was worth more than either.** The chapters I actually retained are the ones where something ran at the end. The ones I watched straight through are the ones I would have to look up again.

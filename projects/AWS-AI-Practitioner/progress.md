@@ -2,14 +2,15 @@
 
 A running log of my AWS AI Practitioner journey. Newest entries at the top.
 
-Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, prepared on AWS Skill Builder. The exam follows once the course is finished, targeted for around 10 September 2026.
+Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, prepared on AWS Skill Builder. Nothing gates the booking, so the date follows the pretest rather than the other way round — mid-September 2026.
 
 ---
 
 ## 2026-08-31 (Mon) — Day 4: Read the plan properly, then started it
 
 - **Finished: Fundamentals of Machine Learning and Artificial Intelligence** — the first of eight courses in the learning plan. Billed as an hour; it took me longer.
-- **Signed in and read my own plan** instead of guessing from the public page. Nineteen items across four steps, two of them now done. Five exam domains, and the eight courses map straight onto them — courses 6 and 8 are the retrieval and prompting stack I keep seeing in job adverts.
+- **Two plans, not one** — This tripped me up all day. The **exam prep plan** is 19 items in four steps: reviews, practices, a pretest and a practice exam, one for each of the five domains. The **learning plan** is 8 courses. They are separate lists with separate progress, and the courses feed the domains rather than appearing in them. So today moved the learning plan from 0 to 1 of 8, and left the prep plan at 1 of 19.
+- **How they connect** — Courses 1, 2 and 4 feed domain 1, course 5 feeds domain 2, courses 6 and 8 feed domain 3, course 3 feeds domain 4, course 7 feeds domain 5. Courses 6 and 8 are the retrieval and prompting stack I keep seeing in job adverts.
 - **Claimed the student subscription, then cancelled the auto-renewal.** The twelve months run from the day you redeem, so redeeming on the day I start was the point. Every practice item is open now; on the free tier I would have had the videos and not one question.
 - **Corrected my own method.** I had the pretest pencilled in near the end. It belongs at the start and taken cold — it diagnoses, the practice exam confirms.
 - **Dropped the free-voucher route.** It is earned through ninety-day posting and liking streaks, not through study. I would be starting conversations for a counter rather than an answer, and I would know the difference every day I did it. I will pay for the seat and book it on readiness.

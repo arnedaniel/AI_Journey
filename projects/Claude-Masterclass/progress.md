@@ -2,7 +2,7 @@
 
 A running log of my AI journey. Newest entries at the top.
 
-Currently working through the Udemy course **"The Complete Claude Code & Claude Cowork Masterclass [2026]"** by Prof. Ryan Ahmed (158 lessons, ~22h).
+A course log for **"The Complete Claude Code & Claude Cowork Masterclass [2026]"** by Prof. Ryan Ahmed, 158 lessons. Finished on 30 August 2026 at 132 of them; the two Microsoft-tool sections are still open.
 
 ---
 
