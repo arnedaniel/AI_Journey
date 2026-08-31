@@ -8,13 +8,15 @@ Each project gets its own folder here, with the same three files: a `README.md` 
 
 ### 🟧 &nbsp;Running
 
-**[Claude-Masterclass](Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
-All 132 target lessons complete
-
 **[AWS-AI-Practitioner](AWS-AI-Practitioner/)** — the road to the AIF-C01 certification, worked through AWS Skill Builder.<br>
-Cloud fundamentals done · exam prep under way
+Working the official exam prep plan
 
-### 🟥 &nbsp;Queued
+### 🟥 &nbsp;Finished
+
+**[Claude-Masterclass](Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
+Finished 30 August, 132 of 132 target lessons — sections 4 and 5 still open on a setup problem
+
+### 🟪 &nbsp;Queued
 
 Not started, and deliberately not folders yet — a folder gets created on the day the work does. They are here in the order I expect to reach them, and each is here for a different reason:
 

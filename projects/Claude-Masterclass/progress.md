@@ -6,6 +6,16 @@ Currently working through the Udemy course **"The Complete Claude Code & Claude 
 
 ---
 
+## 2026-08-31 (Mon) — Closing the course out
+
+- **Tried to reopen sections 4 and 5** — Claude in Excel and Claude in PowerPoint, the two I had skipped. Neither lesson got watched: the add-in would not install without administrator rights on this machine, and it does not show up inside the application on its own either.
+- **Leaving it open rather than calling it done** — It is a setup problem, not a decision about the material. If I clear the rights question, I watch the lessons and log them here like everything else.
+- **The course itself is finished** — 132 of 132 target lessons, and the ten automation blueprints from sections 12 to 14 are all built and running rather than sitting in notes.
+
+**Next up:** Nothing on this course. The AWS certification has the next two weeks.
+
+---
+
 ## 2026-08-30 (Sun) — Day 25: Closed out the automation blueprints — Sections 13 and 14 both complete
 
 - **L148 — Personal CRM Automation Build & Testing** (13 min) — Built and tested a personal CRM automation that logs contacts and interaction history and keeps relationship context current without manual upkeep.

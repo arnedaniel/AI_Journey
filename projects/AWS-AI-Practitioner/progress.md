@@ -6,6 +6,18 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 ---
 
+## 2026-08-31 (Mon) — Day 4: Read the plan properly, then started it
+
+- **Finished: Fundamentals of Machine Learning and Artificial Intelligence** — the first of eight courses in the learning plan. Billed as an hour; it took me longer.
+- **Signed in and read my own plan** instead of guessing from the public page. Nineteen items across four steps, two of them now done. Five exam domains, and the eight courses map straight onto them — courses 6 and 8 are the retrieval and prompting stack I keep seeing in job adverts.
+- **Claimed the student subscription, then cancelled the auto-renewal.** The twelve months run from the day you redeem, so redeeming on the day I start was the point. Every practice item is open now; on the free tier I would have had the videos and not one question.
+- **Corrected my own method.** I had the pretest pencilled in near the end. It belongs at the start and taken cold — it diagnoses, the practice exam confirms.
+- **Dropped the free-voucher route.** It is earned through ninety-day posting and liking streaks, not through study. I would be starting conversations for a counter rather than an answer, and I would know the difference every day I did it. I will pay for the seat and book it on readiness.
+
+**Next up:** Finish the question set, then sit the pretest cold and let the result decide which of the remaining seven courses I actually need.
+
+---
+
 ## 2026-08-30 (Sun) — Day 3: The voucher route was a dead end
 
 - **What I found out** — The route I had planned, earning an exam voucher through the community programme, does not lead to the certification. The courses and the badges are real; the path from them to the exam is not.
@@ -13,7 +25,7 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 - **Which of the two actually matters** — *Machine Learning Foundations*, by a distance. *Cloud 101* is general cloud vocabulary; ML Foundations sits inside the exam's own subject matter. The 90 % is the more useful number of the two.
 - **What I am not doing** — Deleting the last entry. It happened, I spent seven hours on it, and a log that only shows the parts that worked is not a log.
 - **What the seven hours were worth** — Two passed courses, two badges, and the vocabulary the exam assumes: S3, EC2, Lambda, IAM, VPC, the Shared Responsibility Model, the Well-Architected Framework, plus the machine learning groundwork. What I lost was the shortcut to the exam, not the learning or the credentials.
-- **The new route** — AWS Skill Builder, the official exam prep plan, with the practice question set and the pretest that go with it. I have a student subscription that covers the full plan, labs included.
+- **The new route** — AWS Skill Builder, the official exam prep plan, with the practice question set and the pretest that go with it. I have a student subscription available for it, though as I found out the next day, availability and activation are not the same thing.
 - **The plan** — Ten days at three hours a day, about thirty hours. With ML Foundations already behind me that is enough for a foundational exam. Target date around 11 September.
 - **Why not later** — I first pencilled in 3 October, the day before the semester. That leaves no way back: a bad result there and the whole thing waits for next year. Sitting in mid-September puts three weeks of retake room behind me instead.
 - **Why I cannot book early** — The discount code that pays for the exam is only issued once every badge on the path is collected. So the booking is the last link in the chain, not the first: finish the courses, collect the badges, get the code, then find a slot. I would rather have locked a date on day two and studied toward it, but that is not how this one works.
