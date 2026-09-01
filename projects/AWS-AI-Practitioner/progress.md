@@ -6,6 +6,17 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 ---
 
+## 2026-09-01 (Tue) — Day 5: Course 2 of 8, and a lesson about reading
+
+- **Finished: Exploring Artificial Intelligence Use Cases and Applications** — the second of the eight learning-plan courses. Where course 1 was the mechanics of machine learning, this one is about matching a business problem to the right kind of solution, and knowing when the answer is not AI at all.
+- **Learning plan: 2 of 8. Exam prep plan: still 1 of 19.** Two lists, two counters, and they never add up into one number.
+- **I got a generative AI question wrong by misreading it** — Not the material, the reading. It was late in the day and I answered the question I thought was there instead of the one on the page. I went back over the section afterwards and the content sits fine now.
+- **Worth logging because the exam works the same way** — A foundational exam tests whether you read carefully as much as whether you know the service. Tired reading is a failure mode I can plan around, so it goes in the log rather than quietly out of it.
+
+**Next up:** Finish the practice question set, then sit the pretest cold and let the result decide how much of the remaining six courses I actually sit through.
+
+---
+
 ## 2026-08-31 (Mon) — Day 4: Read the plan properly, then started it
 
 - **Finished: Fundamentals of Machine Learning and Artificial Intelligence** — the first of eight courses in the learning plan. Billed as an hour; it took me longer.
