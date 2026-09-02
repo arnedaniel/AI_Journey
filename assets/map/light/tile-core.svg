@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 176 250" width="176" height="250" role="img" aria-label="My AI Journey">
+  <defs>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BF8700"/><stop offset="34%" stop-color="#BC4C00"/>
+      <stop offset="67%" stop-color="#8250DF"/><stop offset="100%" stop-color="#0969DA"/>
+    </linearGradient>
+    <radialGradient id="die" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#F2C57C"/><stop offset="45%" stop-color="#D9713C"/><stop offset="100%" stop-color="#5B2E5E"/>
+    </radialGradient>
+    <filter id="g" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="sg" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="176" height="250" fill="#FFFFFF"/>
+  <g stroke="#EAEEF2" stroke-width="1" fill="none">
+    <path d="M26,74 V56 L44,38"/><path d="M150,74 V56 L132,38"/>
+  </g>
+  <text x="88.0" y="30" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.9" fill="url(#rail)">MY AI JOURNEY</text>
+  <rect x="56.0" y="39" width="64" height="2.2" rx="1.1" fill="url(#rail)" opacity="0.6"/>
+  <path id="sl" d="M40,138 H0" fill="none" stroke="#8250DF" stroke-width="2" opacity="0.6"/>
+  <path id="sr" d="M136,138 H176" fill="none" stroke="#BF8700" stroke-width="2" opacity="0.6"/>
+  <circle r="3" fill="#6639BA" filter="url(#g)"><animateMotion dur="1.5s" repeatCount="indefinite" begin="0.0s"><mpath href="#sl" xlink:href="#sl"/></animateMotion></circle>
+  <circle r="3" fill="#6639BA" filter="url(#g)" opacity="0"><animateMotion dur="1.5s" repeatCount="indefinite" begin="0.75s"><mpath href="#sl" xlink:href="#sl"/></animateMotion><animate attributeName="opacity" to="1" begin="0.75s" dur="0.01s" fill="freeze"/></circle>
+  <circle r="3" fill="#8A6500" filter="url(#g)"><animateMotion dur="1.5s" repeatCount="indefinite" begin="0.0s"><mpath href="#sr" xlink:href="#sr"/></animateMotion></circle>
+  <circle r="3" fill="#8A6500" filter="url(#g)" opacity="0"><animateMotion dur="1.5s" repeatCount="indefinite" begin="0.75s"><mpath href="#sr" xlink:href="#sr"/></animateMotion><animate attributeName="opacity" to="1" begin="0.75s" dur="0.01s" fill="freeze"/></circle>
+  <path d="M88.0,186 V250" fill="none" stroke="#D0D7DE" stroke-width="2" stroke-dasharray="7 13"/>
+  <rect x="40" y="90" width="96" height="96" rx="12" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.5"/>
+  <g stroke="#AFB8C1" stroke-width="2.6" stroke-linecap="round">
+    <path d="M64,90 V78"/><path d="M88,90 V72"/><path d="M112,90 V78"/>
+    <path d="M64,186 V198"/><path d="M112,186 V198"/>
+    <path d="M40,114 H28"/><path d="M40,162 H28"/><path d="M136,114 H148"/><path d="M136,162 H148"/>
+  </g>
+  <rect x="58" y="108" width="60" height="60" rx="8" fill="url(#die)" opacity="0.9" filter="url(#sg)"><animate attributeName="opacity" values="0.72;1;0.72" dur="3.4s" repeatCount="indefinite"/></rect>
+  <g stroke="#F6F8FA" stroke-width="1.4" opacity="0.5" fill="none"><path d="M58,126 H118"/><path d="M58,138 H118"/><path d="M58,150 H118"/><path d="M76,108 V168"/><path d="M100,108 V168"/></g>
+  <circle cx="88.0" cy="138" r="9" fill="#FFFFFF" filter="url(#sg)"><animate attributeName="r" values="7;11;7" dur="2.2s" repeatCount="indefinite"/></circle>
+</svg>

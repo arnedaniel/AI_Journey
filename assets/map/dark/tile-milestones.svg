@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 184 150" width="184" height="150" role="img" aria-label="Milestones, what actually changed">
+  <defs>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8A33D"/><stop offset="34%" stop-color="#D9713C"/>
+      <stop offset="67%" stop-color="#8F5FBF"/><stop offset="100%" stop-color="#1F6FEB"/>
+    </linearGradient>
+    <radialGradient id="die" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#F2C57C"/><stop offset="45%" stop-color="#D9713C"/><stop offset="100%" stop-color="#5B2E5E"/>
+    </radialGradient>
+    <filter id="g" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="sg" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="184" height="150" fill="#0D1117"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="40" y="38" width="134" height="76" rx="12" fill="#111A26" stroke="#1F6FEB" stroke-width="1.5"/>
+    <circle cx="57" cy="56" r="3.2" fill="#1F6FEB" filter="url(#g)"/>
+    <text x="107.0" y="72" text-anchor="middle" font-size="12.5" font-weight="700" letter-spacing="1.4" fill="#F0F3F8">MILESTONES</text>
+    <text x="107.0" y="93" text-anchor="middle" font-size="9.5" letter-spacing="0.6" fill="#7FB2FF">what actually changed</text>
+  </g>
+</svg>

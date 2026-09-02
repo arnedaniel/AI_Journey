@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 176 150" width="176" height="150" role="img" aria-label="Frameworks, coming soon">
+  <defs>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BF8700"/><stop offset="34%" stop-color="#BC4C00"/>
+      <stop offset="67%" stop-color="#8250DF"/><stop offset="100%" stop-color="#0969DA"/>
+    </linearGradient>
+    <radialGradient id="die" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#F2C57C"/><stop offset="45%" stop-color="#D9713C"/><stop offset="100%" stop-color="#5B2E5E"/>
+    </radialGradient>
+    <filter id="g" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="sg" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="176" height="150" fill="#FFFFFF"/>
+  <path d="M88.0,0 V8" fill="none" stroke="#D0D7DE" stroke-width="2" stroke-dasharray="7 13"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="13" y="8" width="150" height="60" rx="11" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.6"/>
+    <text x="88.0" y="35" text-anchor="middle" font-size="13.5" font-weight="700" fill="#656D76">Frameworks</text>
+    <text x="88.0" y="52" text-anchor="middle" font-size="9.5" letter-spacing="1.2" fill="#8C959F">COMING SOON</text>
+  </g>
+</svg>

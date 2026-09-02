@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 56 250" width="56" height="250" role="img" aria-label="Text view, the whole page as plain text">
+  <defs>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8A33D"/><stop offset="34%" stop-color="#D9713C"/>
+      <stop offset="67%" stop-color="#8F5FBF"/><stop offset="100%" stop-color="#1F6FEB"/>
+    </linearGradient>
+    <radialGradient id="die" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#F2C57C"/><stop offset="45%" stop-color="#D9713C"/><stop offset="100%" stop-color="#5B2E5E"/>
+    </radialGradient>
+    <filter id="g" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="sg" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="56" height="250" fill="#0D1117"/>
+  <text x="0" y="0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9.5" letter-spacing="1.4" text-anchor="middle" fill="#6E7A8C" transform="translate(22,196) rotate(-90)">TEXT VIEW</text>
+  <path d="M40,148 V240 M33,231 L40,240 L47,231" fill="none" stroke="#6E7A8C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
