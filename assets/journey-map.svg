@@ -48,13 +48,13 @@
 
   <g fill="#EDE3FA" filter="url(#glow)">
     <circle r="3.4"><animateMotion dur="2.6s" repeatCount="indefinite" begin="0s"><mpath href="#pLeft" xlink:href="#pLeft"/></animateMotion></circle>
-    <circle r="3.4"><animateMotion dur="2.6s" repeatCount="indefinite" begin="0.87s"><mpath href="#pLeft" xlink:href="#pLeft"/></animateMotion></circle>
-    <circle r="3.4"><animateMotion dur="2.6s" repeatCount="indefinite" begin="1.74s"><mpath href="#pLeft" xlink:href="#pLeft"/></animateMotion></circle>
+    <circle r="3.4" opacity="0"><animateMotion dur="2.6s" repeatCount="indefinite" begin="0.87s"><mpath href="#pLeft" xlink:href="#pLeft"/></animateMotion><animate attributeName="opacity" to="1" begin="0.87s" dur="0.01s" fill="freeze"/></circle>
+    <circle r="3.4" opacity="0"><animateMotion dur="2.6s" repeatCount="indefinite" begin="1.74s"><mpath href="#pLeft" xlink:href="#pLeft"/></animateMotion><animate attributeName="opacity" to="1" begin="1.74s" dur="0.01s" fill="freeze"/></circle>
   </g>
   <g fill="#FFE9C2" filter="url(#glow)">
-    <circle r="3.4"><animateMotion dur="2.6s" repeatCount="indefinite" begin="0.3s"><mpath href="#pRight" xlink:href="#pRight"/></animateMotion></circle>
-    <circle r="3.4"><animateMotion dur="2.6s" repeatCount="indefinite" begin="1.17s"><mpath href="#pRight" xlink:href="#pRight"/></animateMotion></circle>
-    <circle r="3.4"><animateMotion dur="2.6s" repeatCount="indefinite" begin="2.04s"><mpath href="#pRight" xlink:href="#pRight"/></animateMotion></circle>
+    <circle r="3.4" opacity="0"><animateMotion dur="2.6s" repeatCount="indefinite" begin="0.3s"><mpath href="#pRight" xlink:href="#pRight"/></animateMotion><animate attributeName="opacity" to="1" begin="0.3s" dur="0.01s" fill="freeze"/></circle>
+    <circle r="3.4" opacity="0"><animateMotion dur="2.6s" repeatCount="indefinite" begin="1.17s"><mpath href="#pRight" xlink:href="#pRight"/></animateMotion><animate attributeName="opacity" to="1" begin="1.17s" dur="0.01s" fill="freeze"/></circle>
+    <circle r="3.4" opacity="0"><animateMotion dur="2.6s" repeatCount="indefinite" begin="2.04s"><mpath href="#pRight" xlink:href="#pRight"/></animateMotion><animate attributeName="opacity" to="1" begin="2.04s" dur="0.01s" fill="freeze"/></circle>
   </g>
 
   <g>
