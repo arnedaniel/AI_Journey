@@ -1,4 +1,6 @@
-<img src="assets/rail.svg" alt="" width="100%">
+<a href="projects/"><img src="assets/journey-map.svg" alt="My AI Journey: the projects and how they connect" width="100%"></a>
+
+<p align="center"><em>Click the map to open the projects, each with its own page: what it is, where it stands, and a dated log of how it went.</em></p>
 
 # AI_Journey
 
@@ -16,7 +18,7 @@ Two things this repository does not pretend to be. It is not a portfolio of fini
 Active — working the official exam prep plan
 
 **[Claude Masterclass](projects/Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
-Finished 30 August — two sections still open on a setup problem
+Section 4 of 14 — the Claude Code and agent chapters are done, Excel and PowerPoint are not
 
 Three more are queued and not started yet — they are listed, with the reasoning, on the [projects page](projects/).
 
@@ -34,7 +36,7 @@ Two so far. A passed quiz is a log entry; a milestone is something that changed 
 | Date | What | Why it counted |
 |---|---|---|
 | 31 Aug 2026 | Built MAVE, a personal second brain | It grows every day instead of being finished. It reads my own notes, sources and coursework, keeps them cross-linked, and runs the automations I work with daily. Ten of those follow the course blueprints and I cut them to my own goals; the rest I designed myself, problem and decisions included. It stays private because it runs on my real mail, calendar and coursework. |
-| 30 Aug 2026 | Finished the Claude Masterclass | 132 planned lessons of 158, over six weeks without a gap. It is the reason the line above it exists. |
+| 30 Aug 2026 | Finished the Claude Code and agent chapters | 132 planned lessons of 158, over six weeks without a gap. It is the reason the line above it exists. |
 
 ### ⬜ &nbsp;How to read this repository
 

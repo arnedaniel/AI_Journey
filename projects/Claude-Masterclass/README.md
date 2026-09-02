@@ -5,7 +5,7 @@
 Working through *"The Complete Claude Code & Claude Cowork Masterclass [2026]"* by Prof. Ryan Ahmed — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🟢 &nbsp;132 of 132 target lessons complete
+🔵 &nbsp;Section 4 of 14 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;133 of 158 lessons &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Excel add-in blocked on admin rights
 <!-- STATUS:END -->
 
 ---
@@ -17,10 +17,10 @@ Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build 
 ### 🟥 &nbsp;Where this stands
 
 <!-- STATE:START -->
-**Completed 2026-08-30** — all 132 target lessons watched, over 40 days from the first one<br>
+**133 of 158 lessons** — the 132 I had planned were watched by 2026-08-30, over 40 days from the first one<br>
 **All ten automation blueprints built and tested** — sprint tracker through weekly executive reporting<br>
-**Sections 4 and 5** (Claude in Excel, Claude in PowerPoint) left open — attempted on 31 August and blocked by the add-in, not by the material<br>
-**Next up** — nothing scheduled; the certification has the next two weeks
+**Sections 4 and 5** (Claude in Excel, Claude in PowerPoint) mostly open — the Section 4 intro lesson played fine on 31 August (1/16), but the hands-on lessons stay blocked by the add-in needing admin rights<br>
+**Next up** — L42, Setting up Claude inside Excel, once the add-in rights clear; otherwise the certification has the next two weeks
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;Sections
@@ -40,7 +40,8 @@ Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build 
 
 Sections 4 and 5 were skipped on purpose at the time: the Claude Code and agent chapters were the reason I bought the course, and the Microsoft-tool workflows could wait. I came back to them on 31 August and could not get in — the add-in needs rights I do not have on this machine, and it does not appear inside the application either. That is a setup problem, not a decision, so they stay open rather than closed.
 
-Either way the target is met: **132 target lessons of 158**.
+So the plan I set myself is met and the course is not. The front page counts what is
+actually watched: **133 of 158**.
 
 ### ⬜ &nbsp;The files here
 

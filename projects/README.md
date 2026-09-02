@@ -11,10 +11,14 @@ Each project gets its own folder here, with the same three files: a `README.md` 
 **[AWS-AI-Practitioner](AWS-AI-Practitioner/)** — the road to the AIF-C01 certification, worked through AWS Skill Builder.<br>
 Working the official exam prep plan
 
+**[Claude-Masterclass](Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
+Section 4 of 14 — the Claude Code and agent chapters are done, Excel and PowerPoint are not
+
 ### 🟥 &nbsp;Finished
 
-**[Claude-Masterclass](Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
-Finished 30 August, 132 of 132 target lessons — sections 4 and 5 still open on a setup problem
+Nothing here yet. The Claude Masterclass sat here from 30 August, when the 132 lessons I had
+planned were done. It moved back to Running on 2 September: sections 4 and 5 are wanted after
+all, so a course with two open sections is not a finished one.
 
 ### 🟪 &nbsp;Queued
 
@@ -26,6 +30,7 @@ Not started, and deliberately not folders yet — a folder gets created on the d
 
 ### ⬜ &nbsp;How this list changes
 
-An entry moves **Queued → Running → Finished** and never leaves. A folder is created on the day the work starts, not when I decide it sounds interesting, and a project that turns out to be a dead end stays here marked as one.
+An entry moves **Queued → Running → Finished** and never leaves. It can move back from
+Finished to Running when it turns out not to be done, with the reason on its line. A folder is created on the day the work starts, not when I decide it sounds interesting, and a project that turns out to be a dead end stays here marked as one.
 
 The order of the queue is a guess, not a commitment.

@@ -2,17 +2,19 @@
 
 A running log of my AI journey. Newest entries at the top.
 
-A course log for **"The Complete Claude Code & Claude Cowork Masterclass [2026]"** by Prof. Ryan Ahmed, 158 lessons. Finished on 30 August 2026 at 132 of them; the two Microsoft-tool sections are still open.
+A course log for **"The Complete Claude Code & Claude Cowork Masterclass [2026]"** by Prof. Ryan Ahmed, 158 lessons. At 133 of them. The 132 I had planned were done on 30 August 2026; sections 4 and 5, Claude in Excel and Claude in PowerPoint, are still open.
 
 ---
 
 ## 2026-08-31 (Mon) — Closing the course out
 
-- **Tried to reopen sections 4 and 5** — Claude in Excel and Claude in PowerPoint, the two I had skipped. Neither lesson got watched: the add-in would not install without administrator rights on this machine, and it does not show up inside the application on its own either.
-- **Leaving it open rather than calling it done** — It is a setup problem, not a decision about the material. If I clear the rights question, I watch the lessons and log them here like everything else.
+- **Tried to reopen sections 4 and 5** — Claude in Excel and Claude in PowerPoint, the two I had skipped. The hands-on lessons still would not run: the add-in would not install without administrator rights on this machine, and it does not show up inside the application on its own either.
+- **L41 — Module Introduction & Key Learning Objectives: Claude in Excel** (5 min) — This one did play and mark complete, since it's just the section's intro and objectives overview with no add-in required. Confirms the block is specifically the Excel add-in, not the Udemy player.
+- **Leaving the rest open rather than calling it done** — It is a setup problem, not a decision about the material. If I clear the rights question, I watch the remaining lessons and log them here like everything else.
 - **The course itself is finished** — 132 of 132 target lessons, and the ten automation blueprints from sections 12 to 14 are all built and running rather than sitting in notes.
+- **Course total: 133/158 lessons — Section 4 at 1/16**
 
-**Next up:** Nothing on this course. The AWS certification has the next two weeks.
+**Next up:** L42 — Setting up Claude inside Excel, once the add-in rights issue clears. Otherwise nothing on this course; the AWS certification has the next two weeks.
 
 ---
 
