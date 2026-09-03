@@ -2,7 +2,42 @@
 
 A running log of my AI journey. Newest entries at the top.
 
-A course log for **"The Complete Claude Code & Claude Cowork Masterclass [2026]"** by Prof. Ryan Ahmed, 158 lessons. At 133 of them. The 132 I had planned were done on 30 August 2026; sections 4 and 5, Claude in Excel and Claude in PowerPoint, are still open.
+A course log for **"The Complete Claude Code & Claude Cowork Masterclass [2026]"** by Prof. Ryan Ahmed, 158 lessons, all 158 watched. The 132 I had planned were done on 30 August 2026; sections 4 and 5, Claude in Excel and Claude in PowerPoint, followed on 3 September and closed the course out.
+
+---
+
+## 2026-09-03 (Thu) — Day 26: Excel and PowerPoint cleared — course complete at 158/158
+
+- **L42 — Setting up Claude inside Excel** (2 min) — Installed and connected the Claude add-in inside Excel, the last blocker before the section's hands-on lessons could run.
+- **L43 — Using Claude in Excel to Generate General Data Insights** (8 min) — Asked Claude directly inside a spreadsheet for a general read on a dataset — patterns, outliers, and a plain-language summary of what the numbers show.
+- **L44 — Obtain Data Statistical Summary & Filter Specific Rows based on Conditions** (5 min) — Had Claude generate summary statistics and filter rows by condition without writing a formula.
+- **L45 — Perform Data Visualization with Claude in Excel** (6 min) — Generated charts by describing what to show rather than picking a chart type manually.
+- **L46 — Data Sorting Using Claude in Excel** (3 min) — Sorted a dataset by natural-language instruction instead of the sort dialog.
+- **L47 — Data Filtering with Claude** (2 min) — Filtered rows conversationally, refining the criteria across a couple of follow-up prompts.
+- **L48 — Conditional Formatting & Color coding** (3 min) — Set up conditional formatting and color-coded a sheet by describing the rule instead of building it in the UI.
+- **L49 — Handling Missing Values (Data Imputation)** (8 min) — Used Claude to spot missing values and fill them with a sensible imputation strategy rather than deleting the rows.
+- **L50 — Build Advanced Wall Street-level Financial Models with Claude Cowork** (11 min) — Started a full financial model with Cowork driving Excel end to end, not just answering questions about a sheet.
+- **L51 — Perform Discounted Cashflow modeling** (7 min) — Walked through the mechanics of a discounted cash flow model before building one.
+- **L52 — Claude for Building Discounted Cash Flow (DCF) Financial Models** (9 min) — Built a working DCF model in Excel with Claude handling the formulas and structure.
+- **L53 — Leveraged Buyout Modeling Intuition** (6 min) — Covered the intuition behind LBO modeling — debt, returns, exit assumptions — before building one.
+- **L54 — Build an LBO Financial Model in Claude** (4 min) — Built a leveraged buyout model in Excel with Claude.
+- **L55/56 — Practice Opportunity Question + Solution: Using Claude in Excel for Data Analysis** (3+12 min) — Applied the section's data-analysis techniques to a new dataset, closing out Section 4.
+- **L57 — Key Learning Objectives & Get Claude PowerPoint Add-in** (4 min) — Installed the Claude PowerPoint add-in and set expectations for the section.
+- **L58 — Create PowerPoint Presentations with Claude** (11 min) — Generated a full slide deck from a prompt inside PowerPoint.
+- **L59 — Claude adds speaking notes to PowerPoint slides** (4 min) — Had Claude write speaker notes for existing slides.
+- **L60 — Improve PowerPoint Slides Design with Claude** (6 min) — Used Claude to clean up and restyle slide design without touching layout manually.
+- **L61 — Add New Slides from Online sources and Change Tone** (7 min) — Pulled content from an online source into new slides and adjusted the tone of the writing.
+- **L62 — Generate PowerPoint slides from PDFs** (8 min) — Converted a PDF's content directly into a slide deck.
+- **L63 — Summarize and Organize Existing PowerPoint Slides** (7 min) — Had Claude summarize and reorganize an existing deck into a tighter structure.
+- **L64 — Generate PowerPoint Presentations from Template** (5 min) — Generated a new deck using an existing branded template.
+- **L65 — Get Coached by Claude to Present the Slides** (5 min) — Used Claude as a presentation coach to practice delivering the deck.
+- **L66 — Claude Vs. Copilot Vs. NotebookLM** (10 min) — Compared Claude's PowerPoint workflow against Copilot and NotebookLM to see where each tool actually wins, closing out Section 5.
+- **Course total: 158/158 lessons — Section 4 complete at 16/16, Section 5 complete at 10/10**
+- Section 4 "Claude in Microsoft Excel" is done ✅ — the add-in rights issue that blocked it since 31 August cleared, and the rest of the section played in one sitting.
+- Section 5 "Claude in PowerPoint" is done ✅.
+- That's all 158 of 158 lessons — the course is fully complete, sections 4 and 5 included.
+
+**Next up:** None — every lesson is watched. The AWS certification has the focus now.
 
 ---
 

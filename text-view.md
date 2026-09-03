@@ -20,7 +20,7 @@ anyone who would rather read than click through a picture.
 Active — working the official exam prep plan
 
 **[Claude Masterclass](projects/Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
-Section 4 of 14 — the Claude Code and agent chapters are done, Excel and PowerPoint are not
+Finished 3 September 2026 — all 158 lessons, Excel and PowerPoint included
 
 Three more are queued and not started yet — they are listed, with the reasoning, on the [projects page](projects/).
 
@@ -38,6 +38,8 @@ Start with a project — that is where the actual work is. Every project folder 
 [`README.md`](projects/AWS-AI-Practitioner/README.md) — what the project is, and exactly where it stands right now<br>
 [`study-plan.md`](projects/AWS-AI-Practitioner/study-plan.md) — where it is going, and what is still undecided<br>
 [`progress.md`](projects/AWS-AI-Practitioner/progress.md) — dated entries, newest first
+
+A finished project adds a fourth, its certificate — the [Claude Masterclass](projects/Claude-Masterclass/) has one.
 
 The counts live on the project pages, not on this one. What is recorded there is what happened, not what I meant to happen.
 

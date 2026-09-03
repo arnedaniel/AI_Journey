@@ -5,7 +5,7 @@
 Working through *"The Complete Claude Code & Claude Cowork Masterclass [2026]"* by Prof. Ryan Ahmed — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🔵 &nbsp;Section 4 of 14 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;133 of 158 lessons &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Excel add-in blocked on admin rights
+🟢 &nbsp;158 of 158 lessons — course complete
 <!-- STATUS:END -->
 
 ---
@@ -17,10 +17,9 @@ Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build 
 ### 🟥 &nbsp;Where this stands
 
 <!-- STATE:START -->
-**133 of 158 lessons** — the 132 I had planned were watched by 2026-08-30, over 40 days from the first one<br>
-**All ten automation blueprints built and tested** — sprint tracker through weekly executive reporting<br>
-**Sections 4 and 5** (Claude in Excel, Claude in PowerPoint) mostly open — the Section 4 intro lesson played fine on 31 August (1/16), but the hands-on lessons stay blocked by the add-in needing admin rights<br>
-**Next up** — L42, Setting up Claude inside Excel, once the add-in rights clear; otherwise the certification has the next two weeks
+**Completed 2026-09-03**<br>
+**158 of 158 lessons** — every lesson watched, including Sections 4 and 5 once the Excel/PowerPoint add-in rights issue cleared<br>
+**All ten automation blueprints built and tested** — sprint tracker through weekly executive reporting
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;Sections
@@ -28,7 +27,7 @@ Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build 
 | | Section | Status |
 |---|---|---|
 | 1–3 | Intro, Cowork, Skills and Plugins, Claude Chat Mastery | **Done** |
-| 4–5 | Claude in Excel and PowerPoint | Open |
+| 4–5 | Claude in Excel and PowerPoint | **Done** |
 | 6 | Claude Code Foundations — the biggest chapter | **Done** |
 | 7 | Claude Code for Building Apps | **Done** |
 | 8 | Claude Code for Building AI Agents | **Done** |
@@ -38,12 +37,22 @@ Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build 
 | 13 | Automations: research teams, CRM, meeting intel, email triage | **Done** |
 | 14 | Automations: expense wrangler, content machine, weekly exec | **Done** |
 
-Sections 4 and 5 were skipped on purpose at the time: the Claude Code and agent chapters were the reason I bought the course, and the Microsoft-tool workflows could wait. I came back to them on 31 August and could not get in — the add-in needs rights I do not have on this machine, and it does not appear inside the application either. That is a setup problem, not a decision, so they stay open rather than closed.
+Sections 4 and 5 were skipped on purpose at the time: the Claude Code and agent chapters were the reason I bought the course, and the Microsoft-tool workflows could wait. I came back to them on 31 August and could not get in — the add-in needed rights I did not have on that machine, and it did not appear inside the application either. Once that cleared, both sections played through in a single sitting.
 
-So the plan I set myself is met and the course is not. The front page counts what is
-actually watched: **133 of 158**.
+The plan I set myself was met on 30 August, and the whole course followed on 3 September. The front page counts what is
+actually watched: **158 of 158**.
+
+### 🟦 &nbsp;The certificate
+
+<img src="certificate.png" alt="Udemy certificate of completion: The Complete Claude Code and Claude Cowork Masterclass 2026, issued to Daniel Arne on 3 September 2026" width="100%">
+
+**Issued 3 September 2026** — the day sections 4 and 5 were watched and the course closed out<br>
+**Certificate number UC-465c4fce-e928-482f-b8f0-4a11b1212091** — printed on the certificate itself, so it can be checked without this page linking anywhere<br>
+**It reads 22 hours** — that is the course's listed length; the 19h 07 in the [study plan](./study-plan.md) is the sum of the lesson times I logged<br>
+**The document is German** — that is how Udemy issued it; everything written around it stays English
 
 ### ⬜ &nbsp;The files here
 
 [`progress.md`](./progress.md) — dated entries: what I watched and what I took from it<br>
-[`study-plan.md`](./study-plan.md) — what was planned, what happened, and what I would plan differently
+[`study-plan.md`](./study-plan.md) — what was planned, what happened, and what I would plan differently<br>
+[`certificate.png`](./certificate.png) — the completion certificate, shown above

@@ -1,5 +1,5 @@
 <p align="center">
-<a href="projects/Claude-Masterclass/"><img src="assets/map/tile-claude.svg" width="184" alt="Claude Masterclass, lesson 133 of 158"></a><a href="projects/"><img src="assets/map/tile-core.svg" width="176" alt="My AI Journey"></a><a href="projects/AWS-AI-Practitioner/"><img src="assets/map/tile-aws.svg" width="184" alt="AWS AI Practitioner, in progress"></a><a href="text-view.md"><img src="assets/map/tile-textview.svg" width="56" alt="Text view: the whole page as plain text"></a>
+<a href="projects/Claude-Masterclass/"><img src="assets/map/tile-claude.svg" width="184" alt="Claude Masterclass, finished"></a><a href="projects/"><img src="assets/map/tile-core.svg" width="176" alt="My AI Journey"></a><a href="projects/AWS-AI-Practitioner/"><img src="assets/map/tile-aws.svg" width="184" alt="AWS AI Practitioner, in progress"></a><a href="text-view.md"><img src="assets/map/tile-textview.svg" width="56" alt="Text view: the whole page as plain text"></a>
 </p>
 
 <p align="center">

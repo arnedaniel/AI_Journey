@@ -2,7 +2,7 @@
 
 # Projects
 
-Each project gets its own folder here, with the same three files: a `README.md` for what it is, a `study-plan.md` for where it is going, and a `progress.md` of dated entries, newest first.
+Each project gets its own folder here, with the same three files: a `README.md` for what it is, a `study-plan.md` for where it is going, and a `progress.md` of dated entries, newest first. A finished one may carry a fourth, its certificate.
 
 ---
 
@@ -11,14 +11,10 @@ Each project gets its own folder here, with the same three files: a `README.md` 
 **[AWS-AI-Practitioner](AWS-AI-Practitioner/)** — the road to the AIF-C01 certification, worked through AWS Skill Builder.<br>
 Working the official exam prep plan
 
-**[Claude-Masterclass](Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
-Section 4 of 14 — the Claude Code and agent chapters are done, Excel and PowerPoint are not
-
 ### 🟥 &nbsp;Finished
 
-Nothing here yet. The Claude Masterclass sat here from 30 August, when the 132 lessons I had
-planned were done. It moved back to Running on 2 September: sections 4 and 5 are wanted after
-all, so a course with two open sections is not a finished one.
+**[Claude-Masterclass](Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
+All 158 of 158 lessons done. Sat here briefly on 30 August for the 132 planned lessons, moved back to Running on 2 September when Sections 4 and 5 turned out to be wanted after all, and finished for real on 3 September once those two sections were watched.
 
 ### 🟪 &nbsp;Queued
 

@@ -22,8 +22,6 @@
   <rect x="56.0" y="39" width="64" height="2.2" rx="1.1" fill="url(#rail)" opacity="0.75"/>
   <path id="sl" d="M40,138 H0" fill="none" stroke="#8F5FBF" stroke-width="2"/>
   <path id="sr" d="M136,138 H176" fill="none" stroke="#E8A33D" stroke-width="2"/>
-  <circle r="3" fill="#8F5FBF" filter="url(#g)"><animateMotion dur="1.5s" repeatCount="indefinite" begin="0.0s"><mpath href="#sl" xlink:href="#sl"/></animateMotion></circle>
-  <circle r="3" fill="#8F5FBF" filter="url(#g)" opacity="0"><animateMotion dur="1.5s" repeatCount="indefinite" begin="0.75s"><mpath href="#sl" xlink:href="#sl"/></animateMotion><animate attributeName="opacity" to="1" begin="0.75s" dur="0.01s" fill="freeze"/></circle>
   <circle r="3" fill="#E8A33D" filter="url(#g)"><animateMotion dur="1.5s" repeatCount="indefinite" begin="0.0s"><mpath href="#sr" xlink:href="#sr"/></animateMotion></circle>
   <circle r="3" fill="#E8A33D" filter="url(#g)" opacity="0"><animateMotion dur="1.5s" repeatCount="indefinite" begin="0.75s"><mpath href="#sr" xlink:href="#sr"/></animateMotion><animate attributeName="opacity" to="1" begin="0.75s" dur="0.01s" fill="freeze"/></circle>
   <path d="M88.0,186 V250" fill="none" stroke="#39424F" stroke-width="2" stroke-dasharray="7 13"/>

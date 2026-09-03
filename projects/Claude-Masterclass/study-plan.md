@@ -1,6 +1,6 @@
 # Study Plan — Claude Code & Cowork Masterclass
 
-Started 2026-07-21, finished 2026-08-30. **132 target lessons of 158, all watched.**
+Started 2026-07-21, finished 2026-08-30 for the 132 target lessons. Sections 4 and 5 followed on 2026-09-03. **158 of 158 lessons, all watched.**
 
 This file is what the plan was and what happened to it. Kept rather than deleted, because the gap between the two is the only interesting part.
 
@@ -27,7 +27,7 @@ A few videos a day, sections taken in order, with a date pencilled in for each o
 
 **The plan held, and that was the surprise.** Eight section deadlines, none of them missed, two of them beaten. What it did not predict is that sections 12 to 14 would stop being a course: those ten automations got built and are running, rather than watched and noted.
 
-**Sections 4 and 5 are open, not skipped.** That changed on 31 August. I went back for them and could not get in — the add-in needs administrator rights I do not have on this machine, and it does not appear inside the application on its own either. That is a setup problem, not a decision, so they stay open. If I clear it, the lessons get watched and logged like everything else.
+**Sections 4 and 5 are done too, not just open.** They went from blocked to finished between 31 August and 3 September: the add-in rights issue that stopped the section-4 intro lesson from going further cleared, and both Claude in Excel (16 lessons) and Claude in PowerPoint (10 lessons) got watched. The course now stands at 158 of 158, past the original 132-lesson plan.
 
 ### 🟪 &nbsp;What I would plan differently
 
