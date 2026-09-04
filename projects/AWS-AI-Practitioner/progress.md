@@ -6,6 +6,17 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 ---
 
+## 2026-09-04 (Fri) — Day 6: Course 3 of 8, and an hour that took two
+
+- **Finished: Responsible Artificial Intelligence Practices** — the third of the eight learning-plan courses, and the one that feeds domain 4 of the exam. Four parts: what responsible AI is and the core dimensions it gets measured on, how to build a responsible system and which AWS tooling exists for it, what to weigh when choosing a model and preparing the data, and finally transparency and explainability — what a transparent model actually costs you in trade, and what human-centred design means when the explanation has to reach the person the decision affects.
+- **Billed at one hour. It took me two.** Second time now: course 1 was billed the same way and also ran over. The listed hour counts the material, not the working through it — these courses carry knowledge checks and interactive sections, and I stop at them rather than clicking past. I am planning the remaining five at double their stated length instead of being surprised by it again.
+- **Learning plan: 3 of 8. Exam prep plan: still 1 of 19.** Two counters, still separate, still not adding up into one number.
+- **Skill Builder locked me out for most of the day** — The platform answered *Not Subscribed* and refused every course, while the billing page showed the subscription running to August 2027. Signing out and back in changed nothing. It came back on its own in the evening. Logged because it cost the day, not because it needed solving in the end.
+
+**Next up:** Finish the practice question set, then sit the pretest cold.
+
+---
+
 ## 2026-09-01 (Tue) — Day 5: Course 2 of 8, and a lesson about reading
 
 - **Finished: Exploring Artificial Intelligence Use Cases and Applications** — the second of the eight learning-plan courses. Where course 1 was the mechanics of machine learning, this one is about matching a business problem to the right kind of solution, and knowing when the answer is not AI at all.

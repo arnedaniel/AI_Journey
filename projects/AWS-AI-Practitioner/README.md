@@ -5,7 +5,7 @@
 My road to the AWS AI Practitioner certification, worked through AWS Skill Builder — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🔵 &nbsp;Exam prep plan: 1 of 19 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Learning plan: 2 of 8 &nbsp;&nbsp;&nbsp; 🟢 &nbsp;Everything unlocked
+🔵 &nbsp;Exam prep plan: 1 of 19 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Learning plan: 3 of 8 &nbsp;&nbsp;&nbsp; 🟢 &nbsp;Everything unlocked
 <!-- STATUS:END -->
 
 ---
@@ -19,7 +19,7 @@ Earn the AWS Certified AI Practitioner certification, and sit the exam in **mid-
 <!-- STATE:START -->
 **Two plans, counted separately** — an exam prep plan of 19 items, and a learning plan of 8 courses that feed it<br>
 **Exam prep plan: 1 of 19** — the overview done, the practice question set open and unscored<br>
-**Learning plan: 2 of 8** — Fundamentals of Machine Learning and AI, then AI Use Cases and Applications<br>
+**Learning plan: 3 of 8** — machine learning fundamentals, then AI use cases and applications, then responsible AI practices<br>
 **Next up** — finish the question set, then sit the pretest cold
 <!-- STATE:END -->
 
