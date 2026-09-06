@@ -6,6 +6,16 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 ---
 
+## 2026-09-06 (Sun) — Day 7: Course 4 of 8, and the one I actually enjoyed
+
+- **Finished: Developing Machine Learning Solutions** — the fourth of the eight learning-plan courses. The machine learning lifecycle end to end, which AWS service belongs at which stage of it, where models come from and how you judge whether one is any good, and MLOps as the part that turns a model that works once into a model that keeps working.
+- **The most interesting course of the four so far, by a distance.** The first three explained what things are. This one explained how the pieces fit into a process, and a process is something I can picture myself doing rather than reciting.
+- **Billed at one hour, took me two and a half.** Fourth course in a row over its listed time. The rule I set after course 3 held, so I am keeping it: plan these at twice their stated length, and for this one that was still short.
+- **Knowledge checks: 5 of 6.** The miss was overfitting against underfitting, which I have now mixed up more than once, so it goes in the log rather than quietly past me. What fixed it was dropping the words and asking one question instead: how did it do on the material it trained on? Good on the training set and bad on new data is overfitting — it memorised the examples instead of the rule. Bad on both is underfitting — it never got the rule at all. I taught maths for four years and both of those were sitting in front of me every week; I just never named them.
+- **Learning plan: 4 of 8. Exam prep plan: still 1 of 19.**
+
+**Next up:** Developing Generative Artificial Intelligence Solutions, course 5 of 8.
+
 ## 2026-09-04 (Fri) — Day 6: Course 3 of 8, and an hour that took two
 
 - **Finished: Responsible Artificial Intelligence Practices** — the third of the eight learning-plan courses, and the one that feeds domain 4 of the exam. Four parts: what responsible AI is and the core dimensions it gets measured on, how to build a responsible system and which AWS tooling exists for it, what to weigh when choosing a model and preparing the data, and finally transparency and explainability — what a transparent model actually costs you in trade, and what human-centred design means when the explanation has to reach the person the decision affects.
