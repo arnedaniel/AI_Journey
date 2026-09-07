@@ -25,17 +25,17 @@ Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build 
 ### 🟪 &nbsp;Sections
 
 | | Section | Status |
-|---|---|---|
-| 1–3 | Intro, Cowork, Skills and Plugins, Claude Chat Mastery | ✅ |
-| 4–5 | Claude in Excel and PowerPoint | ✅ |
-| 6 | Claude Code Foundations — the biggest chapter | ✅ |
-| 7 | Claude Code for Building Apps | ✅ |
-| 8 | Claude Code for Building AI Agents | ✅ |
-| 9–10 | Personal AI agent: intro and architecture | ✅ |
-| 11 | Set up your personal AI agent | ✅ |
-| 12 | Automations: sprint tracker, market pulse, morning brief | ✅ |
-| 13 | Automations: research teams, CRM, meeting intel, email triage | ✅ |
-| 14 | Automations: expense wrangler, content machine, weekly exec | ✅ |
+|:---:|:---|:---:|
+| 1–3 | Intro, Cowork, Skills and Plugins, Claude Chat Mastery | 🟢 |
+| 4–5 | Claude in Excel and PowerPoint | 🟢 |
+| 6 | Claude Code Foundations — the biggest chapter | 🟢 |
+| 7 | Claude Code for Building Apps | 🟢 |
+| 8 | Claude Code for Building AI Agents | 🟢 |
+| 9–10 | Personal AI agent: intro and architecture | 🟢 |
+| 11 | Set up your personal AI agent | 🟢 |
+| 12 | Automations: sprint tracker, market pulse, morning brief | 🟢 |
+| 13 | Automations: research teams, CRM, meeting intel, email triage | 🟢 |
+| 14 | Automations: expense wrangler, content machine, weekly exec | 🟢 |
 
 Sections 4 and 5 were skipped on purpose at the time: the Claude Code and agent chapters were the reason I bought the course, and the Microsoft-tool workflows could wait. I came back to them on 31 August and could not get in — the add-in needed rights I did not have on that machine, and it did not appear inside the application either. Once that cleared, both sections played through in a single sitting.
 

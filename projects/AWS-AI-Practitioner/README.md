@@ -28,13 +28,13 @@ Earn the AWS Certified AI Practitioner certification, and sit the exam in **mid-
 Eight courses, in the order the learning plan puts them. The method is to learn the material first and measure afterwards.
 
 | | Course | Status |
-|---|---|---|
-| 1 | Fundamentals of Machine Learning and Artificial Intelligence | ✅ |
-| 2 | Exploring Artificial Intelligence Use Cases and Applications | ✅ |
-| 3 | Responsible Artificial Intelligence Practices | ✅ |
-| 4 | Developing Machine Learning Solutions | ✅ |
-| 5 | Developing Generative Artificial Intelligence Solutions | ✅ |
-| 6 | Optimizing Foundation Models | 🔄 |
+|:---:|:---|:---:|
+| 1 | Fundamentals of Machine Learning and Artificial Intelligence | 🟢 |
+| 2 | Exploring Artificial Intelligence Use Cases and Applications | 🟢 |
+| 3 | Responsible Artificial Intelligence Practices | 🟢 |
+| 4 | Developing Machine Learning Solutions | 🟢 |
+| 5 | Developing Generative Artificial Intelligence Solutions | 🟢 |
+| 6 | Optimizing Foundation Models | 🔵 |
 | 7 | Security, Compliance, and Governance for AI Solutions | ⚪ |
 | 8 | Essentials of Prompt Engineering | ⚪ |
 
