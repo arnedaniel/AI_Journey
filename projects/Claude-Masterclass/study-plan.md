@@ -11,8 +11,9 @@ This file is what the plan was and what happened to it. Kept rather than deleted
 A few videos a day, sections taken in order, with a date pencilled in for each one. Sections 4 and 5 were left out of the target from the start: the Claude Code and agent chapters were the reason I bought the course, and the Microsoft-tool workflows could wait.
 
 | Section | Planned by | Landed |
-|---|---|---|
+|:---|:---|:---|
 | 1–3 — Intro, Cowork, Skills and Plugins, Claude Chat | 2 Aug | on time |
+| 4–5 — Claude in Excel and PowerPoint | not in the plan | 3 Sep, added later |
 | 6 — Claude Code Foundations, the biggest chapter | 16 Aug | on time |
 | 7 — Claude Code for Building Apps | 20 Aug | on time |
 | 8 — Claude Code for Building AI Agents | 28 Aug | on time |
