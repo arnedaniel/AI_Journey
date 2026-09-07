@@ -6,6 +6,18 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 ---
 
+## 2026-09-07 (Mon) — Day 8: Course 5 of 8, and the vocabulary caught up with the tools
+
+- **Finished: Developing Generative Artificial Intelligence Solutions** — the fifth of the eight learning-plan courses, and the one that covers the generative side end to end. The application lifecycle in five phases: define a use case, select a foundation model, improve its performance, evaluate the results, deploy. The loop closes rather than ends — feedback and metrics from a deployed system flow back and trigger retraining.
+- **Four ways to make a model better, and they are not interchangeable.** Prompt engineering changes the wording. RAG hands the model documents at runtime. Fine-tuning changes the weights themselves, either with worked examples or with human feedback. Building from scratch is the expensive last resort. Cost and accuracy both climb from left to right, and the first two leave the model untouched.
+- **RAG against fine-tuning is the pair worth getting right.** Dropping the names helps here the same way it did with overfitting: does the model itself change, or does it just get better material on the desk? Open-book exam versus a semester of study. One is cheaper and always current, the other sits deeper.
+- **ROUGE, BLEU and BERTScore sound interchangeable and are not.** ROUGE is built for summarisation, BLEU for translation — *bilingual* is in the name — and BERTScore compares meaning rather than overlapping words. The knowledge check leans on exactly that confusion.
+- **The terms turned out to describe things I already use.** The notes system I read from before answering questions is retrieval-augmented generation; the file that defines how my agent writes is instruction tuning; every time I say *rewrite that, it sounds off* I am doing by hand what RLHF does at scale. Naming them changed nothing about the tools and quite a lot about how well I can reason about them.
+- **Billed at one hour, took an hour forty-five.** Fifth in a row over its listed time, but the first that came anywhere near it. The doubling rule I set after course 3 was generous here — this one is mostly prose and flashcards, where course 4 had the metric arithmetic that ate the extra hour. Quicker than the last one and still nearly twice what the label says.
+- **Learning plan: 5 of 8. Exam prep plan: still 1 of 19.**
+
+**Next up:** Optimizing Foundation Models, course 6 of 8.
+
 ## 2026-09-06 (Sun) — Day 7: Course 4 of 8, and the one I actually enjoyed
 
 - **Finished: Developing Machine Learning Solutions** — the fourth of the eight learning-plan courses. The machine learning lifecycle end to end, which AWS service belongs at which stage of it, where models come from and how you judge whether one is any good, and MLOps as the part that turns a model that works once into a model that keeps working.
