@@ -29,14 +29,14 @@ Eight courses, in the order the learning plan puts them. The method is to learn 
 
 | | Course | Status |
 |---|---|---|
-| 1 | Fundamentals of Machine Learning and Artificial Intelligence | ✅ &nbsp;Done |
-| 2 | Exploring Artificial Intelligence Use Cases and Applications | ✅ &nbsp;Done |
-| 3 | Responsible Artificial Intelligence Practices | ✅ &nbsp;Done |
-| 4 | Developing Machine Learning Solutions | ✅ &nbsp;Done |
-| 5 | Developing Generative Artificial Intelligence Solutions | ✅ &nbsp;Done |
-| 6 | Optimizing Foundation Models | 🔄 &nbsp;Next |
-| 7 | Security, Compliance, and Governance for AI Solutions | ⚪ &nbsp;Open |
-| 8 | Essentials of Prompt Engineering | ⚪ &nbsp;Open |
+| 1 | Fundamentals of Machine Learning and Artificial Intelligence | ✅ |
+| 2 | Exploring Artificial Intelligence Use Cases and Applications | ✅ |
+| 3 | Responsible Artificial Intelligence Practices | ✅ |
+| 4 | Developing Machine Learning Solutions | ✅ |
+| 5 | Developing Generative Artificial Intelligence Solutions | ✅ |
+| 6 | Optimizing Foundation Models | 🔄 |
+| 7 | Security, Compliance, and Governance for AI Solutions | ⚪ |
+| 8 | Essentials of Prompt Engineering | ⚪ |
 
 Then, and only then: the official practice question set, the pretest, and the practice exam as a readiness check before I book.
 
