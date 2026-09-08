@@ -5,7 +5,7 @@
 My road to the AWS AI Practitioner certification, worked through AWS Skill Builder — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🔵 &nbsp;Learning plan: 5 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Course 6, Optimizing Foundation Models &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Question set and pretest come after the eight
+🔵 &nbsp;Learning plan: 6 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Course 7, Security, Compliance, and Governance &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Question set and pretest come after the eight
 <!-- STATUS:END -->
 
 ---
@@ -17,10 +17,10 @@ Earn the AWS Certified AI Practitioner certification, and sit the exam in **mid-
 ### 🟥 &nbsp;Where this stands
 
 <!-- STATE:START -->
-**Learning plan: 5 of 8** — the eight courses are the plan; the question set and the pretest come after them, not before<br>
-**Done** — machine learning fundamentals, AI use cases and applications, responsible AI practices, developing machine learning solutions, developing generative AI solutions<br>
-**Listed at an hour each, running closer to two** — measured so far: two hours, two and a half, an hour forty-five, so the three that remain are about six hours, not three<br>
-**Next up** — Optimizing Foundation Models
+**Learning plan: 6 of 8** — the eight courses are the plan; the question set and the pretest come after them, not before<br>
+**Done** — machine learning fundamentals, AI use cases and applications, responsible AI practices, developing machine learning solutions, developing generative AI solutions, optimizing foundation models<br>
+**Open: the evaluation metrics side by side** — ROUGE, BLEU and BERTScore are clear one at a time and blur against each other, which is how the questions ask them<br>
+**Next up** — Security, Compliance, and Governance for AI Solutions
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;The road
@@ -34,8 +34,8 @@ Eight courses, in the order the learning plan puts them. The method is to learn 
 | 3 | Responsible Artificial Intelligence Practices | ✅ |
 | 4 | Developing Machine Learning Solutions | ✅ |
 | 5 | Developing Generative Artificial Intelligence Solutions | ✅ |
-| 6 | Optimizing Foundation Models | 🔵 |
-| 7 | Security, Compliance, and Governance for AI Solutions | – |
+| 6 | Optimizing Foundation Models | ✅ |
+| 7 | Security, Compliance, and Governance for AI Solutions | 🔵 |
 | 8 | Essentials of Prompt Engineering | – |
 
 Then, and only then: the official practice question set, the pretest, and the practice exam as a readiness check before I book.
@@ -44,7 +44,7 @@ Then, and only then: the official practice question set, the pretest, and the pr
 
 **What that costs me.** Skipping the pretest means I lose the chance to skip courses I might not need. I am paying up to ten hours for that. I would rather know the subject than know the questions, and this is the version of the plan I can defend in an interview.
 
-**Each course is billed at one hour and takes me closer to two.** The ones I timed came in at two hours, two and a half, and an hour forty-five. I plan the remaining three at two hours each and stop being surprised by it.
+**Each course is billed at one hour. The first ones took me two, and they have been getting faster since.** Four timed: two hours, two and a half, an hour forty-five, an hour twenty. Course 4 was the peak. I set a rule after course 3 to plan these at double their stated length, and four measurements later it is too generous to keep — the vocabulary repeats across the eight, so less of each hour goes on meeting a term for the first time. I plan the last two at ninety minutes.
 
 ### 🟦 &nbsp;A route I dropped
 
