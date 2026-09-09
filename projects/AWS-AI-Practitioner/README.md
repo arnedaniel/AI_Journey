@@ -5,22 +5,22 @@
 My road to the AWS AI Practitioner certification, worked through AWS Skill Builder — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🔵 &nbsp;Learning plan: 6 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Course 7, Security, Compliance, and Governance &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Question set and pretest come after the eight
+🔵 &nbsp;Learning plan: 6 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Course 7, Security, Compliance, and Governance &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam booked for 25 September, sat in German
 <!-- STATUS:END -->
 
 ---
 
 ### 🟧 &nbsp;The goal
 
-Earn the AWS Certified AI Practitioner certification, and sit the exam in **mid-September 2026**, three weeks before my semester starts. Sitting it early is deliberate: it leaves room for a second attempt if the first one goes wrong. Nothing gates the booking, so the date is mine to pick — I book once the eight courses are behind me and the practice questions confirm it.
+Earn the AWS Certified AI Practitioner certification. The exam is booked for **Friday 25 September 2026**, nine days before my semester starts, and sat in German. Booking it before the material was finished was the point rather than an accident: nothing gated the date, and an open date kept moving. Fixing it turned a vague *soon* into a plan with two weeks in it.
 
 ### 🟥 &nbsp;Where this stands
 
 <!-- STATE:START -->
-**Learning plan: 6 of 8** — the eight courses are the plan; the question set and the pretest come after them, not before<br>
-**Done** — machine learning fundamentals, AI use cases and applications, responsible AI practices, developing machine learning solutions, developing generative AI solutions, optimizing foundation models<br>
+**Exam booked: Friday 25 September 2026, 09:00** — sat in German, 100 minutes, at a test centre rather than online<br>
+**Learning plan: 6 of 8** — the eight courses are the plan; the question sets come after them, not before<br>
 **Open: the evaluation metrics side by side** — ROUGE, BLEU and BERTScore are clear one at a time and blur against each other, which is how the questions ask them<br>
-**Next up** — Security, Compliance, and Governance for AI Solutions
+**Next up** — Security, Compliance, and Governance for AI Solutions, which is exam domain 5
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;The road

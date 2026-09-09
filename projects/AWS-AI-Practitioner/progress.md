@@ -2,9 +2,21 @@
 
 A running log of my AWS AI Practitioner journey. Newest entries at the top.
 
-Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, prepared on AWS Skill Builder. Nothing gates the booking, so the date follows the pretest rather than the other way round — mid-September 2026.
+Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, prepared on AWS Skill Builder. The exam is booked for **Friday 25 September 2026**, sat in German. Foundations until 13 September, question sets from the 14th to the 24th.
 
 ---
+
+## 2026-09-09 (Wed) — Day 10: The seat is booked, so the date stopped being a preference
+
+*Booked on the 9th, written up on the 10th.*
+
+- **Friday 25 September, 09:00. Sat in German, 100 minutes, at a test centre rather than online.** The plan said book once the practice exam clears. I booked with two courses still open and no measurement taken, which is the opposite order, and I want that written down rather than quietly reframed later. The reason is that a date on the calendar does work that an intention does not: two weeks of "soon" became fifteen days with a number on them.
+- **German, and that was not a coin flip.** Every note I have made on this material is in German with the technical terms left in English, because that is how the terms actually appear. Sitting the exam in the same register removes a translation step I would otherwise be doing under time pressure, and the one place it already cost me was a generative-AI question I misread in English back in September.
+- **A test centre, not the online proctored option.** Fewer ways for it to go wrong: no room scan, no bandwidth, no software refusing to start twenty minutes before the slot.
+- **What is left, honestly.** Two of the eight courses: security, compliance and governance, then prompt engineering. That is roughly three hours. Everything after it is question sets, and I have not sat a single one under exam conditions yet. Fifteen days is enough for that, but only if the two courses land this week rather than drifting.
+- **Course 7 is not just the next course, it is a whole exam domain.** Security, Compliance, and Governance for AI Solutions is domain 5 of the five the exam is built from. Leaving it to last means the domain I have spent least time on is also the one I met most recently, which cuts both ways.
+
+**Next up:** Security, Compliance, and Governance for AI Solutions, course 7 of 8.
 
 ## 2026-09-08 (Tue) — Day 9: Course 6 of 8, and the metrics are the part that did not land
 
@@ -15,7 +27,7 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 - **The knowledge checks tested telling things apart, not remembering them.** One question mixed evaluation metrics into a list of fine-tuning methods as wrong answers. Another asked which of four genuinely correct data-preparation steps is the most critical one. A third asked which metric captures meaning rather than word overlap. Two of the three turned on the same three metrics I had just said I cannot separate. The material is in; the boundaries between neighbouring ideas are not, and that is a different problem needing a different fix.
 - **A platform note, small but worth having on record.** With the last section done and both knowledge checks answered, the course player showed 83% while the course page and the learning plan both still listed the course as not started. Clicking through the closing section flipped all three to complete at once. The catalogue appears to carry no in-between state, so a course is either untouched or finished as far as it is concerned. Worth knowing before reading a progress number off the wrong page.
 - **Billed at one hour, took an hour twenty, and that is the fastest yet.** Four courses timed now: two hours, two and a half, an hour forty-five, an hour twenty. Course 4 was the peak and every one since has been quicker. The courses are not getting shorter — the vocabulary is repeating, so less of each hour is spent meeting a word for the first time. I set a rule after course 3 to plan these at double their stated length; four measurements later that rule is too generous and I am dropping it. This one I would call manageable rather than hard.
-- **Learning plan: 6 of 8. Exam prep plan: still 1 of 19.**
+- **Learning plan: 6 of 8.**
 
 **Next up:** Security, Compliance, and Governance for AI Solutions, course 7 of 8.
 
@@ -27,7 +39,7 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 - **ROUGE, BLEU and BERTScore sound interchangeable and are not.** ROUGE is built for summarisation, BLEU for translation — *bilingual* is in the name — and BERTScore compares meaning rather than overlapping words. The knowledge check leans on exactly that confusion.
 - **The terms turned out to describe things I already use.** The notes system I read from before answering questions is retrieval-augmented generation; the file that defines how my agent writes is instruction tuning; every time I say *rewrite that, it sounds off* I am doing by hand what RLHF does at scale. Naming them changed nothing about the tools and quite a lot about how well I can reason about them.
 - **Billed at one hour, took an hour forty-five.** Fifth in a row over its listed time, but the first that came anywhere near it. The doubling rule I set after course 3 was generous here — this one is mostly prose and flashcards, where course 4 had the metric arithmetic that ate the extra hour. Quicker than the last one and still nearly twice what the label says.
-- **Learning plan: 5 of 8. Exam prep plan: still 1 of 19.**
+- **Learning plan: 5 of 8.**
 
 **Next up:** Optimizing Foundation Models, course 6 of 8.
 
@@ -37,7 +49,7 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 - **The most interesting course of the four so far, by a distance.** The first three explained what things are. This one explained how the pieces fit into a process, and a process is something I can picture myself doing rather than reciting.
 - **Billed at one hour, took me two and a half.** Fourth course in a row over its listed time. The rule I set after course 3 held, so I am keeping it: plan these at twice their stated length, and for this one that was still short.
 - **Knowledge checks: 5 of 6.** The miss was overfitting against underfitting, which I have now mixed up more than once, so it goes in the log rather than quietly past me. What fixed it was dropping the words and asking one question instead: how did it do on the material it trained on? Good on the training set and bad on new data is overfitting — it memorised the examples instead of the rule. Bad on both is underfitting — it never got the rule at all. I taught maths for four years and both of those were sitting in front of me every week; I just never named them.
-- **Learning plan: 4 of 8. Exam prep plan: still 1 of 19.**
+- **Learning plan: 4 of 8.**
 
 **Next up:** Developing Generative Artificial Intelligence Solutions, course 5 of 8.
 
@@ -45,7 +57,7 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 - **Finished: Responsible Artificial Intelligence Practices** — the third of the eight learning-plan courses, and the one that feeds domain 4 of the exam. Four parts: what responsible AI is and the core dimensions it gets measured on, how to build a responsible system and which AWS tooling exists for it, what to weigh when choosing a model and preparing the data, and finally transparency and explainability — what a transparent model actually costs you in trade, and what human-centred design means when the explanation has to reach the person the decision affects.
 - **Billed at one hour. It took me two.** Second time now: course 1 was billed the same way and also ran over. The listed hour counts the material, not the working through it — these courses carry knowledge checks and interactive sections, and I stop at them rather than clicking past. I am planning the remaining five at double their stated length instead of being surprised by it again.
-- **Learning plan: 3 of 8. Exam prep plan: still 1 of 19.** Two counters, still separate, still not adding up into one number.
+- **Learning plan: 3 of 8.** Two counters, still separate, still not adding up into one number.
 - **Skill Builder locked me out for most of the day** — The platform answered *Not Subscribed* and refused every course, while the billing page showed the subscription running to August 2027. Signing out and back in changed nothing. It came back on its own in the evening. Logged because it cost the day, not because it needed solving in the end.
 
 **Next up:** Finish the practice question set, then sit the pretest cold.
@@ -55,7 +67,7 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 ## 2026-09-01 (Tue) — Day 5: Course 2 of 8, and a lesson about reading
 
 - **Finished: Exploring Artificial Intelligence Use Cases and Applications** — the second of the eight learning-plan courses. Where course 1 was the mechanics of machine learning, this one is about matching a business problem to the right kind of solution, and knowing when the answer is not AI at all.
-- **Learning plan: 2 of 8. Exam prep plan: still 1 of 19.** Two lists, two counters, and they never add up into one number.
+- **Learning plan: 2 of 8.** Two lists, two counters, and they never add up into one number.
 - **I got a generative AI question wrong by misreading it** — Not the material, the reading. It was late in the day and I answered the question I thought was there instead of the one on the page. I went back over the section afterwards and the content sits fine now.
 - **Worth logging because the exam works the same way** — A foundational exam tests whether you read carefully as much as whether you know the service. Tired reading is a failure mode I can plan around, so it goes in the log rather than quietly out of it.
 

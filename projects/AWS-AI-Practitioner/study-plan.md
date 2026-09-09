@@ -1,51 +1,46 @@
 # Study Plan — AWS Certified AI Practitioner (AIF-C01)
 
-Target: sit the exam in **mid-September 2026**, three weeks before my semester starts on 4 October. Nothing gates the booking, so the date is mine to pick. I want the pretest result first.
+The exam is booked for **Friday 25 September 2026, 09:00**, sat in German at a test centre. The date is fixed, so the plan runs backwards from it rather than towards a month I might pick.
 
-The plan has two halves on purpose. The first is fixed and short. The second cannot be written yet, because writing it now would mean guessing at what I do not know.
+Three phases, and the split is a date rather than a milestone. That is deliberate: a phase that ends when I decide it is finished never ends.
 
 ---
 
-### 🟧 &nbsp;Part one — measure
+### 🟧 &nbsp;Phase one — foundations, until 13 September
 
-Three days, and none of it depends on anything I have not already got.
+The eight courses of the learning plan, start to finish. Six are done; security, compliance and governance and then prompt engineering are what is left, roughly three hours between them.
 
-| Day | Date | What |
-|:---:|---|---|
-| **1** | Mon 31 Aug | Read the prep plan properly. First learning-plan course done. Subscription claimed, so every practice item is open. |
-| **2** | Tue 1 Sep | Read the exam guide and its domain weightings. Finish the official practice question set — twenty questions, worked slowly, every wrong answer written down with the topic behind it. |
-| **3** | Wed 2 Sep | The official pretest in one sitting: sixty-five questions, ninety minutes, no notes, nothing revised beforehand. Then score it by domain, not overall. |
+**This phase is content only.** No question sets, no timed anything. The point is to have met every term once before I start being tested on telling them apart.
 
-**The pretest is taken cold and that is the point.** It is a measuring instrument, and revising for it would break the measurement. A weak domain found on day three is cheap; the same weakness found in the exam is not.
+**Security, compliance and governance is not just course seven.** It is domain five of the five the exam is built from, and it is the domain I will have spent least time with. Meeting it last is a risk I am taking with my eyes open: freshest in memory, thinnest in practice.
 
-### 🟥 &nbsp;Part two — fill only what the measurement found
+### 🟥 &nbsp;Phase two — exam preparation, 14 to 24 September
 
-Roughly a week, and its shape comes out of day three. The material available is the same either way — five domain reviews with a practice each, eight learning-plan courses feeding those domains, two simulation labs — but how much of it I sit through is a result, not a decision I make now.
+Eleven days, and everything in them is questions rather than lessons. Official question sets, worked slowly, every wrong answer written down with the topic behind it rather than just the correct letter.
 
-| | If the pretest says | Then |
-|---|---|---|
-| **Strong domain** | above the line, no pattern in the wrong answers | Practice questions only. Skip the review and the course. |
-| **Shaky domain** | passing but scattered | Domain review, then the domain practice until the pattern is gone. |
-| **Weak domain** | below the line | The learning-plan courses that feed it first, then the review, then the practice. |
+**The measurement has not happened yet, and that is the honest gap in this plan.** Six courses in, I have not once answered questions under exam conditions. Phase two exists to turn that from an unknown into a number, early enough that a weak domain is still cheap to fix.
 
-Best case that is three or four days. Worst case it is the full bundle, billed at around twenty-three hours for someone starting from nothing — which I am not, and that gap is exactly what day three measures.
+**Gaps found here get filled here.** If a topic keeps producing wrong answers, I go back to the material behind it — that is what the eleven days are for. What I am not doing is working through a second full course bundle in parallel on the chance that it helps.
 
-**Domains 3 and 5 get time regardless of the score.** Applications of foundation models, and security and governance. Not because the exam weights them hardest, but because retrieval, prompting, fine-tuning and governance are the parts I want past the exam as well. Passing is the deadline; those two are the reason.
+**The last two days stay light.** Cramming into the night before a 9 a.m. exam trades sleep for revision, and on a hundred-minute multiple-choice paper that is a bad trade.
 
-### 🟪 &nbsp;Part three — confirm, then sit
+### 🟪 &nbsp;Phase three — the exam, 25 September
 
 | | What |
 |---|---|
-| **Readiness check** | The official practice exam, full length, under the same conditions as the pretest. This one confirms; it does not diagnose. |
-| **Booking** | Made once the practice exam clears, not before. It hangs on nothing else. |
-| **Exam** | Around 11–12 September, on whatever slot is free. |
+| **When** | Friday 25 September, 09:00, 100 minutes |
+| **Language** | German, with the technical terms in English — the register I took every note in |
+| **Where** | A test centre rather than the online proctored option |
+| **Before** | On site half an hour early, two forms of ID |
 
-**If the practice exam is close, the exam waits.** A narrow pass the day before is a warning, not a reassurance. That is what the three weeks before term are for, and burning them to sit two days earlier would be a bad trade.
+**Sat in person on purpose.** The online option adds a room scan, a bandwidth requirement and software that has to start on the first try. None of that has anything to do with whether I know the material.
 
 ### ⬜ &nbsp;What is deliberately not in here
 
-**No module list.** AWS is restructuring its exam prep plans and retiring versions of the same course in parallel, so a list copied down today would be wrong by the time it mattered. The plan names what to cover; the current contents get read off the platform each time.
+**No second course bundle.** The eight learning-plan courses plus the question sets are the whole method. A parallel bundle covering the same ground would be work that looks like progress.
 
-**No day-by-day breakdown of part two.** It would be fiction until the pretest exists.
+**No module list.** AWS restructures these plans and retires versions in parallel, so a list copied down today would be wrong by the time it mattered. The plan names what to cover; the current contents get read off the platform each time.
 
-**No badge collecting.** The free voucher on that path is earned through daily posting and liking over ninety days, not through study. It would arrive after the events I want the certificate for. I am paying for the seat instead.
+**No badge collecting.** The voucher on that path is earned through daily posting and liking over ninety days, not through study, and it would arrive after the events I want the certificate for.
+
+**No daily hour count.** Three phases with dates say what needs to be true and when. Hours logged per day would measure attendance instead.
