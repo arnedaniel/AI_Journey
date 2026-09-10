@@ -9,7 +9,7 @@ Each project gets its own folder here, with the same three files: a `README.md` 
 ### 🟧 &nbsp;Running
 
 **[AWS-AI-Practitioner](AWS-AI-Practitioner/)** — the road to the AIF-C01 certification, worked through AWS Skill Builder.<br>
-Working the official exam prep plan
+Course 7 of the 8-course learning plan done. Exam booked for 25 September
 
 ### 🟥 &nbsp;Finished
 

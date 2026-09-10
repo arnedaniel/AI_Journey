@@ -8,7 +8,9 @@ Three phases, and the split is a date rather than a milestone. That is deliberat
 
 ### 🟧 &nbsp;Phase one — foundations, until 13 September
 
-The eight courses of the learning plan, start to finish. Six are done; security, compliance and governance and then prompt engineering are what is left, roughly three hours between them.
+The eight courses of the learning plan, start to finish. Seven are done; prompt engineering is what is left.
+
+**The estimate for the last two was wrong by half.** I put them at roughly three hours together. Security, compliance and governance took three on its own — the longest of the eight, in the domain I had spent least time in. Course 8 is planned at two hours rather than ninety minutes, and phase one still ends on the 13th.
 
 **This phase is content only.** No question sets, no timed anything. The point is to have met every term once before I start being tested on telling them apart.
 

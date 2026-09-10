@@ -5,7 +5,7 @@
 My road to the AWS AI Practitioner certification, worked through AWS Skill Builder — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🔵 &nbsp;Learning plan: 6 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Course 7, Security, Compliance, and Governance &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam booked for 25 September, sat in German
+🔵 &nbsp;Learning plan: 7 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Course 8, Essentials of Prompt Engineering &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam booked for 25 September, sat in German
 <!-- STATUS:END -->
 
 ---
@@ -18,9 +18,9 @@ Earn the AWS Certified AI Practitioner certification. The exam is booked for **F
 
 <!-- STATE:START -->
 **Exam booked: Friday 25 September 2026, 09:00** — sat in German, 100 minutes, at a test centre rather than online<br>
-**Learning plan: 6 of 8** — the eight courses are the plan; the question sets come after them, not before<br>
-**Open: the evaluation metrics side by side** — ROUGE, BLEU and BERTScore are clear one at a time and blur against each other, which is how the questions ask them<br>
-**Next up** — Security, Compliance, and Governance for AI Solutions, which is exam domain 5
+**Learning plan: 7 of 8** — the eight courses are the plan; the question sets come after them, not before<br>
+**Open: reading the question's category, not just its facts** — two of the three I got wrong in course 7 were true answers to a question that had asked for a different kind of thing<br>
+**Next up** — Essentials of Prompt Engineering, the last of the eight
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;The road
@@ -35,8 +35,8 @@ Eight courses, in the order the learning plan puts them. The method is to learn 
 | 4 | Developing Machine Learning Solutions | ✅ |
 | 5 | Developing Generative Artificial Intelligence Solutions | ✅ |
 | 6 | Optimizing Foundation Models | ✅ |
-| 7 | Security, Compliance, and Governance for AI Solutions | 🔵 |
-| 8 | Essentials of Prompt Engineering | – |
+| 7 | Security, Compliance, and Governance for AI Solutions | ✅ |
+| 8 | Essentials of Prompt Engineering | 🔵 |
 
 Then, and only then: the official practice question set, the pretest, and the practice exam as a readiness check before I book.
 
@@ -44,7 +44,9 @@ Then, and only then: the official practice question set, the pretest, and the pr
 
 **What that costs me.** Skipping the pretest means I lose the chance to skip courses I might not need. I am paying up to ten hours for that. I would rather know the subject than know the questions, and this is the version of the plan I can defend in an interview.
 
-**Each course is billed at one hour. The first ones took me two, and they have been getting faster since.** Four timed: two hours, two and a half, an hour forty-five, an hour twenty. Course 4 was the peak. I set a rule after course 3 to plan these at double their stated length, and four measurements later it is too generous to keep — the vocabulary repeats across the eight, so less of each hour goes on meeting a term for the first time. I plan the last two at ninety minutes.
+**Each course is billed at one hour, and none has come in at one.** Five timed: two hours, two and a half, an hour forty-five, an hour twenty, then three. Course 7 is the peak, not course 4.
+
+**The trend I thought I had lasted exactly two days.** Four measurements in a row got faster, so I dropped the rule I had set after course 3 — plan each at double its stated length — and put the last two down at ninety minutes. Course 7 then took double that and longer than anything before it. What I had read as *the courses are getting easier* was really *the vocabulary is repeating*, and that only holds while the courses cover neighbouring ground. Course 7 is a domain of its own, almost entirely service names that differ from each other by one sentence, and there was nothing repeating to carry me through it. The doubling rule goes back on for course 8.
 
 ### 🟦 &nbsp;A route I dropped
 

@@ -6,6 +6,20 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 ---
 
+## 2026-09-10 (Thu) — Day 11: Course 7 of 8, three hours, and the pattern behind the wrong answers
+
+- **Finished: Security, Compliance, and Governance for AI Solutions** — the seventh of the eight learning-plan courses, and the only one that is a whole exam domain on its own. Two halves with a knowledge check each: applying governance and compliance, then securing the systems themselves.
+- **Three words I had been using as one.** Security protects the systems and the data. Governance sets who decides what, and by which rules. Compliance proves the rules were followed. The course separates them in the first minute and then builds everything on that split, which is a good sign that the exam does too.
+- **Defense in depth is seven layers with the data in the middle.** Data protection, identity and access, application, network and edge, infrastructure, threat detection and incident response, and policies and awareness on the outside. If one layer falls, the others slow the attacker down instead of the whole thing opening at once.
+- **Six services for governance, and two pairs of them collide.** Artifact hands you finished reports about AWS; Audit Manager collects evidence about you. CloudTrail records what someone did; Config records what something looked like. Both pairs sound like the same job and answer opposite questions, and both showed up as answer options in the same list.
+- **The Generative AI Security Scoping Matrix is the piece I expect to see again.** Five scopes, from using somebody's public chat tool to training a model from scratch, and each one moves the line for who controls the user data, the fine-tuning data and the training data. It is also the answer to *where does a security strategy start*: classify the application first, pick services second.
+- **The threat list is AI-specific and deliberately so.** Prompt injection, training data poisoning, model theft, excessive agency, overreliance — the OWASP Top 10 for LLMs. None of them are the threats I would have listed off the top of my head.
+- **The second knowledge check is where it went wrong, and it was the same move twice.** Two of the three questions punish an answer that is true but in the wrong category. Which threats target AI systems: phishing, DDoS and ransomware are real threats and none of them are on the course's list. Which practices secure the data: cleaning out duplicates and splitting the set is good data work and neither is a security practice. Both times I was picking by *is this correct* instead of *is this the category being asked for*, which is a reading habit rather than a gap in the material — and a cheaper one to fix.
+- **Three hours, and it broke the trend I had just written down.** Billed at one hour. The four before it ran two hours, two and a half, an hour forty-five and an hour twenty, getting faster each time, and two days ago I planned the last two at ninety minutes on the strength of that. This one took double the plan and longer than any course so far. The reason is the one I flagged when I left it until last: this is the domain I had spent least time in, and it is almost entirely vocabulary — a dozen service names that each differ from their neighbour by one sentence. There was no repeated vocabulary to carry me through it.
+- **Learning plan: 7 of 8.**
+
+**Next up:** Essentials of Prompt Engineering, course 8 of 8.
+
 ## 2026-09-09 (Wed) — Day 10: The seat is booked, so the date stopped being a preference
 
 *Booked on the 9th, written up on the 10th.*
