@@ -5,7 +5,7 @@
 My road to the AWS AI Practitioner certification, worked through AWS Skill Builder — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🔵 &nbsp;Learning plan: 7 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Course 8, Essentials of Prompt Engineering &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam booked for 25 September, sat in German
+🟢 &nbsp;Learning plan: 8 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Phase two, question sets from 14 September &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam booked for 25 September, sat in German
 <!-- STATUS:END -->
 
 ---

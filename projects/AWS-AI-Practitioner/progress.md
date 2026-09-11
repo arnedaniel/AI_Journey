@@ -6,6 +6,18 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 ---
 
+## 2026-09-11 (Fri) — Day 12: Course 8 of 8. Phase one is done, two days early
+
+- **Finished: Essentials of Prompt Engineering** — the eighth and last course of the learning plan. Four lessons: what a prompt is made of, how to change it, the three techniques, and the ways it gets misused.
+- **A prompt has four parts, and only one of them is compulsory.** Instructions, context, input data, output indicator. Instructions is the only one you cannot leave out; the other three decide whether the right thing comes back rather than whether anything comes back. The course builds the whole first lesson on one bad example prompt and then adds the missing parts to it one at a time.
+- **Negative prompting is the part I did not expect.** Telling a model what *not* to produce is treated as a technique in its own right, not as an afterthought. Which matches something I already do without calling it that: the rules I keep for my own tooling are mostly prohibitions.
+- **The three inference parameters do the same job by three different routes.** Temperature reshapes the probability curve. Top p cuts by *share* of the distribution — 0.25 means the words making up the top 25 percent, however many that is. Top k cuts by *count* — fifty words, regardless of what share they add up to. The knowledge check asks about temperature and offers length as a distractor, which only works if you have not separated the two categories.
+- **Chain-of-thought is not the third rung of a ladder.** Zero-shot and few-shot are about whether you supply examples. Chain-of-thought is about whether you demand intermediate steps, triggered with *think step by step*, and the course says plainly it can be combined with either of the other two. I had been filing all three as increasing levels of effort.
+- **The risk lesson has one distinction the exam will lean on: exposure versus prompt leaking.** In exposure, data from the training material comes back out. In prompt leaking, the instruction itself comes out — and the course says outright that it need not contain protected data to be a problem, because it reveals how the model works. Poisoning is the odd one of the five: it happens during training, the other four happen at runtime through the prompt.
+- **Learning plan: 8 of 8. Phase one finished on the 11th rather than the 13th.**
+
+**Next up:** phase two. Question sets under exam conditions, and the first real measurement of where I actually stand.
+
 ## 2026-09-10 (Thu) — Day 11: Course 7 of 8, three hours, and the pattern behind the wrong answers
 
 - **Finished: Security, Compliance, and Governance for AI Solutions** — the seventh of the eight learning-plan courses, and the only one that is a whole exam domain on its own. Two halves with a knowledge check each: applying governance and compliance, then securing the systems themselves.
