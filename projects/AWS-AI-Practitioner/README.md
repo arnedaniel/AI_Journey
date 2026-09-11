@@ -18,9 +18,9 @@ Earn the AWS Certified AI Practitioner certification. The exam is booked for **F
 
 <!-- STATE:START -->
 **Exam booked: Friday 25 September 2026, 09:00** — sat in German, 100 minutes, at a test centre rather than online<br>
-**Learning plan: 7 of 8** — the eight courses are the plan; the question sets come after them, not before<br>
-**Open: reading the question's category, not just its facts** — two of the three I got wrong in course 7 were true answers to a question that had asked for a different kind of thing<br>
-**Next up** — Essentials of Prompt Engineering, the last of the eight
+**Learning plan: 8 of 8** — finished 11 September, two days inside the phase-one deadline<br>
+**Open: nothing measured yet** — not one question set sat under exam conditions, which is the whole point of phase two<br>
+**Next up** — phase two, question sets from 14 September
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;The road
@@ -36,7 +36,7 @@ Eight courses, in the order the learning plan puts them. The method is to learn 
 | 5 | Developing Generative Artificial Intelligence Solutions | ✅ |
 | 6 | Optimizing Foundation Models | ✅ |
 | 7 | Security, Compliance, and Governance for AI Solutions | ✅ |
-| 8 | Essentials of Prompt Engineering | 🔵 |
+| 8 | Essentials of Prompt Engineering | ✅ |
 
 Then, and only then: the official practice question set, the pretest, and the practice exam as a readiness check before I book.
 
