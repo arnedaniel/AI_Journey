@@ -6,6 +6,15 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 ---
 
+## 2026-09-12 (Sat) — Day 13: Back to course 1, before a single exam question
+
+- **Repeating: Fundamentals of Machine Learning and Artificial Intelligence** — course 1 of the eight in the learning plan.
+- **Understanding first, questions second.** Phase two was due to open with the question sets on the 14th. I am holding them back until the material holds together on its own, so that nothing in them catches me out.
+- **Studying it in my knowledge library, a memory palace I designed for this exam.** One room per course. Each room holds ten objects, and the course's terms hang on them. Course 1 is room 1: ten stations, 29 terms.
+- **Learning plan: still 8 of 8.** A repeat does not move the count.
+
+**Next up:** the rest of the repeat, then the question sets.
+
 ## 2026-09-11 (Fri) — Day 12: Course 8 of 8. Phase one is done, two days early
 
 - **Finished: Essentials of Prompt Engineering** — the eighth and last course of the learning plan. Four lessons: what a prompt is made of, how to change it, the three techniques, and the ways it gets misused.
