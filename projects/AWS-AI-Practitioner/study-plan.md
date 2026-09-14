@@ -20,9 +20,9 @@ The eight courses of the learning plan, start to finish. All eight are done — 
 
 Eleven days, and everything in them is questions rather than lessons. Official question sets, worked slowly, every wrong answer written down with the topic behind it rather than just the correct letter.
 
-**The measurement has not happened yet, and that is the honest gap in this plan.** Six courses in, I have not once answered questions under exam conditions. Phase two exists to turn that from an unknown into a number, early enough that a weak domain is still cheap to fix.
+**The measurement has started, and it stands at one set of six.** Domain 1 went through on 13 September — the first exam questions of the whole plan, as opposed to the checks that sit at the end of a lesson and give their own topic away. Five to go: one set per remaining domain, then the practice exam whole and timed. A weak domain found now is still cheap to fix, which is the entire reason the sets come before the paper.
 
-**Gaps found here get filled here.** If a topic keeps producing wrong answers, I go back to the material behind it — that is what the eleven days are for. What I am not doing is working through a second full course bundle in parallel on the chance that it helps.
+**Gaps found here get filled here, and domain 1 is the proof.** I missed that set at the first attempt, went back into the material, and passed it at the second. If a topic keeps producing wrong answers, I go back to the material behind it — that is what the eleven days are for. What I am not doing is working through a second full course bundle in parallel on the chance that it helps.
 
 **The last two days stay light.** Cramming into the night before a 9 a.m. exam trades sleep for revision, and on a hundred-minute multiple-choice paper that is a bad trade.
 

@@ -6,6 +6,17 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 ---
 
+## 2026-09-13 (Sun) — Day 14: Domain 1. Failed it first, then passed it properly
+
+- **Sat the domain 1 question set twice.** First attempt came up just short. I went back into the material, worked it properly, sat it again and passed it comfortably.
+- **The first attempt is the one that earned its keep.** Passing at the first go would have told me the set was easy. Missing it by a little told me exactly which corner of the domain was thin, and it cost me one evening to close rather than a morning in September.
+- **This is the whole argument for measuring before the paper.** Eight courses finished is an attendance record. A set failed, fixed and passed is a before and after, and it is the first one this project has.
+- **The sets ask better questions than the course checks.** A knowledge check sits at the end of the lesson it belongs to, so the topic is already given away by where the question stands. A domain set drops that hint: the same material, without the context that was answering half the question for me.
+- **Six rows, not one.** One set per domain, then the practice exam whole and timed. A single mixed score would say how close I am and nothing about where the hole is.
+- **Question sets: 1 of 6.**
+
+**Next up:** domain 2, the generative AI fundamentals — the domain without a course of its own, spread across courses 1, 2 and 5.
+
 ## 2026-09-12 (Sat) — Day 13: Back to course 1, before a single exam question
 
 - **Repeating: Fundamentals of Machine Learning and Artificial Intelligence** — course 1 of the eight in the learning plan.

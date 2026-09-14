@@ -5,7 +5,7 @@
 My road to the AWS AI Practitioner certification, worked through AWS Skill Builder — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🟢 &nbsp;Learning plan: 8 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Phase two, question sets from 14 September &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam booked for 25 September, sat in German
+🟢 &nbsp;Learning plan: 8 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Question sets: 1 of 6 &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam booked for 25 September, sat in German
 <!-- STATUS:END -->
 
 ---
@@ -19,8 +19,8 @@ Earn the AWS Certified AI Practitioner certification. The exam is booked for **F
 <!-- STATE:START -->
 **Exam booked: Friday 25 September 2026, 09:00** — sat in German, 100 minutes, at a test centre rather than online<br>
 **Learning plan: 8 of 8** — finished 11 September, two days inside the phase-one deadline<br>
-**Open: nothing measured yet** — not one question set sat under exam conditions, which is the whole point of phase two<br>
-**Next up** — phase two, question sets from 14 September
+**Question sets: 1 of 6** — domain 1 passed on 13 September at the second attempt, the first measurement in the whole plan<br>
+**Next up** — the domain 2 set, generative AI fundamentals
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;The road
@@ -38,7 +38,18 @@ Eight courses, in the order the learning plan puts them. The method is to learn 
 | 7 | Security, Compliance, and Governance for AI Solutions | ✅ |
 | 8 | Essentials of Prompt Engineering | ✅ |
 
-Then, and only then: the official practice question set, the pretest, and the practice exam as a readiness check before I book.
+Then, and only then: the measuring. One question set per exam domain, in the order the exam guide numbers them, and the full practice exam last.
+
+| | Question set | Status |
+|:---:|:---|:---:|
+| 1 | Domain 1 — Fundamentals of AI and ML | ✅ |
+| 2 | Domain 2 — Fundamentals of Generative AI | 🔵 |
+| 3 | Domain 3 — Applications of Foundation Models | – |
+| 4 | Domain 4 — Guidelines for Responsible AI | – |
+| 5 | Domain 5 — Security, Compliance and Governance | – |
+| 6 | The practice exam, whole and timed | – |
+
+**One set per domain, rather than one long paper first.** A single mixed result says how close I am and nothing about where the hole is. Five domain-sized results say both, and each one points at the course it came from.
 
 **I changed the order, and it was a real decision rather than a preference.** I had the pretest first, cold, so it could tell me which courses to skip. Then I started the question set and found it was covering ground the courses already cover — for me it was repetition, not diagnosis. The two paths are also not equally travelled: the eight-course plan carries **12,207 ratings**, the twenty-three hour comprehensive bundle **362**, and the individual courses in the eight are rated higher than the bundle they sit inside. So I am taking the road most people actually take.
 
