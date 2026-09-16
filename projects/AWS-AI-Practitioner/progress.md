@@ -6,6 +6,16 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 ---
 
+## 2026-09-16 (Wed) — Day 17: Domain 2, and the same shape held a second time
+
+- **Sat the domain 2 question set twice.** The first sitting came up short. I went back into the material, sat it again and the second one was comfortable, and quicker.
+- **Twice now, the same shape.** Domain 1 went exactly this way three days ago. Once is an anecdote. Twice is a method: sit it cold, let it show me the hole, close the hole, sit it again.
+- **What annoyed me first turned out to be the point.** The domain 2 set asked about ground I had filed under domain 3. That is not the set being sloppy — course 5 feeds both domains at once, and the exam guide's line between what generative AI can do and what you build with it is soft by design. The exam will not sort its questions by course either.
+- **The set has no passing score.** Unlimited attempts, no time limit. There was nothing there to fail: the first number was a position report, not a verdict. Worth remembering before the next one.
+- **Question sets: 2 of 6.**
+
+**Next up:** domain 3, applications of foundation models — the heaviest domain on the exam and the one the last four courses all feed into.
+
 ## 2026-09-13 (Sun) — Day 14: Domain 1. Failed it first, then passed it properly
 
 - **Sat the domain 1 question set twice.** First attempt came up just short. I went back into the material, worked it properly, sat it again and passed it comfortably.
