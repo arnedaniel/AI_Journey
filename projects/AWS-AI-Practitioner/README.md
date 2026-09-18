@@ -5,7 +5,7 @@
 My road to the AWS AI Practitioner certification, worked through AWS Skill Builder — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🟢 &nbsp;Learning plan: 8 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Question sets: 2 of 6 &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam booked for 25 September, sat in German
+🟢 &nbsp;Learning plan: 8 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Question sets: 3 of 6 &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam booked for 25 September, sat in German
 <!-- STATUS:END -->
 
 ---
@@ -19,8 +19,8 @@ Earn the AWS Certified AI Practitioner certification. The exam is booked for **F
 <!-- STATE:START -->
 **Exam booked: Friday 25 September 2026, 09:00** — sat in German, 100 minutes, at a test centre rather than online<br>
 **Learning plan: 8 of 8** — finished 11 September, two days inside the phase-one deadline<br>
-**Question sets: 2 of 6** — domains 1 and 2, each missed on the first sitting and passed on the second after going back into the material<br>
-**Next up** — the domain 3 set, applications of foundation models, the heaviest domain on the exam
+**Question sets: 3 of 6** — domains 1 and 2 took a second sitting each; domain 3, the heaviest on the exam, went down at the first<br>
+**Next up** — the domain 4 set, guidelines for responsible AI
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;The road
@@ -44,8 +44,8 @@ Then, and only then: the measuring. One question set per exam domain, in the ord
 |:---:|:---|:---:|
 | 1 | Domain 1 — Fundamentals of AI and ML | ✅ |
 | 2 | Domain 2 — Fundamentals of Generative AI | ✅ |
-| 3 | Domain 3 — Applications of Foundation Models | 🔵 |
-| 4 | Domain 4 — Guidelines for Responsible AI | – |
+| 3 | Domain 3 — Applications of Foundation Models | ✅ |
+| 4 | Domain 4 — Guidelines for Responsible AI | 🔵 |
 | 5 | Domain 5 — Security, Compliance and Governance | – |
 | 6 | The practice exam, whole and timed | – |
 

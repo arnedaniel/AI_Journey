@@ -6,6 +6,15 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 ---
 
+## 2026-09-18 (Fri) — Day 19: Domain 3 at the first sitting, and it came from the other project
+
+- **Sat the domain 3 question set once.** Domains 1 and 2 both needed a second run at them. This one did not, and it is the heaviest domain on the exam — applications of foundation models, the largest single slice of the paper.
+- **It was easy, and I know why.** Most of it was prompt engineering, and I had already worked through that in the Claude course on the other side of this repository. I was not recalling AWS material, I was recognising ground I already stood on.
+- **That is the first time one project has paid for the other in a measurable way.** The two courses even teach the ordering differently — one puts the instruction before the context, the other the context first — and noticing the disagreement was more useful than either version on its own. A topic learned twice, from two teachers who do not quite agree, holds better than one learned once.
+- **Question sets: 3 of 6.**
+
+**Next up:** domain 4, guidelines for responsible AI.
+
 ## 2026-09-16 (Wed) — Day 17: Domain 2, and the same shape held a second time
 
 - **Sat the domain 2 question set twice.** The first sitting came up short. I went back into the material, sat it again and the second one was comfortable, and quicker.
