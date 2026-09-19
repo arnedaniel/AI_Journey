@@ -5,7 +5,7 @@
 My road to the AWS AI Practitioner certification, worked through AWS Skill Builder — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🟢 &nbsp;Learning plan: 8 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Question sets: 3 of 6 &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam booked for 25 September, sat in German
+🟢 &nbsp;Learning plan: 8 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Practice tests: 3 of 5 &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam booked for 25 September, sat in German
 <!-- STATUS:END -->
 
 ---
@@ -19,8 +19,9 @@ Earn the AWS Certified AI Practitioner certification. The exam is booked for **F
 <!-- STATE:START -->
 **Exam booked: Friday 25 September 2026, 09:00** — sat in German, 100 minutes, at a test centre rather than online<br>
 **Learning plan: 8 of 8** — finished 11 September, two days inside the phase-one deadline<br>
-**Question sets: 3 of 6** — domains 1 and 2 took a second sitting each; domain 3, the heaviest on the exam, went down at the first<br>
-**Next up** — the domain 4 set, guidelines for responsible AI
+**Practice tests: 3 of 5** — domains 1 and 2 took a second sitting each; domain 3, the heaviest on the exam, went down at the first<br>
+**Reviews: 0 of 5** — an hour and a half each, and they run ahead of the tests from here<br>
+**Next up** — the domain reviews, then the two tests still open
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;The road
@@ -38,18 +39,18 @@ Eight courses, in the order the learning plan puts them. The method is to learn 
 | 7 | Security, Compliance, and Governance for AI Solutions | ✅ |
 | 8 | Essentials of Prompt Engineering | ✅ |
 
-Then, and only then: the measuring. One question set per exam domain, in the order the exam guide numbers them, and the full practice exam last.
+Then, and only then: the measuring. Two passes per exam domain — the review first, the practice test after it — in the order the exam guide numbers the domains.
 
-| | Question set | Status |
-|:---:|:---|:---:|
-| 1 | Domain 1 — Fundamentals of AI and ML | ✅ |
-| 2 | Domain 2 — Fundamentals of Generative AI | ✅ |
-| 3 | Domain 3 — Applications of Foundation Models | ✅ |
-| 4 | Domain 4 — Guidelines for Responsible AI | 🔵 |
-| 5 | Domain 5 — Security, Compliance and Governance | – |
-| 6 | The practice exam, whole and timed | – |
+| | 1 | 2 | 3 | 4 | 5 |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| **Review** | 🔵 | – | – | – | – |
+| **Practice test** | ✅ | ✅ | ✅ | – | – |
 
-**One set per domain, rather than one long paper first.** A single mixed result says how close I am and nothing about where the hole is. Five domain-sized results say both, and each one points at the course it came from.
+The five columns are the five exam domains, in the guide's own order: fundamentals of AI and ML, fundamentals of generative AI, applications of foundation models, guidelines for responsible AI, then security, compliance and governance. A review runs an hour and a half; a test runs thirty to fifty-five minutes.
+
+**One test per domain, rather than one long paper first.** A single mixed result says how close I am and nothing about where the hole is. Five domain-sized results say both, and each one points at the course it came from.
+
+**The pretest sits outside this table on purpose, and it comes last rather than first.** I sit it once I am solid across all five practice tests. Sat any earlier it would mostly measure how well I remember questions I had just been through, and the point of it is to measure the subject. The full practice exam, whole and timed, closes the phase after it.
 
 **I changed the order, and it was a real decision rather than a preference.** I had the pretest first, cold, so it could tell me which courses to skip. Then I started the question set and found it was covering ground the courses already cover — for me it was repetition, not diagnosis. The two paths are also not equally travelled: the eight-course plan carries **12,207 ratings**, the twenty-three hour comprehensive bundle **362**, and the individual courses in the eight are rated higher than the bundle they sit inside. So I am taking the road most people actually take.
 
