@@ -20,9 +20,9 @@ The eight courses of the learning plan, start to finish. All eight are done — 
 
 Eleven days, and everything in them is questions rather than lessons. Official question sets, worked slowly, every wrong answer written down with the topic behind it rather than just the correct letter.
 
-**The measurement has started, and it stands at three practice tests of five.** Domain 1 went through on 13 September — the first exam questions of the whole plan, as opposed to the checks that sit at the end of a lesson and give their own topic away. Domains 2 and 3 followed. A weak domain found now is still cheap to fix, which is the entire reason the tests come before the paper.
+**All five practice tests are down.** Domain 1 went through on 13 September — the first exam questions of the whole plan, as opposed to the checks that sit at the end of a lesson and give their own topic away. Domains 2 and 3 followed, domain 4 on 23 September at the third sitting, domain 5 on the 24th at the second. A weak domain found now is still cheap to fix, which is the entire reason the tests come before the paper.
 
-**The reviews come next, and they are the longer half.** Each domain has a review of an hour and a half sitting ahead of its test, where the test itself runs thirty to fifty-five minutes. Three tests are already down without them; the reviews now go over all five domains, and the two open tests are sat behind their own. Then the pretest, then the practice exam whole and timed.
+**The domain reviews were dropped.** Each is an hour and a half, mostly video on material I had already been through. The tests had already shown me where the holes were, so the last day goes into those instead. Then the pretest.
 
 **Gaps found here get filled here, and domain 1 is the proof.** I missed that set at the first attempt, went back into the material, and passed it at the second. If a topic keeps producing wrong answers, I go back to the material behind it — that is what the eleven days are for. What I am not doing is working through a second full course bundle in parallel on the chance that it helps.
 

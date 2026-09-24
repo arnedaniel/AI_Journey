@@ -6,6 +6,17 @@ Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, pr
 
 ---
 
+## 2026-09-24 (Thu) — Day 25: Domains 4 and 5, and all five sets are down
+
+- **Domain 4 took three sittings.** Five of ten on the 20th, five of ten again on the 22nd, then nine of ten on the 23rd. The two fives were not bad luck: half the questions were about telling AWS services apart, and that was exactly where the holes were.
+- **Domain 5 took two.** Five of ten last night, nine of ten today. Three of the five misses were on things no course in the learning plan covers at all — the S3 encryption variants, the named types of prompt injection, salted sequence tags. The set was the only place I could have found them.
+- **Feeling sure was the warning sign, not the reassurance.** I rate my confidence on every question, and on domain 4 I got two of my three *confident* answers wrong, a worse rate than when I was guessing. The fix is boring and it works: slow down on exactly the questions that feel easy.
+- **The one miss today was a question I misread, not a topic I didn't know.** A matching question where the options are the names of attacks, written as the attacker's commands. I read them as defences. Same pattern as before: the wrong category, not the wrong fact.
+- **Dropped the domain reviews.** An hour and a half each, mostly video on material I have already been through. Filling the specific gaps the sets show me is a better use of the last day than seven and a half hours of repetition.
+- **Question sets: 5 of 5.**
+
+**Next up:** the pretest, then the exam on Friday.
+
 ## 2026-09-18 (Fri) — Day 19: Domain 3 at the first sitting, and it came from the other project
 
 - **Sat the domain 3 question set once.** Domains 1 and 2 both needed a second run at them. This one did not, and it is the heaviest domain on the exam — applications of foundation models, the largest single slice of the paper.

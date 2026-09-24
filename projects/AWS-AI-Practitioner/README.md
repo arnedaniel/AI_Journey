@@ -5,7 +5,7 @@
 My road to the AWS AI Practitioner certification, worked through AWS Skill Builder — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🟢 &nbsp;Learning plan: 8 of 8 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;Practice tests: 3 of 5 &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam booked for 25 September, sat in German
+🟢 &nbsp;Learning plan: 8 of 8 &nbsp;&nbsp;&nbsp; 🟢 &nbsp;Practice tests: 5 of 5 &nbsp;&nbsp;&nbsp; 🔵 &nbsp;Pretest next, exam on 25 September
 <!-- STATUS:END -->
 
 ---
@@ -19,9 +19,8 @@ Earn the AWS Certified AI Practitioner certification. The exam is booked for **F
 <!-- STATE:START -->
 **Exam booked: Friday 25 September 2026, 09:00** — sat in German, 100 minutes, at a test centre rather than online<br>
 **Learning plan: 8 of 8** — finished 11 September, two days inside the phase-one deadline<br>
-**Practice tests: 3 of 5** — domains 1 and 2 took a second sitting each; domain 3, the heaviest on the exam, went down at the first<br>
-**Reviews: 0 of 5** — an hour and a half each, and they run ahead of the tests from here<br>
-**Next up** — the domain reviews, then the two tests still open
+**Practice tests: 5 of 5** — domain 3 went down at the first sitting, domains 1, 2 and 5 at the second, domain 4 at the third<br>
+**Next up** — the pretest
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;The road
@@ -39,14 +38,15 @@ Eight courses, in the order the learning plan puts them. The method is to learn 
 | 7 | Security, Compliance, and Governance for AI Solutions | ✅ |
 | 8 | Essentials of Prompt Engineering | ✅ |
 
-Then, and only then: the measuring. Two passes per exam domain — the review first, the practice test after it — in the order the exam guide numbers the domains.
+Then, and only then: the measuring. One practice test per exam domain, in the order the exam guide numbers the domains.
 
 | | 1 | 2 | 3 | 4 | 5 |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| **Review** | 🔵 | – | – | – | – |
-| **Practice test** | ✅ | ✅ | ✅ | – | – |
+| **Practice test** | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-The five columns are the five exam domains, in the guide's own order: fundamentals of AI and ML, fundamentals of generative AI, applications of foundation models, guidelines for responsible AI, then security, compliance and governance. A review runs an hour and a half; a test runs thirty to fifty-five minutes.
+The five columns are the five exam domains, in the guide's own order: fundamentals of AI and ML, fundamentals of generative AI, applications of foundation models, guidelines for responsible AI, then security, compliance and governance. A test runs thirty to fifty-five minutes.
+
+**The domain reviews were dropped.** An hour and a half each, mostly video on material I had already worked through. Closing the specific gaps each test showed me did more than sitting through the whole of it again.
 
 **One test per domain, rather than one long paper first.** A single mixed result says how close I am and nothing about where the hole is. Five domain-sized results say both, and each one points at the course it came from.
 
