@@ -22,7 +22,7 @@ Eleven days, and everything in them is questions rather than lessons. Official q
 
 **All five practice tests are down.** Domain 1 went through on 13 September — the first exam questions of the whole plan, as opposed to the checks that sit at the end of a lesson and give their own topic away. Domains 2 and 3 followed, domain 4 on 23 September at the third sitting, domain 5 on the 24th at the second. A weak domain found now is still cheap to fix, which is the entire reason the tests come before the paper.
 
-**The domain reviews were dropped.** Each is an hour and a half, mostly video on material I had already been through. The tests had already shown me where the holes were, so the last day goes into those instead. Then the pretest.
+**The domain reviews were dropped.** Each is an hour and a half, mostly video on material I had already been through. The tests had already shown me where the holes were, so the last day goes into those instead. Then the exam.
 
 **Gaps found here get filled here, and domain 1 is the proof.** I missed that set at the first attempt, went back into the material, and passed it at the second. If a topic keeps producing wrong answers, I go back to the material behind it — that is what the eleven days are for. What I am not doing is working through a second full course bundle in parallel on the chance that it helps.
 

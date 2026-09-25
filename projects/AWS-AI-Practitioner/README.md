@@ -5,22 +5,22 @@
 My road to the AWS AI Practitioner certification, worked through AWS Skill Builder — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🟢 &nbsp;Learning plan: 8 of 8 &nbsp;&nbsp;&nbsp; 🟢 &nbsp;Practice tests: 5 of 5 &nbsp;&nbsp;&nbsp; 🔵 &nbsp;Pretest next, exam on 25 September
+🟢 &nbsp;Learning plan: 8 of 8 &nbsp;&nbsp;&nbsp; 🟢 &nbsp;Practice tests: 5 of 5 &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam sat on 25 September, result pending
 <!-- STATUS:END -->
 
 ---
 
 ### 🟧 &nbsp;The goal
 
-Earn the AWS Certified AI Practitioner certification. The exam is booked for **Friday 25 September 2026**, nine days before my semester starts, and sat in German. Booking it before the material was finished was the point rather than an accident: nothing gated the date, and an open date kept moving. Fixing it turned a vague *soon* into a plan with two weeks in it.
+Earn the AWS Certified AI Practitioner certification. I sat the exam on **Friday 25 September 2026**, nine days before my semester starts, in German. Booking it before the material was finished was the point rather than an accident: nothing gated the date, and an open date kept moving. Fixing it turned a vague *soon* into a plan with two weeks in it.
 
 ### 🟥 &nbsp;Where this stands
 
 <!-- STATE:START -->
-**Exam booked: Friday 25 September 2026, 09:00** — sat in German, 100 minutes, at a test centre rather than online<br>
+**Exam sat: Friday 25 September 2026** — in German, 100 minutes, at a test centre<br>
 **Learning plan: 8 of 8** — finished 11 September, two days inside the phase-one deadline<br>
 **Practice tests: 5 of 5** — domain 3 went down at the first sitting, domains 1, 2 and 5 at the second, domain 4 at the third<br>
-**Next up** — the pretest
+**Result pending** — AWS posts it within five working days
 <!-- STATE:END -->
 
 ### 🟪 &nbsp;The road
@@ -50,11 +50,9 @@ The five columns are the five exam domains, in the guide's own order: fundamenta
 
 **One test per domain, rather than one long paper first.** A single mixed result says how close I am and nothing about where the hole is. Five domain-sized results say both, and each one points at the course it came from.
 
-**The pretest sits outside this table on purpose, and it comes last rather than first.** I sit it once I am solid across all five practice tests. Sat any earlier it would mostly measure how well I remember questions I had just been through, and the point of it is to measure the subject. The full practice exam, whole and timed, closes the phase after it.
+**Courses first, measuring second, and it was a real decision rather than a preference.** I could have tested cold first and skipped whatever I already knew. The first questions I tried covered ground the courses already cover, so for me that would have been repetition, not diagnosis. The two paths are also not equally travelled: the eight-course plan carries **12,207 ratings**, the twenty-three hour comprehensive bundle **362**, and the individual courses in the eight are rated higher than the bundle they sit inside. So I took the road most people actually take.
 
-**I changed the order, and it was a real decision rather than a preference.** I had the pretest first, cold, so it could tell me which courses to skip. Then I started the question set and found it was covering ground the courses already cover — for me it was repetition, not diagnosis. The two paths are also not equally travelled: the eight-course plan carries **12,207 ratings**, the twenty-three hour comprehensive bundle **362**, and the individual courses in the eight are rated higher than the bundle they sit inside. So I am taking the road most people actually take.
-
-**What that costs me.** Skipping the pretest means I lose the chance to skip courses I might not need. I am paying up to ten hours for that. I would rather know the subject than know the questions, and this is the version of the plan I can defend in an interview.
+**What that cost me.** Learning everything first meant giving up the chance to skip courses I might not have needed, up to ten hours of them. I would rather know the subject than know the questions, and this is the version of the plan I can defend in an interview.
 
 **Each course is billed at one hour, and none has come in at one.** Five timed: two hours, two and a half, an hour forty-five, an hour twenty, then three. Course 7 is the peak, not course 4.
 
