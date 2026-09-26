@@ -17,12 +17,12 @@ anyone who would rather read than click through a picture.
 ### 🟧 &nbsp;Projects
 
 **[AWS AI Practitioner](projects/AWS-AI-Practitioner/)** — the road to the AIF-C01 certification, worked through AWS Skill Builder.<br>
-Active — working the official exam prep plan
+Finished 25 September 2026 — passed the AIF-C01
 
 **[Claude Masterclass](projects/Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
 Finished 3 September 2026 — all 158 lessons, Excel and PowerPoint included
 
-Three more are queued and not started yet — they are listed, with the reasoning, on the [projects page](projects/).
+Four more are queued and not started yet — they are listed, with the reasoning, on the [projects page](projects/).
 
 ### 🟥 &nbsp;What I'm learning
 

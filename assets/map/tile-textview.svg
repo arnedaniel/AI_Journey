@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 56 250" width="56" height="250" role="img" aria-label="Text view, the whole page as plain text">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="544 0 56 250" width="56" height="250" role="img" aria-label="Text view, the whole page as plain text">
   <defs>
     <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#E8A33D"/><stop offset="34%" stop-color="#D9713C"/>
@@ -15,6 +15,6 @@
     </filter>
   </defs>
 
-  <text x="0" y="0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9.5" letter-spacing="1.4" text-anchor="middle" fill="#8B949E" transform="translate(22,196) rotate(-90)">TEXT VIEW</text>
-  <path d="M40,148 V240 M33,231 L40,240 L47,231" fill="none" stroke="#8B949E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="0" y="0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9.5" letter-spacing="1.4" text-anchor="middle" fill="#8B949E" transform="translate(566,196) rotate(-90)">TEXT VIEW</text>
+  <path d="M584,148 V240 M577,231 L584,240 L591,231" fill="none" stroke="#8B949E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -2,9 +2,13 @@
 
 A running log of my AWS AI Practitioner journey. Newest entries at the top.
 
-Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, prepared on AWS Skill Builder. The exam was sat on **Friday 25 September 2026**, in German. Foundations until 13 September, question sets from the 14th to the 24th.
+Working toward the **AWS Certified AI Practitioner (AIF-C01)** certification, prepared on AWS Skill Builder. The exam was sat on **Friday 25 September 2026**, in German, and passed. Foundations until 13 September, question sets from the 14th to the 24th.
 
 ---
+
+## 2026-09-26 (Sat) — Day 27: Passed
+
+- **Passed the AIF-C01.** The result came this morning. The certification runs until September 2029.
 
 ## 2026-09-25 (Fri) — Day 26: Exam sat, result pending
 
