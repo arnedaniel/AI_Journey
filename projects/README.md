@@ -22,7 +22,8 @@ All 158 of 158 lessons done. Sat here briefly on 30 August for the 132 planned l
 
 Not started, and deliberately not folders yet — a folder gets created on the day the work does. They are here in the order I expect to reach them, and each is here for a different reason:
 
-**RAG** — a retrieval system over my own lecture notes, running locally and built by hand from three libraries before any framework touches it. First, because the semester hands me the material, and because I want to know what a framework saves me before I let one do it.<br>
+**AWS Cloud Practitioner** — the broad AWS foundation: compute, storage, networking, security and billing, the ground the AI Practitioner stood on. First, because the semester leaves room for steady study more than for a build, and it runs on the same routine that carried the AI Practitioner.<br>
+**RAG** — a retrieval system over my own lecture notes, running locally and built by hand from three libraries before any framework touches it. Next, because the semester hands me the material, and because I want to know what a framework saves me before I let one do it.<br>
 **n8n** — workflow automation. Triggers, schedules and moving data between services: the plumbing an agent sits inside, not an agent framework. Early, because it is the easiest to see working.<br>
 **LangGraph** — agent control flow written as a graph. State that survives a step, loops that may run again, and a defined place to stop and ask a human.<br>
 **AutoGen or CrewAI** — role-based agent teams. Both answer the same question in a different dialect, so this is one choice to make, not two projects. Last, because it only makes sense once a single agent reliably does.

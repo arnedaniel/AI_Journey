@@ -65,6 +65,6 @@
   <circle r="2.6" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="14s" repeatCount="indefinite" path="M457 71 a21 13 0 1 1 42 0 a21 13 0 1 1 -42 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="4.7s" begin="4.05s" repeatCount="indefinite"/></circle>
   <circle r="2.1" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="7s" repeatCount="indefinite" path="M254 18 a13 8 0 1 1 26 0 a13 8 0 1 1 -26 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="2.3s" begin="4.5s" repeatCount="indefinite"/></circle>
   <circle r="1.7" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="12s" repeatCount="indefinite" path="M660 83 a12 15 0 1 1 24 0 a12 15 0 1 1 -24 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="4.0s" begin="4.95s" repeatCount="indefinite"/></circle>
-  <text x="800" y="96" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" letter-spacing="2.5" fill="#179089" text-anchor="end">SKILL TREE  /  CLAUDE MASTERCLASS  /  STUDY PLAN</text>
+  <text x="800" y="96" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" letter-spacing="2.5" fill="#E9A93A" text-anchor="end">SKILL TREE  /  CLAUDE MASTERCLASS  /  STUDY PLAN</text>
   </g>
 </svg>

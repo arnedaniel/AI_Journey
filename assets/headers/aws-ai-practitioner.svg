@@ -79,6 +79,6 @@
   <circle r="1.3" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="7s" repeatCount="indefinite" path="M138 31 a25 11 0 1 1 50 0 a25 11 0 1 1 -50 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="2.3s" begin="4.05s" repeatCount="indefinite"/></circle>
   <circle r="2.1" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="14s" repeatCount="indefinite" path="M294 35 a13 13 0 1 1 26 0 a13 13 0 1 1 -26 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="4.7s" begin="4.5s" repeatCount="indefinite"/></circle>
   <circle r="2.1" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="14s" repeatCount="indefinite" path="M221 66 a22 16 0 1 1 44 0 a22 16 0 1 1 -44 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="4.7s" begin="4.95s" repeatCount="indefinite"/></circle>
-  <text x="32" y="96" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" letter-spacing="2.5" fill="#179089" text-anchor="start">SKILL TREE  /  AWS  /  AI PRACTITIONER</text>
+  <text x="32" y="96" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" letter-spacing="2.5" fill="#E9A93A" text-anchor="start">SKILL TREE  /  AWS  /  AI PRACTITIONER</text>
   </g>
 </svg>
