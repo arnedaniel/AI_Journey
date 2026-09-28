@@ -15,3 +15,24 @@
 <a name="map-24"><img align="top" src="assets/map/r13-c00.svg" width="80" alt=""></a><a href="motivation.md"><img align="top" src="assets/map/r13-c01.svg" width="160" alt="Motivation"></a><a name="map-25"><img align="top" src="assets/map/r13-c02.svg" width="96" alt=""></a><a href="milestones.md"><img align="top" src="assets/map/r13-c03.svg" width="160" alt="Milestones"></a><a name="map-26"><img align="top" src="assets/map/r13-c04.svg" width="96" alt=""></a><a href="text-view.md"><img align="top" src="assets/map/r13-c05.svg" width="160" alt="Text view"></a><a name="map-27"><img align="top" src="assets/map/r13-c06.svg" width="80" alt=""></a><br>
 <a name="map-28"><img align="top" src="assets/map/r14-c00.svg" width="832" alt=""></a>
 </p>
+
+### <a name="leaf-1"><img src="assets/leaves/leaf-1.svg" width="16" alt=""></a> &nbsp;Repository structure
+
+```
+AI_Journey/
+├── README.md                 the skill tree, this page
+├── text-view.md              the same page in plain text
+├── motivation.md             why I started this
+├── milestones.md             what actually changed along the way
+├── projects/
+│   ├── README.md             every project: running, finished, queued
+│   ├── AWS-AI-Practitioner/
+│   │   ├── README.md         what it is and where it stands
+│   │   ├── study-plan.md     where it is going
+│   │   ├── progress.md       dated entries, newest first
+│   │   └── certificate.png   the proof, once it is earned
+│   └── Claude-Masterclass/   the same four files
+└── assets/                   the tree, the page headers and the heading leaves, all self-hosted
+```
+
+Every project gets its own folder with the same files, created on the day the work starts.
