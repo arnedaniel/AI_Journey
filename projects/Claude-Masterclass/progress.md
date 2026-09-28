@@ -1,3 +1,5 @@
+<a name="header"><img src="../../assets/headers/claude-masterclass-progress.svg" alt="" width="100%"></a>
+
 # Progress Log
 
 A running log of my AI journey. Newest entries at the top.

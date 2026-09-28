@@ -1,3 +1,5 @@
+<a name="header"><img src="../../assets/headers/aws-ai-practitioner-progress.svg" alt="" width="100%"></a>
+
 # Progress Log
 
 A running log of my AWS AI Practitioner journey. Newest entries at the top.

@@ -1,3 +1,5 @@
+<a name="header"><img src="../../assets/headers/claude-masterclass-study-plan.svg" alt="" width="100%"></a>
+
 # Study Plan — Claude Code & Cowork Masterclass
 
 Started 2026-07-21, finished 2026-08-30 for the 132 target lessons. Sections 4 and 5 followed on 2026-09-03. **158 of 158 lessons, all watched.**
@@ -6,7 +8,7 @@ This file is what the plan was and what happened to it. Kept rather than deleted
 
 ---
 
-### 🟧 &nbsp;How it was planned
+### <a name="leaf-1"><img src="../../assets/leaves/leaf-1.svg" width="16" alt=""></a> &nbsp;How it was planned
 
 A few videos a day, sections taken in order, with a date pencilled in for each one. Sections 4 and 5 were left out of the target from the start: the Claude Code and agent chapters were the reason I bought the course, and the Microsoft-tool workflows could wait.
 
@@ -22,7 +24,7 @@ A few videos a day, sections taken in order, with a date pencilled in for each o
 | 13 — Automations: research teams, CRM, meeting intel, email triage | 31 Aug | one day early |
 | 14 — Automations: expense wrangler, content machine, weekly exec | 2 Sep | three days early |
 
-### 🟥 &nbsp;What actually happened
+### <a name="leaf-2"><img src="../../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;What actually happened
 
 **19h 07 of video over 40 days.** The last two sections landed together in a single sitting, which is what pulled the finish three days forward.
 
@@ -30,7 +32,7 @@ A few videos a day, sections taken in order, with a date pencilled in for each o
 
 **Sections 4 and 5 are done too, not just open.** They went from blocked to finished between 31 August and 3 September: the add-in rights issue that stopped the section-4 intro lesson from going further cleared, and both Claude in Excel (16 lessons) and Claude in PowerPoint (10 lessons) got watched. The course now stands at 158 of 158, past the original 132-lesson plan.
 
-### 🟪 &nbsp;What I would plan differently
+### <a name="leaf-3"><img src="../../assets/leaves/leaf-3.svg" width="16" alt=""></a> &nbsp;What I would plan differently
 
 **Dates per section worked; a daily minute target did not.** The section deadlines gave the plan its shape and every one of them held. The minutes-per-day figure measured attendance and told me nothing about whether I was getting anywhere, so it is gone from these pages.
 

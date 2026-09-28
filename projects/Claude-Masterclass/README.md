@@ -1,4 +1,4 @@
-<img src="../../assets/rail.svg" alt="" width="100%">
+<a name="header"><img src="../../assets/headers/claude-masterclass.svg" alt="" width="100%"></a>
 
 # Claude Code & Cowork Masterclass
 
@@ -10,11 +10,11 @@ Working through *"The Complete Claude Code & Claude Cowork Masterclass [2026]"* 
 
 ---
 
-### 🟧 &nbsp;The goal
+### <a name="leaf-1"><img src="../../assets/leaves/leaf-1.svg" width="16" alt=""></a> &nbsp;The goal
 
 Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build real things with them, not just watch someone else do it.
 
-### 🟥 &nbsp;Where this stands
+### <a name="leaf-2"><img src="../../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;Where this stands
 
 <!-- STATE:START -->
 **Completed 2026-09-03**<br>
@@ -22,7 +22,7 @@ Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build 
 **All ten automation blueprints built and tested** — sprint tracker through weekly executive reporting
 <!-- STATE:END -->
 
-### 🟪 &nbsp;Sections
+### <a name="leaf-3"><img src="../../assets/leaves/leaf-3.svg" width="16" alt=""></a> &nbsp;Sections
 
 | | Section | Status |
 |:---:|:---|:---:|
@@ -42,7 +42,7 @@ Sections 4 and 5 were skipped on purpose at the time: the Claude Code and agent 
 The plan I set myself was met on 30 August, and the whole course followed on 3 September. The front page counts what is
 actually watched: **158 of 158**.
 
-### 🟦 &nbsp;The certificate
+### <a name="leaf-4"><img src="../../assets/leaves/leaf-4.svg" width="16" alt=""></a> &nbsp;The certificate
 
 <img src="certificate.png" alt="Udemy certificate of completion: The Complete Claude Code and Claude Cowork Masterclass 2026, issued to Daniel Arne on 3 September 2026" width="100%">
 
@@ -51,7 +51,7 @@ actually watched: **158 of 158**.
 **It reads 22 hours** — that is the course's listed length; the 19h 07 in the [study plan](./study-plan.md) is the sum of the lesson times I logged<br>
 **The document is German** — that is how Udemy issued it; everything written around it stays English
 
-### ⬜ &nbsp;The files here
+### <a name="leaf-5"><img src="../../assets/leaves/leaf-end.svg" width="16" alt=""></a> &nbsp;The files here
 
 [`progress.md`](./progress.md) — dated entries: what I watched and what I took from it<br>
 [`study-plan.md`](./study-plan.md) — what was planned, what happened, and what I would plan differently<br>

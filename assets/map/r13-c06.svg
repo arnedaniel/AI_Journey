@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="752 768 80 48" width="80" height="48" role="img" aria-label="">
+  <defs>
+    <filter id="glow" x="-200%%" y="-200%%" width="500%%" height="500%%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feGaussianBlur stdDeviation="4"/></filter>
+    <linearGradient id="budfill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#15717A"/><stop offset="1" stop-color="#0B4F55"/>
+    </linearGradient>
+  </defs>
+  <rect width="832" height="864" rx="16" fill="#132124"/>
+  <path d="M690 750 L704 757 L718 762 L733 765 L746 770 L758 775 L759 774 L747 768 L733 764 L719 760 L705 755 L692 748 Z" fill="#1C847E"/>
+  <path d="M758 775 L763 784 L769 793 L775 801 L780 809 L785 817 L785 817 L781 809 L775 801 L769 792 L764 784 L759 774 Z" fill="#1C847E"/>
+  <path d="M785 817 L785 822 L785 827 L785 831 L785 836 L785 840 L786 840 L785 836 L786 831 L786 827 L786 822 L785 817 Z" fill="#1C847E"/>
+  <path d="M785 818 L787 819 L789 820 L792 822 L794 823 L796 824 L796 824 L794 823 L792 821 L790 820 L787 818 L785 817 Z" fill="#1C847E"/>
+  <path d="M758 775 L766 775 L774 776 L782 777 L789 778 L796 778 L796 778 L789 777 L782 776 L774 775 L766 774 L758 774 Z" fill="#1C847E"/>
+  <circle r="2.6" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="10s" repeatCount="indefinite" path="M704 762 a24 16 0 1 1 48 0 a24 16 0 1 1 -48 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="3.3s" begin="8.88s" repeatCount="indefinite"/></circle>
+  <circle r="2.1" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="9s" repeatCount="indefinite" path="M767 748 a17 25 0 1 1 34 0 a17 25 0 1 1 -34 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="3.0s" begin="18.5s" repeatCount="indefinite"/></circle>
+  <circle r="3.0" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="10s" repeatCount="indefinite" path="M771 793 a16 27 0 1 1 32 0 a16 27 0 1 1 -32 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="3.3s" begin="18.87s" repeatCount="indefinite"/></circle>
+</svg>

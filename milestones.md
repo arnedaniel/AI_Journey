@@ -1,4 +1,4 @@
-<img src="assets/rail.svg" alt="" width="100%">
+<a name="header"><img src="assets/headers/milestones.svg" alt="" width="100%"></a>
 
 **[← Back to the map](README.md)**
 

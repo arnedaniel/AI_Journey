@@ -1,3 +1,5 @@
+<a name="header"><img src="../../assets/headers/aws-ai-practitioner-study-plan.svg" alt="" width="100%"></a>
+
 # Study Plan — AWS Certified AI Practitioner (AIF-C01)
 
 The exam is booked for **Friday 25 September 2026, 09:00**, sat in German at a test centre. The date is fixed, so the plan runs backwards from it rather than towards a month I might pick.
@@ -6,7 +8,7 @@ Three phases, and the split is a date rather than a milestone. That is deliberat
 
 ---
 
-### 🟧 &nbsp;Phase one — foundations, until 13 September
+### <a name="leaf-1"><img src="../../assets/leaves/leaf-1.svg" width="16" alt=""></a> &nbsp;Phase one — foundations, until 13 September
 
 The eight courses of the learning plan, start to finish. All eight are done — the last of them, prompt engineering, on 11 September.
 
@@ -16,7 +18,7 @@ The eight courses of the learning plan, start to finish. All eight are done — 
 
 **Security, compliance and governance is not just course seven.** It is domain five of the five the exam is built from, and it is the domain I will have spent least time with. Meeting it last is a risk I am taking with my eyes open: freshest in memory, thinnest in practice.
 
-### 🟥 &nbsp;Phase two — exam preparation, 14 to 24 September
+### <a name="leaf-2"><img src="../../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;Phase two — exam preparation, 14 to 24 September
 
 Eleven days, and everything in them is questions rather than lessons. Official question sets, worked slowly, every wrong answer written down with the topic behind it rather than just the correct letter.
 
@@ -28,7 +30,7 @@ Eleven days, and everything in them is questions rather than lessons. Official q
 
 **The last two days stay light.** Cramming into the night before a 9 a.m. exam trades sleep for revision, and on a hundred-minute multiple-choice paper that is a bad trade.
 
-### 🟪 &nbsp;Phase three — the exam, 25 September
+### <a name="leaf-3"><img src="../../assets/leaves/leaf-3.svg" width="16" alt=""></a> &nbsp;Phase three — the exam, 25 September
 
 | | What |
 |---|---|
@@ -39,7 +41,7 @@ Eleven days, and everything in them is questions rather than lessons. Official q
 
 **Sat in person on purpose.** The online option adds a room scan, a bandwidth requirement and software that has to start on the first try. None of that has anything to do with whether I know the material.
 
-### ⬜ &nbsp;What is deliberately not in here
+### <a name="leaf-4"><img src="../../assets/leaves/leaf-end.svg" width="16" alt=""></a> &nbsp;What is deliberately not in here
 
 **No second course bundle.** The eight learning-plan courses plus the question sets are the whole method. A parallel bundle covering the same ground would be work that looks like progress.
 

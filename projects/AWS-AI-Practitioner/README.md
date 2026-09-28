@@ -1,4 +1,4 @@
-<img src="../../assets/rail.svg" alt="" width="100%">
+<a name="header"><img src="../../assets/headers/aws-ai-practitioner.svg" alt="" width="100%"></a>
 
 # AWS Certified AI Practitioner (AIF-C01)
 
@@ -10,11 +10,11 @@ My road to the AWS AI Practitioner certification, worked through AWS Skill Build
 
 ---
 
-### 🟧 &nbsp;The goal
+### <a name="leaf-1"><img src="../../assets/leaves/leaf-1.svg" width="16" alt=""></a> &nbsp;The goal
 
 Earn the AWS Certified AI Practitioner certification. I sat the exam on **Friday 25 September 2026**, nine days before my semester starts, in German. Booking it before the material was finished was the point rather than an accident: nothing gated the date, and an open date kept moving. Fixing it turned a vague *soon* into a plan with two weeks in it.
 
-### 🟥 &nbsp;Where this stands
+### <a name="leaf-2"><img src="../../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;Where this stands
 
 <!-- STATE:START -->
 **Completed 2026-09-25** — passed the AIF-C01, in German, at a test centre<br>
@@ -22,7 +22,7 @@ Earn the AWS Certified AI Practitioner certification. I sat the exam on **Friday
 **A certification valid until September 2029** — the thing that outlasts the course
 <!-- STATE:END -->
 
-### 🟪 &nbsp;The road
+### <a name="leaf-3"><img src="../../assets/leaves/leaf-3.svg" width="16" alt=""></a> &nbsp;The road
 
 Eight courses, in the order the learning plan puts them. The method is to learn the material first and measure afterwards.
 
@@ -63,7 +63,7 @@ The hours were not wasted. *Machine Learning Foundations* is this exam's own sub
 
 The same applies to the free exam voucher on offer there. It is earned through ninety-day posting and liking streaks rather than through study, so it would arrive after the events I want the certificate for, and I would spend three months starting conversations for a counter instead of an answer. I will pay for the seat.
 
-### 🟦 &nbsp;The certificate
+### <a name="leaf-4"><img src="../../assets/leaves/leaf-4.svg" width="16" alt=""></a> &nbsp;The certificate
 
 <img src="certificate.png" alt="AWS Certified AI Practitioner certificate, issued to Daniel Arne on 25 September 2026, valid until 25 September 2029" width="100%">
 
@@ -71,7 +71,7 @@ The same applies to the free exam voucher on offer there. It is earned through n
 **Validation number e5f371b6c4af42e78d0c234950589197** — printed on the certificate itself, so it can be checked without this page linking anywhere<br>
 **The certificate is English, the exam was not** — I sat it in German
 
-### ⬜ &nbsp;The files here
+### <a name="leaf-5"><img src="../../assets/leaves/leaf-end.svg" width="16" alt=""></a> &nbsp;The files here
 
 [`progress.md`](./progress.md) — dated entries: what I studied and what stuck<br>
 [`study-plan.md`](./study-plan.md) — the eight courses, then the measuring<br>

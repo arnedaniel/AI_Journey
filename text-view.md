@@ -1,4 +1,4 @@
-<img src="assets/rail.svg" alt="" width="100%">
+<a name="header"><img src="assets/headers/text-view.svg" alt="" width="100%"></a>
 
 **[← Back to the map](README.md)**
 
@@ -14,7 +14,7 @@ anyone who would rather read than click through a picture.
 
 ---
 
-### 🟧 &nbsp;Projects
+### <a name="leaf-1"><img src="assets/leaves/leaf-1.svg" width="16" alt=""></a> &nbsp;Projects
 
 **[AWS AI Practitioner](projects/AWS-AI-Practitioner/)** — the road to the AIF-C01 certification, worked through AWS Skill Builder.<br>
 Finished 25 September 2026 — passed the AIF-C01
@@ -24,14 +24,14 @@ Finished 3 September 2026 — all 158 lessons, Excel and PowerPoint included
 
 Four more are queued and not started yet — they are listed, with the reasoning, on the [projects page](projects/).
 
-### 🟥 &nbsp;What I'm learning
+### <a name="leaf-2"><img src="assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;What I'm learning
 
 **LLMs in practice** — Claude every day: Code, Cowork, skills, sub-agents<br>
 **Agent systems** — state, tools, memory, and why a loop beats a one-shot prompt<br>
 **AWS** — the vocabulary first, now the AI and machine learning services the certification is actually about<br>
 **Git and GitHub** — every day; this repository is the practice ground
 
-### ⬜ &nbsp;How to read this repository
+### <a name="leaf-3"><img src="assets/leaves/leaf-end.svg" width="16" alt=""></a> &nbsp;How to read this repository
 
 Start with a project — that is where the actual work is. Every project folder holds the same three files:
 
