@@ -3,10 +3,14 @@
     <filter id="glow" x="-200%%" y="-200%%" width="500%%" height="500%%">
       <feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <radialGradient id="haloA"><stop offset="0" stop-color="#E9A93A" stop-opacity="0.75"/><stop offset="1" stop-color="#E9A93A" stop-opacity="0"/></radialGradient>
+    <radialGradient id="haloT"><stop offset="0" stop-color="#48D1CC" stop-opacity="0.75"/><stop offset="1" stop-color="#48D1CC" stop-opacity="0"/></radialGradient>
+    <radialGradient id="haloW"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.75"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
     <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
   </defs>
+  <style>@media (prefers-reduced-motion: reduce) { .m { display: none } }</style>
   <defs>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feGaussianBlur stdDeviation="4"/></filter>
     <linearGradient id="budfill" x1="0" y1="0" x2="0" y2="1">
@@ -15,8 +19,7 @@
   </defs>
   <rect width="832" height="864" rx="16" fill="#132124"/>
   <path d="M386.6 654.1 L379.8 660.8 L370.0 666.7 L357.1 672.4 L341.7 677.7 L324.4 682.9 L305.7 687.9 L286.2 692.9 L266.4 698.2 L246.8 703.8 L227.8 709.9 L210.1 716.6 L194.0 724.3 L180.1 733.0 L168.9 743.0 L161.0 754.5 L157.1 767.1 L162.9 768.9 L166.9 757.5 L174.2 747.9 L184.7 739.4 L197.9 731.8 L213.5 725.1 L230.9 719.1 L249.6 713.7 L269.1 708.8 L289.0 704.2 L308.6 699.8 L327.7 695.3 L345.6 690.7 L362.0 685.6 L376.5 680.0 L388.7 673.3 L397.4 665.9 Z" fill="#1E958E"/>
-  <circle r="2.4" fill="#E9A93A" filter="url(#glow)"><animateMotion dur="3.087394526224464s" begin="0.0s" repeatCount="indefinite" path="M160.0 768.0 C170.0 700.0 360.0 700.0 392.0 660.0"/></circle>
-    <circle r="2.4" fill="#E9A93A" filter="url(#glow)" opacity="0"><animate attributeName="opacity" to="1" begin="1.54s" dur="0.01s" fill="freeze"/><animateMotion dur="3.087394526224464s" begin="1.54s" repeatCount="indefinite" path="M160.0 768.0 C170.0 700.0 360.0 700.0 392.0 660.0"/></circle>
+  <g class="m"><circle r="6.7" fill="url(#haloA)"/><circle r="2.4" fill="#E9A93A"/><animateMotion dur="3.087394526224464s" begin="0.0s" repeatCount="indefinite" path="M160.0 768.0 C170.0 700.0 360.0 700.0 392.0 660.0"/></g>
   <path d="M264 755 L260 761 L257 767 L255 774 L252 780 L249 786 L249 786 L253 781 L255 774 L258 768 L261 761 L265 755 Z" fill="#1D8983"/>
   <path d="M249 786 L245 788 L241 789 L237 791 L233 792 L229 794 L229 794 L233 792 L237 791 L241 790 L245 788 L249 786 Z" fill="#1D8983"/>
   <path d="M249 786 L248 790 L248 795 L248 799 L248 803 L248 807 L248 807 L248 803 L249 799 L249 795 L249 790 L249 786 Z" fill="#1D8983"/>

@@ -3,10 +3,14 @@
     <filter id="glow" x="-200%%" y="-200%%" width="500%%" height="500%%">
       <feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <radialGradient id="haloA"><stop offset="0" stop-color="#E9A93A" stop-opacity="0.75"/><stop offset="1" stop-color="#E9A93A" stop-opacity="0"/></radialGradient>
+    <radialGradient id="haloT"><stop offset="0" stop-color="#48D1CC" stop-opacity="0.75"/><stop offset="1" stop-color="#48D1CC" stop-opacity="0"/></radialGradient>
+    <radialGradient id="haloW"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.75"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
     <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
   </defs>
+  <style>@media (prefers-reduced-motion: reduce) { .m { display: none } }</style>
   <defs>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feGaussianBlur stdDeviation="4"/></filter>
     <linearGradient id="budfill" x1="0" y1="0" x2="0" y2="1">
@@ -151,5 +155,5 @@
   <path d="M497 825 L498 828 L498 831 L498 834 L498 837 L498 840 L499 840 L499 837 L498 834 L499 831 L498 828 L498 825 Z" fill="#1C847E"/>
   <path d="M497 825 L500 829 L504 832 L508 834 L511 837 L514 840 L514 840 L512 837 L508 834 L504 831 L501 829 L498 825 Z" fill="#1C847E"/>
   <path d="M512 800 L516 802 L519 805 L522 809 L524 812 L528 814 L528 814 L525 811 L522 808 L519 805 L516 802 L512 799 Z" fill="#1C847E"/>
-  <circle r="3.0" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="10s" repeatCount="indefinite" path="M771 793 a16 27 0 1 1 32 0 a16 27 0 1 1 -32 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="3.3s" begin="18.87s" repeatCount="indefinite"/></circle>
+  <g class="m" opacity="0.1"><circle r="7.3" fill="url(#haloA)"/><circle r="2.6" fill="#E9A93A"/><animateMotion dur="13s" repeatCount="indefinite" path="M757 796 a26 20 0 1 1 52 0 a26 20 0 1 1 -52 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="4.3s" begin="7.77s" repeatCount="indefinite"/></g>
 </svg>

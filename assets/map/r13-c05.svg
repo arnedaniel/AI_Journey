@@ -3,10 +3,14 @@
     <filter id="glow" x="-200%%" y="-200%%" width="500%%" height="500%%">
       <feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <radialGradient id="haloA"><stop offset="0" stop-color="#E9A93A" stop-opacity="0.75"/><stop offset="1" stop-color="#E9A93A" stop-opacity="0"/></radialGradient>
+    <radialGradient id="haloT"><stop offset="0" stop-color="#48D1CC" stop-opacity="0.75"/><stop offset="1" stop-color="#48D1CC" stop-opacity="0"/></radialGradient>
+    <radialGradient id="haloW"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.75"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
     <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
   </defs>
+  <style>@media (prefers-reduced-motion: reduce) { .m { display: none } }</style>
   <defs>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feGaussianBlur stdDeviation="4"/></filter>
     <linearGradient id="budfill" x1="0" y1="0" x2="0" y2="1">
@@ -15,8 +19,7 @@
   </defs>
   <rect width="832" height="864" rx="16" fill="#132124"/>
   <path d="M434.5 665.8 L442.9 673.2 L454.8 679.9 L469.1 685.6 L485.3 690.6 L503.0 695.3 L522.0 699.8 L541.6 704.2 L561.4 708.8 L580.9 713.7 L599.7 719.1 L617.2 725.1 L633.0 731.8 L646.4 739.4 L657.2 748.0 L664.8 757.6 L669.2 769.0 L674.8 767.0 L670.7 754.4 L662.4 743.0 L651.0 733.0 L636.9 724.3 L620.6 716.6 L602.8 709.9 L583.8 703.8 L564.1 698.2 L544.3 692.9 L524.9 687.9 L506.3 682.9 L489.2 677.7 L474.0 672.4 L461.4 666.7 L452.0 660.9 L445.5 654.2 Z" fill="#1E958E"/>
-  <circle r="2.4" fill="#E9A93A" filter="url(#glow)"><animateMotion dur="3.3745430156776033s" begin="0.0s" repeatCount="indefinite" path="M672.0 768.0 C660.0 700.0 470.0 700.0 440.0 660.0"/></circle>
-    <circle r="2.4" fill="#E9A93A" filter="url(#glow)" opacity="0"><animate attributeName="opacity" to="1" begin="1.69s" dur="0.01s" fill="freeze"/><animateMotion dur="3.3745430156776033s" begin="1.69s" repeatCount="indefinite" path="M672.0 768.0 C660.0 700.0 470.0 700.0 440.0 660.0"/></circle>
+  <g class="m"><circle r="6.7" fill="url(#haloA)"/><circle r="2.4" fill="#E9A93A"/><animateMotion dur="3.3745430156776033s" begin="0.0s" repeatCount="indefinite" path="M672.0 768.0 C660.0 700.0 470.0 700.0 440.0 660.0"/></g>
   <path d="M634 728 L631 736 L628 745 L626 753 L624 761 L622 769 L623 769 L625 762 L628 754 L630 745 L633 737 L636 729 Z" fill="#1D8983"/>
   <path d="M622 768 L617 773 L613 777 L609 782 L606 786 L602 790 L602 790 L606 787 L610 782 L614 778 L618 773 L623 769 Z" fill="#1D8983"/>
   <path d="M602 790 L598 792 L593 792 L589 793 L585 793 L581 795 L581 795 L585 794 L589 793 L593 793 L598 792 L602 791 Z" fill="#1D8983"/>
@@ -71,7 +74,7 @@
   <path d="M600 773 L604 774 L608 774 L611 774 L615 774 L618 775 L618 774 L615 773 L611 773 L608 773 L604 773 L600 772 Z" fill="#1C847E"/>
   <path d="M605 766 L607 768 L610 770 L612 772 L615 774 L617 777 L617 776 L615 774 L613 772 L610 770 L608 768 L605 765 Z" fill="#1C847E"/>
   <path d="M605 766 L609 766 L613 767 L617 767 L621 767 L624 767 L624 767 L621 766 L617 766 L613 766 L609 766 L605 765 Z" fill="#1C847E"/>
-  <circle r="2.6" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="10s" repeatCount="indefinite" path="M704 762 a24 16 0 1 1 48 0 a24 16 0 1 1 -48 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="3.3s" begin="8.88s" repeatCount="indefinite"/></circle>
+  <g class="m" opacity="0.1"><circle r="7.3" fill="url(#haloA)"/><circle r="2.6" fill="#E9A93A"/><animateMotion dur="13s" repeatCount="indefinite" path="M757 796 a26 20 0 1 1 52 0 a26 20 0 1 1 -52 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="4.3s" begin="7.77s" repeatCount="indefinite"/></g>
   <path d="M602 769 H742 Q751 769 751 778 V806 Q751 815 742 815 H602 Q593 815 593 806 V778 Q593 769 602 769 Z" fill="#0E5C62" fill-opacity="0.74"/>
     <path d="M602 769 H742 Q751 769 751 778 V806 Q751 815 742 815 H602 Q593 815 593 806 V778 Q593 769 602 769 Z" fill="url(#sheen)"/>
     <path d="M672.0 768.0 C678.0 778.4 664.0 788.8 672.0 797.8" fill="none" stroke="#2BA59E" stroke-width="2.2" stroke-linecap="round" opacity="0.55"/>

@@ -3,10 +3,14 @@
     <filter id="glow" x="-200%%" y="-200%%" width="500%%" height="500%%">
       <feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <radialGradient id="haloA"><stop offset="0" stop-color="#E9A93A" stop-opacity="0.75"/><stop offset="1" stop-color="#E9A93A" stop-opacity="0"/></radialGradient>
+    <radialGradient id="haloT"><stop offset="0" stop-color="#48D1CC" stop-opacity="0.75"/><stop offset="1" stop-color="#48D1CC" stop-opacity="0"/></radialGradient>
+    <radialGradient id="haloW"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.75"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
     <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
   </defs>
+  <style>@media (prefers-reduced-motion: reduce) { .m { display: none } }</style>
   <defs>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feGaussianBlur stdDeviation="4"/></filter>
     <linearGradient id="budfill" x1="0" y1="0" x2="0" y2="1">
@@ -49,14 +53,6 @@
   <path d="M610 72 L612 69 L614 65 L616 62 L618 59 L620 55 L619 55 L617 58 L615 62 L613 65 L611 68 L609 72 Z" fill="#1C7E79"/>
   <path d="M422.1 252.1 L447.5 226.8 L475.5 204.8 L505.3 185.5 L536.1 168.7 L566.8 153.8 L596.7 140.6 L624.7 128.7 L650.0 117.7 L671.6 107.2 L688.5 96.9 L687.5 95.1 L670.4 105.1 L648.8 115.2 L623.4 125.8 L595.3 137.3 L565.2 150.2 L534.1 164.7 L502.9 181.4 L472.5 200.6 L443.8 222.6 L417.9 247.9 Z" fill="#164142"/>
   <path d="M607 41 H769 L775 47 V89 L769 95 H607 L601 89 V47 Z" fill="#0A1415" opacity="0.9"/><path d="M607 41 H769 L775 47 V89 L769 95 H607 L601 89 V47 Z" fill="none" stroke="#F5C35C" stroke-width="1.2" stroke-dasharray="3 3"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" repeatCount="indefinite"/></path><rect x="616" y="66.0" width="10" height="8" fill="#F5C35C"/><path d="M618 66.0 v-3 a3 3 0 0 1 6 0 v3" fill="none" stroke="#F5C35C" stroke-width="1.6"/><text x="636" y="69.0" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" letter-spacing="4" fill="#A8DCD6">? ? ?</text><text x="638.5" y="67.5" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" letter-spacing="4" fill="#48D1CC" opacity="0">? ? ?<animate attributeName="opacity" values="0;0;0;0.9;0;0.7;0" dur="5.3s" repeatCount="indefinite"/></text><text x="636" y="83.0" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="9" letter-spacing="2" fill="#179089">LOCKED · SOON</text>
-  <circle r="1.3" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="13s" repeatCount="indefinite" path="M632 104 a29 20 0 1 1 58 0 a29 20 0 1 1 -58 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="4.3s" begin="1.85s" repeatCount="indefinite"/></circle>
-  <circle r="3.0" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="10s" repeatCount="indefinite" path="M639 101 a28 26 0 1 1 56 0 a28 26 0 1 1 -56 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="3.3s" begin="2.59s" repeatCount="indefinite"/></circle>
-  <circle r="1.7" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="10s" repeatCount="indefinite" path="M568 86 a25 14 0 1 1 50 0 a25 14 0 1 1 -50 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="3.3s" begin="2.96s" repeatCount="indefinite"/></circle>
-  <circle r="1.3" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="7s" repeatCount="indefinite" path="M542 150 a30 15 0 1 1 60 0 a30 15 0 1 1 -60 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="2.3s" begin="3.33s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="7s" repeatCount="indefinite" path="M703 148 a18 19 0 1 1 36 0 a18 19 0 1 1 -36 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="2.3s" begin="4.07s" repeatCount="indefinite"/></circle>
-  <circle r="3.0" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="7s" repeatCount="indefinite" path="M703 134 a30 19 0 1 1 60 0 a30 19 0 1 1 -60 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="2.3s" begin="7.03s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="13s" repeatCount="indefinite" path="M749 108 a24 16 0 1 1 48 0 a24 16 0 1 1 -48 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="4.3s" begin="7.4s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="11s" repeatCount="indefinite" path="M548 154 a22 23 0 1 1 44 0 a22 23 0 1 1 -44 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="3.7s" begin="9.99s" repeatCount="indefinite"/></circle>
-  <circle r="3.0" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="12s" repeatCount="indefinite" path="M717 139 a27 19 0 1 1 54 0 a27 19 0 1 1 -54 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="4.0s" begin="13.69s" repeatCount="indefinite"/></circle>
-  <circle r="3.0" fill="#E9A93A" filter="url(#glow)" opacity="0.1"><animateMotion dur="8s" repeatCount="indefinite" path="M514 52 a29 15 0 1 1 58 0 a29 15 0 1 1 -58 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="2.7s" begin="15.91s" repeatCount="indefinite"/></circle>
+  <g class="m" opacity="0.1"><circle r="7.3" fill="url(#haloA)"/><circle r="2.6" fill="#E9A93A"/><animateMotion dur="7s" repeatCount="indefinite" path="M681 123 a22 27 0 1 1 44 0 a22 27 0 1 1 -44 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="2.3s" begin="2.22s" repeatCount="indefinite"/></g>
+  <g class="m" opacity="0.1"><circle r="7.3" fill="url(#haloA)"/><circle r="2.6" fill="#E9A93A"/><animateMotion dur="7s" repeatCount="indefinite" path="M653 112 a18 19 0 1 1 36 0 a18 19 0 1 1 -36 0"/><animate attributeName="opacity" values="0.1;1;0.35;0.9;0.1" dur="2.3s" begin="4.44s" repeatCount="indefinite"/></g>
 </svg>
