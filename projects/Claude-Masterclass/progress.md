@@ -8,6 +8,22 @@ A course log for **"The Complete Claude Code & Claude Cowork Masterclass [2026]"
 
 ---
 
+## 2026-10-12 (Mon) — MAVE's voice starts without a window
+
+- **Hidden server start** — Switching the voice on opened a terminal window that stayed up as long as the server ran. Windows 11 hands every new console to Windows Terminal, and Windows Terminal ignores the "start hidden" flag, so hiding the window was never going to work. The fix gives WSL no window at all: a small Python launcher starts it with `CREATE_NO_WINDOW`.
+
+---
+
+## 2026-10-06 (Tue) — MAVE gets a voice after all
+
+- **Picked up the experiment parked on 29 August** — The hosted voices had failed on sound or on running cost, and a cloud voice means every text I get read out goes to a third party. This time it runs fully local.
+- **Local text-to-speech with XTTS-v2** — The open Coqui model runs on my own GPU. Windows' Smart App Control blocks PyTorch, so the model lives in WSL Ubuntu instead.
+- **Choosing the voice** — Went through the model's built-in speakers in several rounds: measured pitch to drop the deep ones, then rated the rest on a short study text. The winner reads clearly and gets through hard technical terms.
+- **Wired into Claude Code** — A small server keeps the model loaded, a hook hands every finished answer to a reader script, and a switch in the VS Code status bar turns it on and off. Off also stops the server, so the GPU is free again.
+- **Making it sound right** — Text is cleaned before it is spoken: dates, numbers and abbreviations written out, tables, code and file paths dropped, sentences joined into chunks long enough that the model stops inventing sounds at the edges.
+
+---
+
 ## 2026-09-03 (Thu) — Day 26: Excel and PowerPoint cleared — course complete at 158/158
 
 - **L42 — Setting up Claude inside Excel** (2 min) — Installed and connected the Claude add-in inside Excel, the last blocker before the section's hands-on lessons could run.
