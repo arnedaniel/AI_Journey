@@ -31,7 +31,7 @@ Four more are queued and not started yet — they are listed, with the reasoning
 
 **LLMs in practice** — Claude every day: Code, Cowork, skills, sub-agents<br>
 **Agent systems** — state, tools, memory, and why a loop beats a one-shot prompt<br>
-**AWS** — the vocabulary first, now the AI and machine learning services the certification is actually about<br>
+**AWS** — the AI Practitioner done, now the broad foundation: compute, storage, networking, security, billing<br>
 **Git and GitHub** — every day; this repository is the practice ground
 
 ### <a name="leaf-3"><img src="assets/leaves/leaf-end.svg" width="16" alt=""></a> &nbsp;How to read this repository
