@@ -8,7 +8,8 @@ Each project gets its own folder here, with the same three files: a `README.md` 
 
 ### <a name="leaf-1"><img src="../assets/leaves/leaf-1.svg" width="16" alt=""></a> &nbsp;Running
 
-Nothing at the moment. The next one gets its folder on the day it starts.
+**[AWS-Cloud-Practitioner](AWS-Cloud-Practitioner/)** — the broad AWS foundation, studied from one Anki deck alongside the semester.<br>
+Started 16 October 2026. The deck is built, the exam attempt runs until 30 November.
 
 ### <a name="leaf-2"><img src="../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;Finished
 
@@ -22,7 +23,6 @@ All 158 of 158 lessons done. Sat here briefly on 30 August for the 132 planned l
 
 Not started, and deliberately not folders yet — a folder gets created on the day the work does. They are here in the order I expect to reach them, and each is here for a different reason:
 
-**AWS Cloud Practitioner** — the broad AWS foundation: compute, storage, networking, security and billing, the ground the AI Practitioner stood on. First, because the semester leaves room for steady study more than for a build, and it runs on the same routine that carried the AI Practitioner.<br>
 **RAG** — a retrieval system over my own lecture notes, running locally and built by hand from three libraries before any framework touches it. Next, because the semester hands me the material, and because I want to know what a framework saves me before I let one do it.<br>
 **n8n** — workflow automation. Triggers, schedules and moving data between services: the plumbing an agent sits inside, not an agent framework. Early, because it is the easiest to see working.<br>
 **LangGraph** — agent control flow written as a graph. State that survives a step, loops that may run again, and a defined place to stop and ask a human.<br>

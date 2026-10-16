@@ -31,6 +31,7 @@ AI_Journey/
 │   │   ├── study-plan.md     where it is going
 │   │   ├── progress.md       dated entries, newest first
 │   │   └── certificate.png   the proof, once it is earned
+│   ├── AWS-Cloud-Practitioner/  the same files, certificate still to come
 │   └── Claude-Masterclass/   the same four files
 └── assets/                   the tree, the page headers and the heading leaves, all self-hosted
 ```
