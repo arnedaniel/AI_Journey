@@ -34,6 +34,8 @@ One deck per exam domain, in the guide's own order.
 | 3 | Cloud Technology and Services | 34 % | 149 | – |
 | 4 | Billing, Pricing, and Support | 12 % | 57 | – |
 
+Target dates per domain are in the [study plan](./study-plan.md).
+
 **Cards instead of courses.** The semester does not leave me the hours to click through a thirteen-hour course. So the material went the other way round: the official course and the four domain reviews were condensed, with AI help, into one Anki deck, and the deck is what I study.
 
 **Checked against the exam guide, not against the course.** Every task statement and every in-scope service in the guide has at least one card. The AI Practitioner taught me why: its practice tests asked about things no course in the learning plan covered.
