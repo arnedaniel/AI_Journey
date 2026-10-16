@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 832 324" width="832" height="324" role="img" aria-label="Goal dates per exam domain">
+<rect width="832" height="324" rx="14" fill="#132124"/>
+<text x="32" y="34" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="11" letter-spacing="3" fill="#179089">GOALS  /  CARDS LEARNED</text>
+<line x1="333.3" y1="50" x2="333.3" y2="290" stroke="#1E3438" stroke-width="1"/>
+<text x="333.3" y="306" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#179089" text-anchor="middle">19 OCT</text>
+<line x1="411.1" y1="50" x2="411.1" y2="290" stroke="#1E3438" stroke-width="1"/>
+<text x="411.1" y="306" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#179089" text-anchor="middle">26 OCT</text>
+<line x1="488.9" y1="50" x2="488.9" y2="290" stroke="#1E3438" stroke-width="1"/>
+<text x="488.9" y="306" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#179089" text-anchor="middle">2 NOV</text>
+<line x1="566.7" y1="50" x2="566.7" y2="290" stroke="#1E3438" stroke-width="1"/>
+<text x="566.7" y="306" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#179089" text-anchor="middle">9 NOV</text>
+<line x1="644.4" y1="50" x2="644.4" y2="290" stroke="#1E3438" stroke-width="1"/>
+<text x="644.4" y="306" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#179089" text-anchor="middle">16 NOV</text>
+<line x1="722.2" y1="50" x2="722.2" y2="290" stroke="#1E3438" stroke-width="1"/>
+<text x="722.2" y="306" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#179089" text-anchor="middle">23 NOV</text>
+<line x1="800.0" y1="50" x2="800.0" y2="290" stroke="#1E3438" stroke-width="1"/>
+<text x="800.0" y="306" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#179089" text-anchor="middle">30 NOV</text>
+<text x="32" y="73" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" fill="#F5C35C">1</text>
+<text x="52" y="73" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F0FFFD">Cloud Concepts</text>
+<text x="52" y="89" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10.5" letter-spacing="0.6" fill="#A8DCD6">0 OF 72 LEARNED</text>
+<rect x="300.0" y="64" width="77.8" height="16" rx="8" fill="#1C3A3E"/>
+<circle cx="377.8" cy="72" r="4" fill="#F5C35C"/>
+<text x="377.8" y="96" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">23 OCT</text>
+<text x="32" y="117" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" fill="#F5C35C">2</text>
+<text x="52" y="117" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F0FFFD">Security and Compliance</text>
+<text x="52" y="133" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10.5" letter-spacing="0.6" fill="#A8DCD6">0 OF 94 LEARNED</text>
+<rect x="377.8" y="108" width="100.0" height="16" rx="8" fill="#1C3A3E"/>
+<circle cx="477.8" cy="116" r="4" fill="#F5C35C"/>
+<text x="477.8" y="140" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">1 NOV</text>
+<text x="32" y="161" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" fill="#F5C35C">3</text>
+<text x="52" y="161" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F0FFFD">Technology and Services</text>
+<text x="52" y="177" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10.5" letter-spacing="0.6" fill="#A8DCD6">0 OF 149 LEARNED</text>
+<rect x="477.8" y="152" width="155.6" height="16" rx="8" fill="#1C3A3E"/>
+<circle cx="633.3" cy="160" r="4" fill="#F5C35C"/>
+<text x="633.3" y="184" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">15 NOV</text>
+<text x="32" y="205" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" fill="#F5C35C">4</text>
+<text x="52" y="205" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F0FFFD">Billing, Pricing, Support</text>
+<text x="52" y="221" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10.5" letter-spacing="0.6" fill="#A8DCD6">0 OF 57 LEARNED</text>
+<rect x="633.3" y="196" width="55.6" height="16" rx="8" fill="#1C3A3E"/>
+<circle cx="688.9" cy="204" r="4" fill="#F5C35C"/>
+<text x="688.9" y="228" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">20 NOV</text>
+<text x="32" y="249" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" fill="#F5C35C">5</text>
+<text x="52" y="249" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F0FFFD">Practice exams, close gaps</text>
+<text x="52" y="265" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10.5" letter-spacing="0.6" fill="#A8DCD6">REVIEW ALL FOUR DOMAINS</text>
+<rect x="688.9" y="240" width="66.7" height="16" rx="8" fill="#1C3A3E"/>
+<path d="M766.7 241 l7 7 l-7 7 l-7 -7 Z" fill="#F5C35C"/>
+<text x="756.7" y="272" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">EXAM 27 NOV</text>
+<line x1="800.0" y1="50" x2="800.0" y2="290" stroke="#A8DCD6" stroke-width="1.5"/>
+<text x="796.0" y="44" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="9" letter-spacing="1" fill="#A8DCD6" text-anchor="end">ATTEMPT ENDS 30 NOV</text>
+<line x1="300.0" y1="50" x2="300.0" y2="290" stroke="#7FFFD4" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="304.0" y="44" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="9" letter-spacing="1" fill="#7FFFD4">TODAY</text>
+</svg>

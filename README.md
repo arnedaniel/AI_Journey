@@ -33,7 +33,7 @@ AI_Journey/
 │   │   └── certificate.png   the proof, once it is earned
 │   ├── AWS-Cloud-Practitioner/  the same files, certificate still to come
 │   └── Claude-Masterclass/   the same four files
-└── assets/                   the tree, the page headers and the heading leaves, all self-hosted
+└── assets/                   the tree, the page headers, the heading leaves and the goal charts, all self-hosted
 ```
 
 Every project gets its own folder with the same files, created on the day the work starts.
