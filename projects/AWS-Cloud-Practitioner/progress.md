@@ -8,6 +8,14 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-10-18 (Sun) — First reviews
+
+- **11 of 372 cards are green,** all in domain 1, Cloud Concepts. One more is still in the learning phase.
+- **29 first learning steps** across the evenings of 17 and 18 October. No card has come back for a repeat yet, because none is due.
+- **Topics that came up:** what cloud computing is, the six advantages, economies of scale, the five criteria, resource pooling, high availability against fault tolerance, disaster recovery, vertical against horizontal scaling, scalability against elasticity.
+
+**Next up:** the rest of domain 1, then domain 2.
+
 ## 2026-10-16 (Fri) — Started: a deck instead of a course
 
 - **Opened the Cloud Practitioner** as the next project after the AI Practitioner. It is the broad AWS foundation the AI exam assumed I had, and I am fitting it in next to my studies.
