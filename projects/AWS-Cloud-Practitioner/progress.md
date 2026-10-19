@@ -8,6 +8,14 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-10-19 (Mon) — First repeats
+
+- **24 of 372 cards learned,** all in domain 1, Cloud Concepts; three are still in the learning phase.
+- **The first cards keep coming back for their repeats,** 73 reviews over three evenings.
+- **Topics that came up:** elasticity against agility, the three deployment models, hybrid setups for data that has to stay in the country, the benefits of the global infrastructure, spreading resources across Availability Zones.
+
+**Next up:** the rest of domain 1, Cloud Concepts, then domain 2, Security and Compliance.
+
 ## 2026-10-18 (Sun) — First reviews
 
 - **11 of 372 cards are green,** all in domain 1, Cloud Concepts. One more is still in the learning phase.
