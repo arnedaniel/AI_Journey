@@ -8,6 +8,16 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-10-21 (Wed) — Well-Architected and migration
+
+- **49 of 371 cards learned,** all in domain 1, Cloud Concepts; seven are still in the learning phase. The deck is one card smaller, because I deleted a card I did not need.
+- **Finished the Well-Architected Framework:** the design principles of all six pillars and the general ones, decoupling, and the Well-Architected Tool.
+- **Moved on to migration:** the Cloud Adoption Framework with its benefits, six perspectives and transformation phases, the four adoption phases, and the 7 Rs of migration.
+- **Booked an AWS Discovery Day** for 20 November, a week before the exam. It is marked in the [study plan](./study-plan.md).
+- **2 h 30 min of study today.** The first day with the time noted, so the total effort becomes visible over the weeks.
+
+**Next up:** the rest of domain 1, Cloud Concepts, then domain 2, Security and Compliance.
+
 ## 2026-10-19 (Mon) — First repeats
 
 - **24 of 372 cards learned,** all in domain 1, Cloud Concepts; three are still in the learning phase.
