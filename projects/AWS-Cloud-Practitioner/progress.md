@@ -8,6 +8,14 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-11-01 (Sun) — Domain 1 complete
+
+- **70 of 370 cards learned,** up from 49. Domain 1, Cloud Concepts, is complete: all 70 of its cards. The deck is one card smaller again, because I deleted another card I did not need.
+- **Finished migration:** the 7 Rs, the four phases of the cloud transformation, the Cloud Center of Excellence, and the migration tools: Migration Evaluator, Application Discovery Service, Application Migration Service, Migration Hub, DataSync, Transfer Family and the Snow Family.
+- **Finished cloud economics:** capital expense against variable expense, the four parts of the total cost of ownership, bring your own license against license included, and rightsizing.
+
+**Next up:** domain 2, Security and Compliance.
+
 ## 2026-10-21 (Wed) — Well-Architected and migration
 
 - **49 of 371 cards learned,** all in domain 1, Cloud Concepts; seven are still in the learning phase. The deck is one card smaller, because I deleted a card I did not need.
