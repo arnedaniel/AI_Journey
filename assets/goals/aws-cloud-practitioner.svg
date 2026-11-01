@@ -25,25 +25,25 @@
 <text x="32" y="117" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" fill="#F5C35C">2</text>
 <text x="52" y="117" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F0FFFD">Security and Compliance</text>
 <text x="52" y="133" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10.5" letter-spacing="0.6" fill="#A8DCD6">0 OF 94 LEARNED</text>
-<rect x="377.8" y="108" width="100.0" height="16" rx="8" fill="#1C3A3E"/>
-<circle cx="477.8" cy="116" r="4" fill="#F5C35C"/>
-<text x="477.8" y="140" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">1 NOV</text>
+<rect x="377.8" y="108" width="188.9" height="16" rx="8" fill="#1C3A3E"/>
+<circle cx="566.7" cy="116" r="4" fill="#F5C35C"/>
+<text x="566.7" y="140" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">9 NOV</text>
 <text x="32" y="161" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" fill="#F5C35C">3</text>
 <text x="52" y="161" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F0FFFD">Technology and Services</text>
 <text x="52" y="177" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10.5" letter-spacing="0.6" fill="#A8DCD6">0 OF 149 LEARNED</text>
-<rect x="477.8" y="152" width="155.6" height="16" rx="8" fill="#1C3A3E"/>
-<circle cx="633.3" cy="160" r="4" fill="#F5C35C"/>
-<text x="633.3" y="184" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">15 NOV</text>
+<rect x="566.7" y="152" width="122.2" height="16" rx="8" fill="#1C3A3E"/>
+<circle cx="688.9" cy="160" r="4" fill="#F5C35C"/>
+<text x="688.9" y="184" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">20 NOV</text>
 <text x="32" y="205" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" fill="#F5C35C">4</text>
 <text x="52" y="205" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F0FFFD">Billing, Pricing, Support</text>
 <text x="52" y="221" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10.5" letter-spacing="0.6" fill="#A8DCD6">0 OF 57 LEARNED</text>
-<rect x="633.3" y="196" width="55.6" height="16" rx="8" fill="#1C3A3E"/>
-<circle cx="688.9" cy="204" r="4" fill="#F5C35C"/>
-<text x="688.9" y="228" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">20 NOV</text>
+<rect x="688.9" y="196" width="55.6" height="16" rx="8" fill="#1C3A3E"/>
+<circle cx="744.4" cy="204" r="4" fill="#F5C35C"/>
+<text x="744.4" y="228" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">25 NOV</text>
 <text x="32" y="249" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" fill="#F5C35C">5</text>
 <text x="52" y="249" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F0FFFD">Practice exams, close gaps</text>
 <text x="52" y="265" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10.5" letter-spacing="0.6" fill="#A8DCD6">REVIEW ALL FOUR DOMAINS</text>
-<rect x="688.9" y="240" width="66.7" height="16" rx="8" fill="#1C3A3E"/>
+<rect x="744.4" y="240" width="11.1" height="16" rx="8" fill="#1C3A3E"/>
 <path d="M766.7 241 l7 7 l-7 7 l-7 -7 Z" fill="#F5C35C"/>
 <text x="756.7" y="272" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">EXAM 27 NOV</text>
 <circle cx="688.9" cy="248" r="5" fill="#132124" stroke="#F5C35C" stroke-width="2"/>
