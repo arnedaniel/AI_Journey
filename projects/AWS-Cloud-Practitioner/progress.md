@@ -8,6 +8,15 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-11-03 (Tue) — Domain 2 started
+
+- **92 of 368 cards learned,** up from 70. 22 of them are the first cards of domain 2, Security and Compliance. The deck is two cards smaller, because I deleted two cards I did not need.
+- **Shared responsibility model:** security of the cloud against security in the cloud, inherited, shared and customer-specific controls, and how the customer's part shrinks from EC2 to RDS to Lambda.
+- **Governance and compliance:** AWS Artifact reports and agreements, Audit Manager, and the one question each for CloudWatch, CloudTrail and Config, with CloudTrail event history, trails and Insights.
+- **Kept repeating domain 1,** mostly migration and the Well-Architected design principles.
+
+**Next up:** the rest of domain 2, Security and Compliance.
+
 ## 2026-11-01 (Sun) — Domain 1 complete
 
 - **70 of 370 cards learned,** up from 49. Domain 1, Cloud Concepts, is complete: all 70 of its cards. The deck is one card smaller again, because I deleted another card I did not need.
