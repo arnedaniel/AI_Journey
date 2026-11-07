@@ -5,7 +5,7 @@
 The broad AWS foundation, studied alongside my fifth semester — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🔵 &nbsp;Domain 2 of 4 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;92 of 368 cards learned &nbsp;&nbsp;&nbsp; 🟢 &nbsp;Exam booked for 27 November 2026
+🔵 &nbsp;Domain 2 of 4 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;125 of 368 cards learned &nbsp;&nbsp;&nbsp; 🟢 &nbsp;Exam booked for 27 November 2026
 <!-- STATUS:END -->
 
 ---
@@ -17,8 +17,8 @@ Earn the AWS Certified Cloud Practitioner certification: compute, storage, netwo
 ### <a name="leaf-2"><img src="../../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;Where this stands
 
 <!-- STATE:START -->
-**92 of 368 cards learned** — a card counts once I have learned it for the first time<br>
-**Domain 2 of 4** — Security and Compliance, 22 of its 92 cards learned; domain 1 is complete<br>
+**125 of 368 cards learned** — a card counts once I have learned it for the first time<br>
+**Domain 2 of 4** — Security and Compliance, 55 of its 92 cards learned; domain 1 is complete<br>
 **Exam booked for 27 November 2026** — the attempt runs until 30 November<br>
 **Next up** — the rest of domain 2, Security and Compliance
 <!-- STATE:END -->

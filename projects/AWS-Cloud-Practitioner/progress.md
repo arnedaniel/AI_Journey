@@ -8,6 +8,15 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-11-07 (Sat) — Security services and IAM
+
+- **125 of 368 cards learned,** up from 92. All 33 new cards are in domain 2, Security and Compliance, which now stands at 55 of its 92 cards.
+- **Security services:** what GuardDuty, Inspector, Detective, Macie and Security Hub each do, KMS against CloudHSM, Certificate Manager, encryption at rest against in transit, and where security logs live.
+- **Governance across accounts:** Organizations, Control Tower, Service Catalog and License Manager.
+- **Access management:** IAM users, groups and roles, when a role beats a user, least privilege, authentication against authorization, and the tasks only the root user can do.
+
+**Next up:** the rest of domain 2, Security and Compliance.
+
 ## 2026-11-03 (Tue) — Domain 2 started
 
 - **92 of 368 cards learned,** up from 70. 22 of them are the first cards of domain 2, Security and Compliance. The deck is two cards smaller, because I deleted two cards I did not need.
