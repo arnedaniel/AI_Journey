@@ -8,6 +8,15 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-11-08 (Sun) — Domain 2 complete
+
+- **162 of 368 cards learned,** up from 125. Domain 2, Security and Compliance, is complete: all 92 of its cards.
+- **Access management:** IAM Identity Center and federation, the three kinds of IAM policy, service control policies, cross-account access, Cognito user pools against identity pools, and the tools that check who can access what.
+- **Network and application security:** security groups against network ACLs, WAF, Shield Standard against Advanced, Firewall Manager, and Secrets Manager against Parameter Store.
+- **Passed the official practice set for domain 2,** taken right after its cards, like the one for domain 1.
+
+**Next up:** domain 3, Cloud Technology and Services.
+
 ## 2026-11-07 (Sat) — Security services and IAM
 
 - **125 of 368 cards learned,** up from 92. All 33 new cards are in domain 2, Security and Compliance, which now stands at 55 of its 92 cards.
