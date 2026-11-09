@@ -8,6 +8,16 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-11-09 (Mon) — Domain 3 started
+
+- **188 of 368 cards learned,** up from 162. All 26 new cards are the first of domain 3, Cloud Technology and Services, which now stands at 26 of its 149 cards.
+- **Deploying and operating:** when to use the Management Console, the CLI or an SDK, which tool fits a one-off task against a repeatable deployment, CloudFormation, the ways to connect to AWS and to an EC2 instance, and the cloud deployment and service models.
+- **Global infrastructure:** how Regions, Availability Zones and edge locations fit together, the criteria for choosing a Region, Local Zones, Wavelength and Outposts, GovCloud, and CloudFront against Global Accelerator.
+- **Compute:** what it takes to launch an EC2 instance, golden AMIs, and the first instance families.
+- **Kept repeating domain 2,** mostly access management.
+
+**Next up:** the rest of domain 3, Cloud Technology and Services.
+
 ## 2026-11-08 (Sun) — Domain 2 complete
 
 - **162 of 368 cards learned,** up from 125. Domain 2, Security and Compliance, is complete: all 92 of its cards.
