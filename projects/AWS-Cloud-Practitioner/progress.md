@@ -8,6 +8,15 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-11-10 (Tue) — Compute, from EC2 to Lambda
+
+- **203 of 368 cards learned,** up from 188. All 15 new cards are in domain 3, Cloud Technology and Services, which now stands at 41 of its 149 cards.
+- **EC2 in depth:** the instance families, general purpose, compute, memory and storage optimized, accelerated computing and burstable instances, plus user data against instance metadata.
+- **Beyond EC2:** containers against virtual machines, what ECS, EKS, ECR and Fargate each do, Lambda and its limits, AWS Batch, Lightsail and Elastic Beanstalk.
+- **Kept repeating the start of domain 3,** mostly deployment tools and global infrastructure.
+
+**Next up:** the rest of domain 3, continuing with storage and databases.
+
 ## 2026-11-09 (Mon) — Domain 3 started
 
 - **188 of 368 cards learned,** up from 162. All 26 new cards are the first of domain 3, Cloud Technology and Services, which now stands at 26 of its 149 cards.
