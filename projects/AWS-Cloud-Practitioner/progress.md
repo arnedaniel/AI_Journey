@@ -8,6 +8,16 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-11-11 (Wed) — Scaling and databases
+
+- **224 of 368 cards learned,** up from 203. All 21 new cards are in domain 3, Cloud Technology and Services, which now stands at 62 of its 149 cards.
+- **Compute, continued:** Auto Scaling groups with their minimum, desired and maximum capacity, dynamic against predictive scaling, the four types of Elastic Load Balancing, and what multi-tenancy means on EC2.
+- **Databases:** a database on EC2 against a managed service, the RDS engines, Multi-AZ against read replicas, Aurora with Serverless and Global Database, DynamoDB and its multi-region writes, relational against NoSQL, ElastiCache against DAX, and DocumentDB.
+- **Migration:** what AWS DMS and the Schema Conversion Tool each do.
+- **Kept repeating compute,** mostly the EC2 instance families.
+
+**Next up:** the rest of domain 3, continuing with networking and storage.
+
 ## 2026-11-10 (Tue) — Compute, from EC2 to Lambda
 
 - **203 of 368 cards learned,** up from 188. All 15 new cards are in domain 3, Cloud Technology and Services, which now stands at 41 of its 149 cards.
