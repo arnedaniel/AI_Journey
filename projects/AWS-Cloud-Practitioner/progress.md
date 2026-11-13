@@ -8,6 +8,29 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-11-13 (Fri) — Mostly review, plus EBS and the start of S3
+
+- **255 of 368 cards learned,** up from 232. All 23 new cards are in domain 3, Cloud Technology and Services, which now stands at 93 of its 149 cards.
+- **Networking inside a VPC:** route tables, the default VPC against a custom one, Transit Gateway against VPC peering, gateway endpoints against interface endpoints, PrivateLink, and what Amazon Inspector adds to VPC security.
+- **Connecting to AWS:** the virtual private gateway, Site-to-Site VPN against Client VPN, Direct Connect and the keyword *dedicated*, and the right link for a large migration that stays hybrid afterwards.
+- **The way to a website:** Route 53, CloudFront, API Gateway, and the path a request takes through them.
+- **Storage started:** which service belongs to block, object and file storage, and whether an EBS volume can attach to an instance in another Availability Zone.
+- **Block storage in depth:** EBS against instance store, EBS snapshots, the four EBS volume types, and what Amazon Data Lifecycle Manager automates.
+- **Amazon S3 started:** how durable S3 is and how large a single object may be, then a first pass over the storage classes, from S3 Standard to the Glacier tiers.
+- **Mostly a review day:** most of today went into repeating what domain 3 has covered so far, above all networking, storage and compute.
+
+**Next up:** the rest of domain 3, continuing with the S3 storage classes.
+
+## 2026-11-12 (Thu) — Data warehousing, migration and the first of networking
+
+- **232 of 368 cards learned,** up from 224. All 8 new cards are in domain 3, Cloud Technology and Services, which now stands at 70 of its 149 cards.
+- **Databases, finished:** Neptune, Redshift, and Redshift Spectrum against Athena.
+- **Migration:** homogeneous against heterogeneous database migrations, and which services move Oracle to PostgreSQL together with its stored procedures.
+- **Networking started:** what Amazon VPC is, what makes a subnet public, and an internet gateway against a NAT gateway.
+- **Kept repeating databases and compute,** mostly Aurora, ElastiCache and multi-tenancy on EC2.
+
+**Next up:** the rest of domain 3, continuing with networking and storage.
+
 ## 2026-11-11 (Wed) — Scaling and databases
 
 - **224 of 368 cards learned,** up from 203. All 21 new cards are in domain 3, Cloud Technology and Services, which now stands at 62 of its 149 cards.

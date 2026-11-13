@@ -31,9 +31,9 @@
 <text x="566.7" y="140" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">9 NOV</text>
 <text x="32" y="161" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" fill="#F5C35C">3</text>
 <text x="52" y="161" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F0FFFD">Technology and Services</text>
-<text x="52" y="177" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10.5" letter-spacing="0.6" fill="#A8DCD6">62 OF 149 LEARNED</text>
+<text x="52" y="177" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10.5" letter-spacing="0.6" fill="#A8DCD6">93 OF 149 LEARNED</text>
 <rect x="566.7" y="152" width="122.2" height="16" rx="8" fill="#1C3A3E"/>
-<rect x="566.7" y="152" width="50.9" height="16" rx="8" fill="#48D1CC"/>
+<rect x="566.7" y="152" width="76.3" height="16" rx="8" fill="#48D1CC"/>
 <circle cx="688.9" cy="160" r="4" fill="#F5C35C"/>
 <text x="688.9" y="184" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">20 NOV</text>
 <text x="32" y="205" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="13" font-weight="700" fill="#F5C35C">4</text>
@@ -52,6 +52,6 @@
 <text x="679.9" y="257" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="18" font-weight="700" fill="#F5C35C" text-anchor="end">*</text>
 <line x1="800.0" y1="50" x2="800.0" y2="290" stroke="#A8DCD6" stroke-width="1.5"/>
 <text x="796.0" y="44" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="9" letter-spacing="1" fill="#A8DCD6" text-anchor="end">ATTEMPT ENDS 30 NOV</text>
-<line x1="588.9" y1="50" x2="588.9" y2="290" stroke="#7FFFD4" stroke-width="1.5" stroke-dasharray="3 3"/>
-<text x="584.9" y="31" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="9" letter-spacing="1" fill="#7FFFD4" text-anchor="end">AS OF 11 NOV</text>
+<line x1="611.1" y1="50" x2="611.1" y2="290" stroke="#7FFFD4" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="607.1" y="31" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="9" letter-spacing="1" fill="#7FFFD4" text-anchor="end">AS OF 13 NOV</text>
 </svg>
