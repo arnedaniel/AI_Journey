@@ -8,6 +8,16 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-11-14 (Sat) — Domain 3 complete
+
+- **311 of 368 cards learned,** up from 255. All 56 new cards are in domain 3, Cloud Technology and Services, which is now complete at 149 of 149.
+- **Storage, finished:** the rest of the S3 storage classes, from Standard-IA and One Zone-IA to Express One Zone and the three Glacier tiers, lifecycle rules against Intelligent-Tiering, versioning and Requester Pays, then EFS against FSx, FSx for Lustre, the three Storage Gateway types, AWS Backup and Elastic Disaster Recovery.
+- **AI, machine learning and analytics:** the three layers of the AWS AI stack, SageMaker AI and Bedrock, Polly, Transcribe and Translate, Comprehend, Textract and Rekognition, Lex, Kendra, Personalize and Amazon Q, then Athena, Glue, EMR, Kinesis Data Streams against Data Firehose, QuickSight, OpenSearch, and a data lake against a data warehouse.
+- **The remaining services:** SQS, SNS and EventBridge, SQS Standard against FIFO and short against long polling, SNS against SES, Step Functions, Amazon Connect, CodeBuild against CodePipeline, CloudWatch against X-Ray, WorkSpaces and its siblings, Amplify against AppSync, IoT Core against Greengrass, Systems Manager, Service Quotas, Resource Access Manager and Compute Optimizer.
+- **Kept repeating the rest of domain 3,** mostly databases, compute and networking.
+
+**Next up:** domain 4, Billing, Pricing, and Support.
+
 ## 2026-11-13 (Fri) — Mostly review, plus EBS and the start of S3
 
 - **255 of 368 cards learned,** up from 232. All 23 new cards are in domain 3, Cloud Technology and Services, which now stands at 93 of its 149 cards.
