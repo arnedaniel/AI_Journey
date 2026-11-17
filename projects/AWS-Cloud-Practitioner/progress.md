@@ -8,6 +8,14 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-11-17 (Tue) — Repeating domain 3
+
+- **Took a practice set for domain 3** and went back over the whole domain. The weak spot: what makes each service unique, not just what it does.
+- **Hands-on in the AWS console:** looked at the services directly instead of only reading about them. EBS volumes live under EC2, and snapshots are their point-in-time backups.
+- **Repeated domain 3 from the start,** service by service.
+
+**Next up:** finish the domain 3 repeat, then domain 4, Billing, Pricing, and Support.
+
 ## 2026-11-14 (Sat) — Domain 3 complete
 
 - **311 of 368 cards learned,** up from 255. All 56 new cards are in domain 3, Cloud Technology and Services, which is now complete at 149 of 149.
