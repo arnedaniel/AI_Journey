@@ -8,6 +8,27 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-11-23 (Mon) — Domain 4: Savings Plans, billing tools, support started
+
+- **345 of 368 cards learned,** up from 322. All 23 new cards are in domain 4, Billing, Pricing, and Support, which now stands at 34 of its 57 cards. Domains 1 to 3 stay complete.
+- **Finished the purchase options** started yesterday: Compute against EC2 Instance Savings Plans, Reserved Instances against Savings Plans, Capacity Reservations, Dedicated Hosts against Dedicated Instances, and scenario cards that ask which option fits a workload.
+- **What else costs money:** data transfer in and out, how to lower outbound data costs, what S3 storage classes charge beyond storage, and the order in which to optimize costs.
+- **Billing and cost tools:** AWS Budgets against Cost Explorer against the Cost and Usage Report, the Pricing Calculator, cost allocation tags and how to activate them, Free Tier alerts, the Billing and Cost Management dashboard, consolidated billing and what it does not do, and AWS Billing Conductor.
+- **Support plans started:** which plans the exam guide covers, Basic Support, and response times for a critical outage.
+- **Kept repeating the pricing principles and Reserved Instances.**
+
+**Next up:** the rest of domain 4, the support plans and resources, then the final practice test before the exam on 27 November.
+
+## 2026-11-22 (Sun) — Domain 4 started: pricing models
+
+- **322 of 368 cards learned,** up from 311. All 11 new cards are in domain 4, Billing, Pricing, and Support, which now stands at 11 of its 57 cards. Domains 1 to 3 stay complete.
+- **Pricing principles:** the three AWS pricing principles and the three cost drivers.
+- **Purchase options:** when On-Demand fits, what Spot Instances are, and Reserved Instances with their terms, payment options and the cheapest of them, Standard against Convertible, regional against zonal, RI flexibility and how RIs are shared across AWS Organizations.
+- **Savings Plans started,** next to the rest of the purchase options: Compute against EC2 Instance Savings Plans, Reserved Instances against Savings Plans, Dedicated Hosts against Dedicated Instances, and Capacity Reservations.
+- **Kept repeating domain 3,** mostly storage, networking and databases.
+
+**Next up:** the rest of domain 4, continuing with Savings Plans and then billing and cost tools.
+
 ## 2026-11-17 (Tue) — Repeating domain 3
 
 - **Took a practice set for domain 3** and went back over the whole domain. The weak spot: what makes each service unique, not just what it does.
