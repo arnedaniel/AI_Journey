@@ -14,13 +14,12 @@ The exam attempt is valid until **30 November 2026**. The plan runs towards that
 
 ### <a name="leaf-2"><img src="../../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;The goals
 
-<a name="goals"><img src="../../assets/goals/aws-cloud-practitioner.svg" alt="Goal dates per exam domain, the Discovery Day on 20 November marked with an asterisk, from 16 October to the end of the attempt on 30 November" width="100%"></a>
+<a name="goals"><img src="../../assets/goals/aws-cloud-practitioner.svg" alt="Goal dates per exam domain, from 16 October to the end of the attempt on 30 November" width="100%"></a>
 
 **Domain 1, Cloud Concepts** — planned for 23 October, done on 1 November<br>
 **Domain 2, Security and Compliance** — planned for 9 November, done on 8 November<br>
 **Domain 3, Technology and Services** — planned for 20 November, done on 14 November<br>
 **Domain 4, Billing, Pricing, and Support** — 25 November<br>
-\* **AWS Discovery Day** — 20 November, 13:30 to 16:30: an afternoon of Cloud Practitioner Essentials, live and virtual with an AWS training partner. One walk through the whole course a week before the exam<br>
 **Practice exams** — the official practice set of each domain right after its cards, and on 26 November one last pass over all four. Every gap they show goes back into the cards<br>
 **The exam** — 27 November, three days before the attempt runs out
 
