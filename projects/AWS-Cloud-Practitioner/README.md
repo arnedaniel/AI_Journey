@@ -5,7 +5,7 @@
 The broad AWS foundation, studied alongside my fifth semester — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🔵 &nbsp;Domain 4 of 4 &nbsp;&nbsp;&nbsp; 🟠 &nbsp;345 of 368 cards learned &nbsp;&nbsp;&nbsp; 🟢 &nbsp;Exam booked for 27 November 2026
+🔵 &nbsp;Final review &nbsp;&nbsp;&nbsp; 🟢 &nbsp;368 of 368 cards learned &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam on 27 November 2026
 <!-- STATUS:END -->
 
 ---
@@ -17,10 +17,10 @@ Earn the AWS Certified Cloud Practitioner certification: compute, storage, netwo
 ### <a name="leaf-2"><img src="../../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;Where this stands
 
 <!-- STATE:START -->
-**345 of 368 cards learned** — a card counts once it has left the learning phase<br>
-**Domain 4 of 4** — Billing, Pricing, and Support, 34 of its 57 cards learned; domains 1 to 3 are complete<br>
+**368 of 368 cards learned** — a card counts once it has left the learning phase<br>
+**All 4 domains complete** — Billing, Pricing, and Support was the last, finished on 24 November<br>
 **Exam booked for 27 November 2026** — the attempt runs until 30 November<br>
-**Next up** — the rest of domain 4, the support plans and resources
+**Next up** — practice tests and closing the gaps they show
 <!-- STATE:END -->
 
 ### <a name="leaf-3"><img src="../../assets/leaves/leaf-3.svg" width="16" alt=""></a> &nbsp;The road
@@ -32,7 +32,7 @@ One deck per exam domain, in the guide's own order.
 | 1 | Cloud Concepts | 24 % | 70 | ✅ |
 | 2 | Security and Compliance | 30 % | 92 | ✅ |
 | 3 | Cloud Technology and Services | 34 % | 149 | ✅ |
-| 4 | Billing, Pricing, and Support | 12 % | 57 | 🔵 |
+| 4 | Billing, Pricing, and Support | 12 % | 57 | ✅ |
 
 Target dates per domain are in the [study plan](./study-plan.md).
 

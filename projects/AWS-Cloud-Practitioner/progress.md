@@ -8,6 +8,16 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
+## 2026-11-24 (Tue) — Domain 4 complete: every card learned
+
+- **368 of 368 cards learned,** up from 345. All 23 new cards are in domain 4, Billing, Pricing, and Support, which is now complete at 57 of 57. All four domains are done.
+- **Support plans:** Developer and Business, Enterprise On-Ramp against Enterprise and what a pool of Technical Account Managers means against a designated one, what a TAM does, what Enterprise and Unified Operations include at no extra cost, and from which plan every Trusted Advisor check opens up.
+- **Where to get help:** the categories Trusted Advisor checks, the AWS Health Dashboard against the Health API, the old Personal and Service Health Dashboards, the Support Center and the Support API, re:Post and the Knowledge Center, and how to report abuse of AWS resources.
+- **People and programs:** AWS Professional Services against Solutions Architects, the AWS Partner Network with its ISVs and system integrators, AWS Prescriptive Guidance, and the AWS Marketplace with its core features from the exam guide.
+- **Kept repeating domain 4,** mostly the purchase options and the billing tools from yesterday.
+
+**Next up:** practice tests and closing the gaps they show, then the exam on 27 November.
+
 ## 2026-11-23 (Mon) — Domain 4: Savings Plans, billing tools, support started
 
 - **345 of 368 cards learned,** up from 322. All 23 new cards are in domain 4, Billing, Pricing, and Support, which now stands at 34 of its 57 cards. Domains 1 to 3 stay complete.
