@@ -8,7 +8,7 @@ Each project gets its own folder here, with the same three files: a `README.md` 
 
 ### <a name="leaf-1"><img src="../assets/leaves/leaf-1.svg" width="16" alt=""></a> &nbsp;Running
 
-**RAG** — the support bot inside my university project: a ticket system for companies, built with a fellow student in a Docker seminar. A company uploads its own documents, the bot answers questions from them, and when it cannot help, the chat becomes a prefilled ticket. Planned on AWS Bedrock, so the two AWS certifications go straight to work.<br>
+**AI Ticket System with a RAG chatbot** — my university project: a ticket system for companies, built with a fellow student in a Docker seminar. A company uploads its own documents, the bot answers questions from them, and when it cannot help, the chat becomes a prefilled ticket. Planned on AWS Bedrock, so the two AWS certifications go straight to work.<br>
 Running since 27 November 2026, with the code in the seminar's own repository. No folder here yet; it gets one with its first entry.
 
 ### <a name="leaf-2"><img src="../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;Finished

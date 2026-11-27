@@ -25,7 +25,7 @@ Finished 3 September 2026 — all 158 lessons, Excel and PowerPoint included
 **[AWS Cloud Practitioner](projects/AWS-Cloud-Practitioner/)** — the broad AWS foundation, studied from one Anki deck alongside the semester.<br>
 Finished 27 November 2026 — passed the CLF-C02
 
-**RAG** — the support bot inside my university project, a ticket system that answers from a company's own documents.<br>
+**AI Ticket System with a RAG chatbot** — my university project, a ticket system whose bot answers from a company's own documents.<br>
 Running since 27 November 2026 — the code lives in the seminar's repository for now
 
 Three more are queued and not started yet — they are listed, with the reasoning, on the [projects page](projects/).
