@@ -23,15 +23,18 @@ Finished 25 September 2026 — passed the AIF-C01
 Finished 3 September 2026 — all 158 lessons, Excel and PowerPoint included
 
 **[AWS Cloud Practitioner](projects/AWS-Cloud-Practitioner/)** — the broad AWS foundation, studied from one Anki deck alongside the semester.<br>
-Started 16 October 2026 — the exam attempt runs until 30 November
+Finished 27 November 2026 — passed the CLF-C02
 
-Four more are queued and not started yet — they are listed, with the reasoning, on the [projects page](projects/).
+**RAG** — the support bot inside my university project, a ticket system that answers from a company's own documents.<br>
+Running since 27 November 2026 — the code lives in the seminar's repository for now
+
+Three more are queued and not started yet — they are listed, with the reasoning, on the [projects page](projects/).
 
 ### <a name="leaf-2"><img src="assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;What I'm learning
 
 **LLMs in practice** — Claude every day: Code, Cowork, skills, sub-agents<br>
 **Agent systems** — state, tools, memory, and why a loop beats a one-shot prompt<br>
-**AWS** — the AI Practitioner done, now the broad foundation: compute, storage, networking, security, billing<br>
+**RAG** — retrieval over a company's own documents, and a bot that knows when to hand over to a human<br>
 **Git and GitHub** — every day; this repository is the practice ground
 
 ### <a name="leaf-3"><img src="assets/leaves/leaf-end.svg" width="16" alt=""></a> &nbsp;How to read this repository

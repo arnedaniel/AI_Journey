@@ -4,9 +4,41 @@
 
 A running log of my AWS Cloud Practitioner journey. Newest entries at the top.
 
-Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from one Anki deck alongside my fifth semester. The exam attempt is valid until **30 November 2026**.
+Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from one Anki deck alongside my fifth semester. The exam was sat on **Friday 27 November 2026**, in German, and passed.
 
 ---
+
+## 2026-11-27 (Fri) — Passed
+
+- **Passed the CLF-C02.** Sat it this morning, in German, at the same test centre as the AI Practitioner. The result was on the screen at the end, and the official confirmation and the badge came a few hours later. The certification runs until November 2029.
+- **Harder than any of the practice tests.** Clearly harder. Some stretches went fast, about twenty questions in a row in ten minutes without a doubt, and I still finished with time left to work back through the fifteen I had flagged, trying to remember the exact card for each.
+- **The questions I hung on longest were close calls between neighbours:** what AWS Organizations can and cannot do, Control Tower and the services it sets up, Secrets Manager against Security Hub, Outposts against FSx for Windows File Server. On several of them my first answer was the right one, and I talked myself out of it.
+- **About 50 hours in total,** across six weeks next to a full semester. Noticeably more than for the AI Practitioner, and it shows in how it felt walking out.
+
+
+## 2026-11-26 (Thu) — The last day: practice exams late into the night
+
+**7 h of study today.**
+
+- **A slow start.** Bad sleep, and the morning went into repeating domain 3, around thirty reviews in two hours with the cards barely sticking. A power nap, then it went on.
+- **Domain 3 practice set, third attempt: 18 of 20.** The two misses: EC2, not a managed database, when you need full control over the operating system and the MySQL install; and Elastic Beanstalk for application health, not AWS Config. Right but unsure on DynamoDB against Redshift, and CloudFront against Route 53.
+- **Found the real gap: some services were only names to me.** Kinesis Data Streams against Firehose, for example: I knew both existed, not what each one does. So I went through what each in-scope service of domains 1 to 3 actually does, 121 of them, on an overview built with AI help: what it does, the words that point to it in a question, and what it gets confused with.
+- **First full practice exam, 65 questions in 90 minutes: 48 of 65.** Below the 80 % I wanted. AWS Config and CloudFront went wrong for the second time that day.
+- **Second full practice exam, late at night: 56 of 65** on the page, around 51 counting only what I solved without asking. The lesson I took from it: trust the first thought, and only switch when the question contains a concrete word against it.
+- **Every miss from both exams went into a separate deck of weak spots,** 42 cards built with AI help, kept out of the count of the main deck.
+
+**Next up:** the exam, tomorrow at nine.
+
+## 2026-11-25 (Wed) — Practice sets: where the gaps are
+
+**4 h of study today.**
+
+- **Went into the week drained** and not feeling ready, so the plan for the last days was only repeating and testing, no new material.
+- **Domain 4 practice set, first attempt:** the support plans, consolidated billing, and Professional Services against the Partner Network needed help.
+- **Domain 1 again, alone: 12 of 15.** Misses on the Cloud Adoption Framework against the Well-Architected Framework, on data residency, and on anticipating failure against recovering automatically.
+- **Domain 2 again, alone: 13 of 15.** GuardDuty against Inspector, and a network ACL against a route table.
+
+**Next up:** domain 3 once more, then both full practice exams.
 
 ## 2026-11-24 (Tue) — Domain 4 complete: every card learned
 

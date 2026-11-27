@@ -5,22 +5,21 @@
 The broad AWS foundation, studied alongside my fifth semester — part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🔵 &nbsp;Final review &nbsp;&nbsp;&nbsp; 🟢 &nbsp;368 of 368 cards learned &nbsp;&nbsp;&nbsp; ⚪ &nbsp;Exam on 27 November 2026
+🟢 &nbsp;Passed on 27 November 2026 — AWS Certified Cloud Practitioner
 <!-- STATUS:END -->
 
 ---
 
 ### <a name="leaf-1"><img src="../../assets/leaves/leaf-1.svg" width="16" alt=""></a> &nbsp;The goal
 
-Earn the AWS Certified Cloud Practitioner certification: compute, storage, networking, security and billing, the ground the AI Practitioner stood on. I am trying to fit it in next to my studies. I have an exam attempt that is valid until **30 November 2026**, and I have booked it for **27 November 2026**.
+Earn the AWS Certified Cloud Practitioner certification: compute, storage, networking, security and billing, the ground the AI Practitioner stood on. I fitted it in next to my studies. The exam attempt was valid until **30 November 2026**; I booked it for **27 November 2026** and passed.
 
 ### <a name="leaf-2"><img src="../../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;Where this stands
 
 <!-- STATE:START -->
-**368 of 368 cards learned** — a card counts once it has left the learning phase<br>
-**All 4 domains complete** — Billing, Pricing, and Support was the last, finished on 24 November<br>
-**Exam booked for 27 November 2026** — the attempt runs until 30 November<br>
-**Next up** — practice tests and closing the gaps they show
+**Completed 2026-11-27** — passed the CLF-C02, in German, at a test centre<br>
+**368 of 368 cards, 4 of 4 domains** — one deck first, the practice tests second<br>
+**A certification valid until November 2029** — the thing that outlasts the deck
 <!-- STATE:END -->
 
 ### <a name="leaf-3"><img src="../../assets/leaves/leaf-3.svg" width="16" alt=""></a> &nbsp;The road

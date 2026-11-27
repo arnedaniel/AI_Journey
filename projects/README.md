@@ -8,10 +8,13 @@ Each project gets its own folder here, with the same three files: a `README.md` 
 
 ### <a name="leaf-1"><img src="../assets/leaves/leaf-1.svg" width="16" alt=""></a> &nbsp;Running
 
-**[AWS-Cloud-Practitioner](AWS-Cloud-Practitioner/)** — the broad AWS foundation, studied from one Anki deck alongside the semester.<br>
-Started 16 October 2026. The deck is built, the exam attempt runs until 30 November.
+**RAG** — the support bot inside my university project: a ticket system for companies, built with a fellow student in a Docker seminar. A company uploads its own documents, the bot answers questions from them, and when it cannot help, the chat becomes a prefilled ticket. Planned on AWS Bedrock, so the two AWS certifications go straight to work.<br>
+Running since 27 November 2026, with the code in the seminar's own repository. No folder here yet; it gets one with its first entry.
 
 ### <a name="leaf-2"><img src="../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;Finished
+
+**[AWS-Cloud-Practitioner](AWS-Cloud-Practitioner/)** — the broad AWS foundation, studied from one Anki deck alongside the semester.<br>
+Passed on 27 November 2026. All 368 cards across the four domains learned by 24 November, then practice tests until the night before the exam.
 
 **[AWS-AI-Practitioner](AWS-AI-Practitioner/)** — the road to the AIF-C01 certification, worked through AWS Skill Builder.<br>
 Passed on 25 September 2026. All 8 courses of the learning plan done on 11 September, all 5 domain practice tests by the 24th.
@@ -23,7 +26,6 @@ All 158 of 158 lessons done. Sat here briefly on 30 August for the 132 planned l
 
 Not started, and deliberately not folders yet — a folder gets created on the day the work does. They are here in the order I expect to reach them, and each is here for a different reason:
 
-**RAG** — a retrieval system over my own lecture notes, running locally and built by hand from three libraries before any framework touches it. Next, because the semester hands me the material, and because I want to know what a framework saves me before I let one do it.<br>
 **n8n** — workflow automation. Triggers, schedules and moving data between services: the plumbing an agent sits inside, not an agent framework. Early, because it is the easiest to see working.<br>
 **LangGraph** — agent control flow written as a graph. State that survives a step, loops that may run again, and a defined place to stop and ask a human.<br>
 **AutoGen or CrewAI** — role-based agent teams. Both answer the same question in a different dialect, so this is one choice to make, not two projects. Last, because it only makes sense once a single agent reliably does.

@@ -48,9 +48,9 @@
 <text x="52" y="265" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10.5" letter-spacing="0.6" fill="#A8DCD6">REVIEW ALL FOUR DOMAINS</text>
 <rect x="744.4" y="240" width="11.1" height="16" rx="8" fill="#1C3A3E"/>
 <path d="M766.7 241 l7 7 l-7 7 l-7 -7 Z" fill="#F5C35C"/>
-<text x="756.7" y="272" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">EXAM 27 NOV</text>
+<text x="756.7" y="272" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="10" fill="#F5C35C" text-anchor="end">PASSED 27 NOV</text>
 <line x1="800.0" y1="50" x2="800.0" y2="290" stroke="#A8DCD6" stroke-width="1.5"/>
 <text x="796.0" y="44" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="9" letter-spacing="1" fill="#A8DCD6" text-anchor="end">ATTEMPT ENDS 30 NOV</text>
-<line x1="733.3" y1="50" x2="733.3" y2="290" stroke="#7FFFD4" stroke-width="1.5" stroke-dasharray="3 3"/>
-<text x="729.3" y="31" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="9" letter-spacing="1" fill="#7FFFD4" text-anchor="end">AS OF 24 NOV</text>
+<line x1="766.7" y1="50" x2="766.7" y2="290" stroke="#7FFFD4" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="762.7" y="31" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="9" letter-spacing="1" fill="#7FFFD4" text-anchor="end">AS OF 27 NOV</text>
 </svg>
