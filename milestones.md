@@ -6,10 +6,11 @@
 
 # Milestones
 
-Three so far. A passed quiz is a log entry; a milestone is something that changed how I work.
+Four so far. A passed quiz is a log entry; a milestone is something that changed how I work.
 
 | Date | What | Why it counted |
 |---|---|---|
+| 27 Nov 2026 | Passed the AWS Certified Cloud Practitioner exam | The second verdict from outside, and the one I worked hardest for: about 50 hours over six weeks, next to a full semester. It changed the method again. No clicking through a course: one deck, checked against the exam guide, and practice exams at the end to find what I only knew by name. And it is the ground the next project stands on, because the RAG bot in my university project is planned on AWS. |
 | 25 Sep 2026 | Passed the AWS Certified AI Practitioner exam | The biggest one so far, and the first measured from outside. Everything before it I judged myself; this time the verdict came from an exam I did not write. It also settled how I learn: work through the material first, test each area on its own, go back where it breaks. That is the method the next project starts with. |
 | 31 Aug 2026 | Built MAVE, a personal second brain | It grows every day instead of being finished. It reads my own notes, sources and coursework, keeps them cross-linked, and runs the automations I work with daily. Ten of those follow the course blueprints and I cut them to my own goals; the rest I designed myself, problem and decisions included. It stays private because it runs on my real mail, calendar and coursework. |
 | 30 Aug 2026 | Finished the Claude Code and agent chapters | 132 planned lessons of 158, over six weeks without a gap. It is the reason the line above it exists. |
