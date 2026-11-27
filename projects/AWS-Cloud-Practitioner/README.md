@@ -2,10 +2,10 @@
 
 # AWS Certified Cloud Practitioner (CLF-C02)
 
-The broad AWS foundation, studied alongside my fifth semester — part of my [AI Journey](../../README.md).
+The broad AWS foundation, studied alongside my fifth semester: part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🟢 &nbsp;Passed on 27 November 2026 — AWS Certified Cloud Practitioner
+🟢 &nbsp;Passed on 27 November 2026: AWS Certified Cloud Practitioner
 <!-- STATUS:END -->
 
 ---
@@ -17,9 +17,9 @@ Earn the AWS Certified Cloud Practitioner certification: compute, storage, netwo
 ### <a name="leaf-2"><img src="../../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;Where this stands
 
 <!-- STATE:START -->
-**Completed 2026-11-27** — passed the CLF-C02, in German, at a test centre<br>
-**About 50 hours over six weeks** — 368 cards across 4 domains, then the practice tests<br>
-**A certification valid until November 2029** — the thing that outlasts the deck
+**Completed 2026-11-27**: passed the CLF-C02, in German, at a test centre<br>
+**About 50 hours over six weeks**: 368 cards across 4 domains, then the practice tests<br>
+**A certification valid until November 2029**: the thing that outlasts the deck
 <!-- STATE:END -->
 
 ### <a name="leaf-3"><img src="../../assets/leaves/leaf-3.svg" width="16" alt=""></a> &nbsp;The road, and how I studied
@@ -61,12 +61,12 @@ Five cards like the ones in the deck, written fresh for this page:
 
 <img src="certificate.png" alt="AWS Certified Cloud Practitioner certificate, issued to Daniel Arne on 27 November 2026, valid until 27 November 2029" width="100%">
 
-**Issued 27 November 2026** — the day of the exam; it expires on 27 November 2029<br>
-**Validation number c0d5f7d82224401894156913ee4fce7a** — printed on the certificate itself, so it can be checked without this page linking anywhere<br>
-**The certificate is English, the exam was not** — I sat it in German
+**Issued 27 November 2026**: the day of the exam; it expires on 27 November 2029<br>
+**Validation number c0d5f7d82224401894156913ee4fce7a**: printed on the certificate itself, so it can be checked without this page linking anywhere<br>
+**The certificate is English, the exam was not**: I sat it in German
 
 ### <a name="leaf-5"><img src="../../assets/leaves/leaf-end.svg" width="16" alt=""></a> &nbsp;The files here
 
-[`progress.md`](./progress.md) — dated entries: how many cards, and which topics came up<br>
-[`study-plan.md`](./study-plan.md) — what the deck covers, and the date it runs towards<br>
-[`certificate.png`](./certificate.png) — the certificate, shown above
+[`progress.md`](./progress.md): dated entries with the card count and the topics that came up<br>
+[`study-plan.md`](./study-plan.md): what the deck covers, and the date it runs towards<br>
+[`certificate.png`](./certificate.png): the certificate, shown above

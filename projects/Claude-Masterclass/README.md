@@ -2,42 +2,42 @@
 
 # Claude Code & Cowork Masterclass
 
-Working through *"The Complete Claude Code & Claude Cowork Masterclass [2026]"* by Prof. Ryan Ahmed — part of my [AI Journey](../../README.md).
+Working through *"The Complete Claude Code & Claude Cowork Masterclass [2026]"* by Prof. Ryan Ahmed: part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🟢 &nbsp;158 of 158 lessons — course complete
+🟢 &nbsp;158 of 158 lessons: course complete
 <!-- STATUS:END -->
 
 ---
 
 ### <a name="leaf-1"><img src="../../assets/leaves/leaf-1.svg" width="16" alt=""></a> &nbsp;The goal
 
-Get genuinely fluent with Claude Code, Cowork, Skills and Plugins — and build real things with them, not just watch someone else do it.
+Get genuinely fluent with Claude Code, Cowork, Skills and Plugins: and build real things with them, not just watch someone else do it.
 
 ### <a name="leaf-2"><img src="../../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;Where this stands
 
 <!-- STATE:START -->
 **Completed 2026-09-03**<br>
-**158 of 158 lessons** — every lesson watched, including Sections 4 and 5 once the Excel/PowerPoint add-in rights issue cleared<br>
-**All ten automation blueprints built and tested** — sprint tracker through weekly executive reporting
+**158 of 158 lessons**: every lesson watched, including Sections 4 and 5 once the Excel/PowerPoint add-in rights issue cleared<br>
+**All ten automation blueprints built and tested**: sprint tracker through weekly executive reporting
 <!-- STATE:END -->
 
 ### <a name="leaf-3"><img src="../../assets/leaves/leaf-3.svg" width="16" alt=""></a> &nbsp;Sections
 
 | | Section | Status |
 |:---:|:---|:---:|
-| 1–3 | Intro, Cowork, Skills and Plugins, Claude Chat Mastery | ✅ |
-| 4–5 | Claude in Excel and PowerPoint | ✅ |
-| 6 | Claude Code Foundations — the biggest chapter | ✅ |
+| 1 to 3 | Intro, Cowork, Skills and Plugins, Claude Chat Mastery | ✅ |
+| 4 to 5 | Claude in Excel and PowerPoint | ✅ |
+| 6 | Claude Code Foundations: the biggest chapter | ✅ |
 | 7 | Claude Code for Building Apps | ✅ |
 | 8 | Claude Code for Building AI Agents | ✅ |
-| 9–10 | Personal AI agent: intro and architecture | ✅ |
+| 9 to 10 | Personal AI agent: intro and architecture | ✅ |
 | 11 | Set up your personal AI agent | ✅ |
 | 12 | Automations: sprint tracker, market pulse, morning brief | ✅ |
 | 13 | Automations: research teams, CRM, meeting intel, email triage | ✅ |
 | 14 | Automations: expense wrangler, content machine, weekly exec | ✅ |
 
-Sections 4 and 5 were skipped on purpose at the time: the Claude Code and agent chapters were the reason I bought the course, and the Microsoft-tool workflows could wait. I came back to them on 31 August and could not get in — the add-in needed rights I did not have on that machine, and it did not appear inside the application either. Once that cleared, both sections played through in a single sitting.
+Sections 4 and 5 were skipped on purpose at the time: the Claude Code and agent chapters were the reason I bought the course, and the Microsoft-tool workflows could wait. I came back to them on 31 August and could not get in: the add-in needed rights I did not have on that machine, and it did not appear inside the application either. Once that cleared, both sections played through in a single sitting.
 
 The plan I set myself was met on 30 August, and the whole course followed on 3 September. The front page counts what is
 actually watched: **158 of 158**.
@@ -46,13 +46,13 @@ actually watched: **158 of 158**.
 
 <img src="certificate.png" alt="Udemy certificate of completion: The Complete Claude Code and Claude Cowork Masterclass 2026, issued to Daniel Arne on 3 September 2026" width="100%">
 
-**Issued 3 September 2026** — the day sections 4 and 5 were watched and the course closed out<br>
-**Certificate number UC-465c4fce-e928-482f-b8f0-4a11b1212091** — printed on the certificate itself, so it can be checked without this page linking anywhere<br>
-**It reads 22 hours** — that is the course's listed length; the 19h 07 in the [study plan](./study-plan.md) is the sum of the lesson times I logged<br>
-**The document is German** — that is how Udemy issued it; everything written around it stays English
+**Issued 3 September 2026**: the day sections 4 and 5 were watched and the course closed out<br>
+**Certificate number UC-465c4fce-e928-482f-b8f0-4a11b1212091**: printed on the certificate itself, so it can be checked without this page linking anywhere<br>
+**It reads 22 hours**: that is the course's listed length; the 19h 07 in the [study plan](./study-plan.md) is the sum of the lesson times I logged<br>
+**The document is German**: that is how Udemy issued it; everything written around it stays English
 
 ### <a name="leaf-5"><img src="../../assets/leaves/leaf-end.svg" width="16" alt=""></a> &nbsp;The files here
 
-[`progress.md`](./progress.md) — dated entries: what I watched and what I took from it<br>
-[`study-plan.md`](./study-plan.md) — what was planned, what happened, and what I would plan differently<br>
-[`certificate.png`](./certificate.png) — the completion certificate, shown above
+[`progress.md`](./progress.md): dated entries of what I watched and what I took from it<br>
+[`study-plan.md`](./study-plan.md): what was planned, what happened, and what I would plan differently<br>
+[`certificate.png`](./certificate.png): the completion certificate, shown above

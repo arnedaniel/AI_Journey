@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="72 200 176 32" width="176" height="32" role="img" aria-label="AI Ticket System with a RAG chatbot, in progress">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="72 200 176 32" width="176" height="32" role="img" aria-label="AI Ticket System with RAG Chatbot, in progress">
   <defs>
     <filter id="glow" x="-200%%" y="-200%%" width="500%%" height="500%%">
       <feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -63,8 +63,9 @@
     <path d="M248.0 200.0 C209.8 194.0 171.6 204.0 138.9 208.0" fill="none" stroke="#2BA59E" stroke-width="2.2" stroke-linecap="round" opacity="0.55"/>
     <path d="M198.9 200.0 q-10.0 10.0 -18.0 14.0" fill="none" stroke="#2BA59E" stroke-width="1.2" opacity="0.4"/>
     <path d="M82 169 H238 Q247 169 247 178 V222 Q247 231 238 231 H82 Q73 231 73 222 V178 Q73 169 82 169 Z" fill="none" stroke="#2BA59E" stroke-width="1.5"/>
-    <text x="86" y="197.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F0FFFD" text-anchor="start">AI Ticket System</text>
-    <text x="86" y="212.0" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="9.5" letter-spacing="1.2" fill="#7FFFD4" text-anchor="start">RAG · IN PROGRESS</text>
+    <text x="86" y="187.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F0FFFD" text-anchor="start">AI Ticket System</text>
+    <text x="86" y="202.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F0FFFD" text-anchor="start">with RAG Chatbot</text>
+    <text x="86" y="217.0" font-family="Consolas, Cascadia Mono, Menlo, Courier New, monospace" font-size="9.5" letter-spacing="1.2" fill="#7FFFD4" text-anchor="start">IN PROGRESS</text>
     <path d="M234 196.0 l4 4 l-4 4" fill="none" stroke="#7FFFD4" stroke-width="1.8" stroke-linecap="square"/>
   <circle cx="248" cy="200" r="3" fill="#E9A93A" filter="url(#glow)"/>
 </svg>

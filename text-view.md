@@ -6,7 +6,7 @@
 
 # AI_Journey
 
-Documenting my path into AI — one project at a time.
+Documenting my path into AI: one project at a time.
 
 Why I started this is on the [motivation page](motivation.md). What actually changed along the
 way is on the [milestones page](milestones.md). This page is the rest of it, in plain text, for
@@ -16,36 +16,36 @@ anyone who would rather read than click through a picture.
 
 ### <a name="leaf-1"><img src="assets/leaves/leaf-1.svg" width="16" alt=""></a> &nbsp;Projects
 
-**[AWS AI Practitioner](projects/AWS-AI-Practitioner/)** — the road to the AIF-C01 certification, worked through AWS Skill Builder.<br>
-Finished 25 September 2026 — passed the AIF-C01
+**[AWS AI Practitioner](projects/AWS-AI-Practitioner/)**: the road to the AIF-C01 certification, worked through AWS Skill Builder.<br>
+Finished 25 September 2026: passed the AIF-C01
 
-**[Claude Masterclass](projects/Claude-Masterclass/)** — Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
-Finished 3 September 2026 — all 158 lessons, Excel and PowerPoint included
+**[Claude Masterclass](projects/Claude-Masterclass/)**: Claude Code, Cowork, Skills and agents through a 158-lesson course.<br>
+Finished 3 September 2026: all 158 lessons, Excel and PowerPoint included
 
-**[AWS Cloud Practitioner](projects/AWS-Cloud-Practitioner/)** — the broad AWS foundation, studied from one Anki deck alongside the semester.<br>
-Finished 27 November 2026 — passed the CLF-C02
+**[AWS Cloud Practitioner](projects/AWS-Cloud-Practitioner/)**: the broad AWS foundation, studied from one Anki deck alongside the semester.<br>
+Finished 27 November 2026: passed the CLF-C02
 
-**AI Ticket System with a RAG chatbot** — my university project, a ticket system whose bot answers from a company's own documents.<br>
-Running since 27 November 2026 — the code lives in the seminar's repository for now
+**AI Ticket System with RAG Chatbot**: my university project, a ticket system whose bot answers from a company's own documents.<br>
+Running since 27 November 2026: the code lives in the seminar's repository for now
 
-Three more are queued and not started yet — they are listed, with the reasoning, on the [projects page](projects/).
+Three more are queued and not started yet: they are listed, with the reasoning, on the [projects page](projects/).
 
 ### <a name="leaf-2"><img src="assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;What I'm learning
 
-**LLMs in practice** — Claude every day: Code, Cowork, skills, sub-agents<br>
-**Agent systems** — state, tools, memory, and why a loop beats a one-shot prompt<br>
-**RAG** — retrieval over a company's own documents, and a bot that knows when to hand over to a human<br>
-**Git and GitHub** — every day; this repository is the practice ground
+**LLMs in practice**: Claude every day, in Code, Cowork, skills and sub-agents<br>
+**Agent systems**: state, tools, memory, and why a loop beats a one-shot prompt<br>
+**RAG**: retrieval over a company's own documents, and a bot that knows when to hand over to a human<br>
+**Git and GitHub**: every day; this repository is the practice ground
 
 ### <a name="leaf-3"><img src="assets/leaves/leaf-end.svg" width="16" alt=""></a> &nbsp;How to read this repository
 
-Start with a project — that is where the actual work is. Every project folder holds the same three files:
+Start with a project: that is where the actual work is. Every project folder holds the same three files:
 
-[`README.md`](projects/AWS-AI-Practitioner/README.md) — what the project is, and exactly where it stands right now<br>
-[`study-plan.md`](projects/AWS-AI-Practitioner/study-plan.md) — where it is going, and what is still undecided<br>
-[`progress.md`](projects/AWS-AI-Practitioner/progress.md) — dated entries, newest first
+[`README.md`](projects/AWS-AI-Practitioner/README.md): what the project is, and exactly where it stands right now<br>
+[`study-plan.md`](projects/AWS-AI-Practitioner/study-plan.md): where it is going, and what is still undecided<br>
+[`progress.md`](projects/AWS-AI-Practitioner/progress.md): dated entries, newest first
 
-A finished project adds a fourth, its certificate — the [Claude Masterclass](projects/Claude-Masterclass/) has one.
+A finished project adds a fourth, its certificate: the [Claude Masterclass](projects/Claude-Masterclass/) has one.
 
 The counts live on the project pages, not on this one. What is recorded there is what happened, not what I meant to happen.
 

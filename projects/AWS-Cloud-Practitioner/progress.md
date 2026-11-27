@@ -8,7 +8,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 ---
 
-## 2026-11-27 (Fri) — Passed
+## 2026-11-27 (Fri) · Passed
 
 - **Passed the CLF-C02.** Sat it this morning, in German, at the same test centre as the AI Practitioner. The result was on the screen at the end, and the official confirmation and the badge came a few hours later. The certification runs until November 2029.
 - **Harder than any of the practice tests.** Clearly harder. Some stretches went fast, about twenty questions in a row in ten minutes without a doubt, and I still finished with time left to work back through the fifteen I had flagged, trying to remember the exact card for each.
@@ -16,7 +16,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 - **About 50 hours in total,** across six weeks next to a full semester. Noticeably more than for the AI Practitioner, and it shows in how it felt walking out.
 
 
-## 2026-11-26 (Thu) — The last day: practice exams late into the night
+## 2026-11-26 (Thu) · The last day: practice exams late into the night
 
 **7 h of study today.**
 
@@ -29,7 +29,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the exam, tomorrow at nine.
 
-## 2026-11-25 (Wed) — Practice sets: where the gaps are
+## 2026-11-25 (Wed) · Practice sets: where the gaps are
 
 **4 h of study today.**
 
@@ -40,7 +40,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** domain 3 once more, then both full practice exams.
 
-## 2026-11-24 (Tue) — Domain 4 complete: every card learned
+## 2026-11-24 (Tue) · Domain 4 complete: every card learned
 
 - **368 of 368 cards learned,** up from 345. All 23 new cards are in domain 4, Billing, Pricing, and Support, which is now complete at 57 of 57. All four domains are done.
 - **Support plans:** Developer and Business, Enterprise On-Ramp against Enterprise and what a pool of Technical Account Managers means against a designated one, what a TAM does, what Enterprise and Unified Operations include at no extra cost, and from which plan every Trusted Advisor check opens up.
@@ -50,7 +50,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** practice tests and closing the gaps they show, then the exam on 27 November.
 
-## 2026-11-23 (Mon) — Domain 4: Savings Plans, billing tools, support started
+## 2026-11-23 (Mon) · Domain 4: Savings Plans, billing tools, support started
 
 - **345 of 368 cards learned,** up from 322. All 23 new cards are in domain 4, Billing, Pricing, and Support, which now stands at 34 of its 57 cards. Domains 1 to 3 stay complete.
 - **Finished the purchase options** started yesterday: Compute against EC2 Instance Savings Plans, Reserved Instances against Savings Plans, Capacity Reservations, Dedicated Hosts against Dedicated Instances, and scenario cards that ask which option fits a workload.
@@ -61,7 +61,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the rest of domain 4, the support plans and resources, then the final practice test before the exam on 27 November.
 
-## 2026-11-22 (Sun) — Domain 4 started: pricing models
+## 2026-11-22 (Sun) · Domain 4 started: pricing models
 
 - **322 of 368 cards learned,** up from 311. All 11 new cards are in domain 4, Billing, Pricing, and Support, which now stands at 11 of its 57 cards. Domains 1 to 3 stay complete.
 - **Pricing principles:** the three AWS pricing principles and the three cost drivers.
@@ -71,7 +71,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the rest of domain 4, continuing with Savings Plans and then billing and cost tools.
 
-## 2026-11-17 (Tue) — Repeating domain 3
+## 2026-11-17 (Tue) · Repeating domain 3
 
 - **Took a practice set for domain 3** and went back over the whole domain. The weak spot: what makes each service unique, not just what it does.
 - **Hands-on in the AWS console:** looked at the services directly instead of only reading about them. EBS volumes live under EC2, and snapshots are their point-in-time backups.
@@ -79,7 +79,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** finish the domain 3 repeat, then domain 4, Billing, Pricing, and Support.
 
-## 2026-11-14 (Sat) — Domain 3 complete
+## 2026-11-14 (Sat) · Domain 3 complete
 
 - **311 of 368 cards learned,** up from 255. All 56 new cards are in domain 3, Cloud Technology and Services, which is now complete at 149 of 149.
 - **Storage, finished:** the rest of the S3 storage classes, from Standard-IA and One Zone-IA to Express One Zone and the three Glacier tiers, lifecycle rules against Intelligent-Tiering, versioning and Requester Pays, then EFS against FSx, FSx for Lustre, the three Storage Gateway types, AWS Backup and Elastic Disaster Recovery.
@@ -89,7 +89,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** domain 4, Billing, Pricing, and Support.
 
-## 2026-11-13 (Fri) — Mostly review, plus EBS and the start of S3
+## 2026-11-13 (Fri) · Mostly review, plus EBS and the start of S3
 
 - **255 of 368 cards learned,** up from 232. All 23 new cards are in domain 3, Cloud Technology and Services, which now stands at 93 of its 149 cards.
 - **Networking inside a VPC:** route tables, the default VPC against a custom one, Transit Gateway against VPC peering, gateway endpoints against interface endpoints, PrivateLink, and what Amazon Inspector adds to VPC security.
@@ -102,7 +102,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the rest of domain 3, continuing with the S3 storage classes.
 
-## 2026-11-12 (Thu) — Data warehousing, migration and the first of networking
+## 2026-11-12 (Thu) · Data warehousing, migration and the first of networking
 
 - **232 of 368 cards learned,** up from 224. All 8 new cards are in domain 3, Cloud Technology and Services, which now stands at 70 of its 149 cards.
 - **Databases, finished:** Neptune, Redshift, and Redshift Spectrum against Athena.
@@ -112,7 +112,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the rest of domain 3, continuing with networking and storage.
 
-## 2026-11-11 (Wed) — Scaling and databases
+## 2026-11-11 (Wed) · Scaling and databases
 
 - **224 of 368 cards learned,** up from 203. All 21 new cards are in domain 3, Cloud Technology and Services, which now stands at 62 of its 149 cards.
 - **Compute, continued:** Auto Scaling groups with their minimum, desired and maximum capacity, dynamic against predictive scaling, the four types of Elastic Load Balancing, and what multi-tenancy means on EC2.
@@ -122,7 +122,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the rest of domain 3, continuing with networking and storage.
 
-## 2026-11-10 (Tue) — Compute, from EC2 to Lambda
+## 2026-11-10 (Tue) · Compute, from EC2 to Lambda
 
 - **203 of 368 cards learned,** up from 188. All 15 new cards are in domain 3, Cloud Technology and Services, which now stands at 41 of its 149 cards.
 - **EC2 in depth:** the instance families, general purpose, compute, memory and storage optimized, accelerated computing and burstable instances, plus user data against instance metadata.
@@ -131,7 +131,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the rest of domain 3, continuing with storage and databases.
 
-## 2026-11-09 (Mon) — Domain 3 started
+## 2026-11-09 (Mon) · Domain 3 started
 
 - **188 of 368 cards learned,** up from 162. All 26 new cards are the first of domain 3, Cloud Technology and Services, which now stands at 26 of its 149 cards.
 - **Deploying and operating:** when to use the Management Console, the CLI or an SDK, which tool fits a one-off task against a repeatable deployment, CloudFormation, the ways to connect to AWS and to an EC2 instance, and the cloud deployment and service models.
@@ -141,7 +141,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the rest of domain 3, Cloud Technology and Services.
 
-## 2026-11-08 (Sun) — Domain 2 complete
+## 2026-11-08 (Sun) · Domain 2 complete
 
 - **162 of 368 cards learned,** up from 125. Domain 2, Security and Compliance, is complete: all 92 of its cards.
 - **Access management:** IAM Identity Center and federation, the three kinds of IAM policy, service control policies, cross-account access, Cognito user pools against identity pools, and the tools that check who can access what.
@@ -150,7 +150,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** domain 3, Cloud Technology and Services.
 
-## 2026-11-07 (Sat) — Security services and IAM
+## 2026-11-07 (Sat) · Security services and IAM
 
 - **125 of 368 cards learned,** up from 92. All 33 new cards are in domain 2, Security and Compliance, which now stands at 55 of its 92 cards.
 - **Security services:** what GuardDuty, Inspector, Detective, Macie and Security Hub each do, KMS against CloudHSM, Certificate Manager, encryption at rest against in transit, and where security logs live.
@@ -159,7 +159,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the rest of domain 2, Security and Compliance.
 
-## 2026-11-03 (Tue) — Domain 2 started
+## 2026-11-03 (Tue) · Domain 2 started
 
 - **92 of 368 cards learned,** up from 70. 22 of them are the first cards of domain 2, Security and Compliance. The deck is two cards smaller, because I deleted two cards I did not need.
 - **Shared responsibility model:** security of the cloud against security in the cloud, inherited, shared and customer-specific controls, and how the customer's part shrinks from EC2 to RDS to Lambda.
@@ -168,7 +168,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the rest of domain 2, Security and Compliance.
 
-## 2026-11-01 (Sun) — Domain 1 complete
+## 2026-11-01 (Sun) · Domain 1 complete
 
 - **70 of 370 cards learned,** up from 49. Domain 1, Cloud Concepts, is complete: all 70 of its cards. The deck is one card smaller again, because I deleted another card I did not need.
 - **Finished migration:** the 7 Rs, the four phases of the cloud transformation, the Cloud Center of Excellence, and the migration tools: Migration Evaluator, Application Discovery Service, Application Migration Service, Migration Hub, DataSync, Transfer Family and the Snow Family.
@@ -177,7 +177,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** domain 2, Security and Compliance.
 
-## 2026-10-21 (Wed) — Well-Architected and migration
+## 2026-10-21 (Wed) · Well-Architected and migration
 
 - **49 of 371 cards learned,** all in domain 1, Cloud Concepts; seven are still in the learning phase. The deck is one card smaller, because I deleted a card I did not need.
 - **Finished the Well-Architected Framework:** the design principles of all six pillars and the general ones, decoupling, and the Well-Architected Tool.
@@ -187,7 +187,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the rest of domain 1, Cloud Concepts, then domain 2, Security and Compliance.
 
-## 2026-10-19 (Mon) — First repeats
+## 2026-10-19 (Mon) · First repeats
 
 - **24 of 372 cards learned,** all in domain 1, Cloud Concepts; three are still in the learning phase.
 - **The first cards keep coming back for their repeats,** 73 reviews over three evenings.
@@ -195,7 +195,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the rest of domain 1, Cloud Concepts, then domain 2, Security and Compliance.
 
-## 2026-10-18 (Sun) — First reviews
+## 2026-10-18 (Sun) · First reviews
 
 - **11 of 372 cards are green,** all in domain 1, Cloud Concepts. One more is still in the learning phase.
 - **29 first learning steps** across the evenings of 17 and 18 October. No card has come back for a repeat yet, because none is due.
@@ -203,7 +203,7 @@ Working toward the **AWS Certified Cloud Practitioner (CLF-C02)**, studied from 
 
 **Next up:** the rest of domain 1, then domain 2.
 
-## 2026-10-16 (Fri) — Started: a deck instead of a course
+## 2026-10-16 (Fri) · Started: a deck instead of a course
 
 - **Opened the Cloud Practitioner** as the next project after the AI Practitioner. It is the broad AWS foundation the AI exam assumed I had, and I am fitting it in next to my studies.
 - **Built a 372-card Anki deck with AI help** from the official prep material: all thirteen modules of Cloud Practitioner Essentials and the four domain reviews, including their worked practice questions. One deck per exam domain, every card tagged with its task statement.

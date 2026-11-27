@@ -1,6 +1,6 @@
 <a name="header"><img src="../../assets/headers/claude-masterclass-study-plan.svg" alt="" width="100%"></a>
 
-# Study Plan — Claude Code & Cowork Masterclass
+# Study Plan: Claude Code & Cowork Masterclass
 
 Started 2026-07-21, finished 2026-08-30 for the 132 target lessons. Sections 4 and 5 followed on 2026-09-03. **158 of 158 lessons, all watched.**
 
@@ -14,15 +14,15 @@ A few videos a day, sections taken in order, with a date pencilled in for each o
 
 | Section | Planned by | Landed |
 |:---|:---|:---|
-| 1–3 — Intro, Cowork, Skills and Plugins, Claude Chat | 2 Aug | on time |
-| 4–5 — Claude in Excel and PowerPoint | not in the plan | 3 Sep, added later |
-| 6 — Claude Code Foundations, the biggest chapter | 16 Aug | on time |
-| 7 — Claude Code for Building Apps | 20 Aug | on time |
-| 8 — Claude Code for Building AI Agents | 28 Aug | on time |
-| 9–11 — Personal AI agent: intro, architecture, setup | 30 Aug | on time |
-| 12 — Automations: sprint tracker, market pulse, morning brief | 29 Aug | on time |
-| 13 — Automations: research teams, CRM, meeting intel, email triage | 31 Aug | one day early |
-| 14 — Automations: expense wrangler, content machine, weekly exec | 2 Sep | three days early |
+| 1 to 3: Intro, Cowork, Skills and Plugins, Claude Chat | 2 Aug | on time |
+| 4 to 5: Claude in Excel and PowerPoint | not in the plan | 3 Sep, added later |
+| 6: Claude Code Foundations, the biggest chapter | 16 Aug | on time |
+| 7: Claude Code for Building Apps | 20 Aug | on time |
+| 8: Claude Code for Building AI Agents | 28 Aug | on time |
+| 9 to 11: Personal AI agent: intro, architecture, setup | 30 Aug | on time |
+| 12: Automations: sprint tracker, market pulse, morning brief | 29 Aug | on time |
+| 13: Automations: research teams, CRM, meeting intel, email triage | 31 Aug | one day early |
+| 14: Automations: expense wrangler, content machine, weekly exec | 2 Sep | three days early |
 
 ### <a name="leaf-2"><img src="../../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;What actually happened
 

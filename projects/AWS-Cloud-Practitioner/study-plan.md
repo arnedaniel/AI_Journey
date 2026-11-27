@@ -1,6 +1,6 @@
 <a name="header"><img src="../../assets/headers/aws-cloud-practitioner-study-plan.svg" alt="" width="100%"></a>
 
-# Study Plan — AWS Certified Cloud Practitioner (CLF-C02)
+# Study Plan: AWS Certified Cloud Practitioner (CLF-C02)
 
 The exam attempt is valid until **30 November 2026**. The plan runs towards that date, next to a full semester, so it is built around something I can do in short sessions rather than long ones.
 
@@ -16,12 +16,12 @@ The exam attempt is valid until **30 November 2026**. The plan runs towards that
 
 <a name="goals"><img src="../../assets/goals/aws-cloud-practitioner.svg" alt="Goal dates per exam domain, from 16 October to the end of the attempt on 30 November" width="100%"></a>
 
-**Domain 1, Cloud Concepts** — planned for 23 October, done on 1 November<br>
-**Domain 2, Security and Compliance** — planned for 9 November, done on 8 November<br>
-**Domain 3, Technology and Services** — planned for 20 November, done on 14 November<br>
-**Domain 4, Billing, Pricing, and Support** — 25 November<br>
-**Practice exams** — the official practice set of each domain right after its cards, and on 26 November one last pass over all four. Every gap they show goes back into the cards<br>
-**The exam** — 27 November, three days before the attempt runs out
+**Domain 1, Cloud Concepts**: planned for 23 October, done on 1 November<br>
+**Domain 2, Security and Compliance**: planned for 9 November, done on 8 November<br>
+**Domain 3, Technology and Services**: planned for 20 November, done on 14 November<br>
+**Domain 4, Billing, Pricing, and Support**: 25 November<br>
+**Practice exams**: the official practice set of each domain right after its cards, and on 26 November one last pass over all four. Every gap they show goes back into the cards<br>
+**The exam**: 27 November, three days before the attempt runs out
 
 Re-planned on 1 November: domain 1 took longer than planned, so the remaining dates moved back and the pace went up to about fourteen new cards a day, six days a week. The bars fill as cards are learned for the first time. Each practice set comes only after its domain's cards on purpose: it measures what has stuck, so it only means something once every card of that domain has been seen.
 

@@ -2,10 +2,10 @@
 
 # AWS Certified AI Practitioner (AIF-C01)
 
-My road to the AWS AI Practitioner certification, worked through AWS Skill Builder — part of my [AI Journey](../../README.md).
+My road to the AWS AI Practitioner certification, worked through AWS Skill Builder: part of my [AI Journey](../../README.md).
 
 <!-- STATUS:START -->
-🟢 &nbsp;Passed on 25 September 2026 — AWS Certified AI Practitioner
+🟢 &nbsp;Passed on 25 September 2026: AWS Certified AI Practitioner
 <!-- STATUS:END -->
 
 ---
@@ -17,9 +17,9 @@ Earn the AWS Certified AI Practitioner certification. I sat the exam on **Friday
 ### <a name="leaf-2"><img src="../../assets/leaves/leaf-2.svg" width="16" alt=""></a> &nbsp;Where this stands
 
 <!-- STATE:START -->
-**Completed 2026-09-25** — passed the AIF-C01, in German, at a test centre<br>
-**8 of 8 courses, 5 of 5 practice tests** — the learning plan first, the measuring second<br>
-**A certification valid until September 2029** — the thing that outlasts the course
+**Completed 2026-09-25**: passed the AIF-C01, in German, at a test centre<br>
+**8 of 8 courses, 5 of 5 practice tests**: the learning plan first, the measuring second<br>
+**A certification valid until September 2029**: the thing that outlasts the course
 <!-- STATE:END -->
 
 ### <a name="leaf-3"><img src="../../assets/leaves/leaf-3.svg" width="16" alt=""></a> &nbsp;The road
@@ -55,11 +55,11 @@ The five columns are the five exam domains, in the guide's own order: fundamenta
 
 **Each course is billed at one hour, and none has come in at one.** Five timed: two hours, two and a half, an hour forty-five, an hour twenty, then three. Course 7 is the peak, not course 4.
 
-**The trend I thought I had lasted exactly two days.** Four measurements in a row got faster, so I dropped the rule I had set after course 3 — plan each at double its stated length — and put the last two down at ninety minutes. Course 7 then took double that and longer than anything before it. What I had read as *the courses are getting easier* was really *the vocabulary is repeating*, and that only holds while the courses cover neighbouring ground. Course 7 is a domain of its own, almost entirely service names that differ from each other by one sentence, and there was nothing repeating to carry me through it. The doubling rule goes back on for course 8.
+**The trend I thought I had lasted exactly two days.** Four measurements in a row got faster, so I dropped the rule I had set after course 3, plan each at double its stated length, and put the last two down at ninety minutes. Course 7 then took double that and longer than anything before it. What I had read as *the courses are getting easier* was really *the vocabulary is repeating*, and that only holds while the courses cover neighbouring ground. Course 7 is a domain of its own, almost entirely service names that differ from each other by one sentence, and there was nothing repeating to carry me through it. The doubling rule goes back on for course 8.
 
 **A route I dropped.** Before this, I spent seven hours on the community programme and passed two courses there, *Cloud 101* and *Machine Learning Foundations*. That route does not reach the certification, and I am not carrying it further.
 
-The hours were not wasted. *Machine Learning Foundations* is this exam's own subject matter, and the cloud groundwork — storage, compute, functions, access management, networking, the shared responsibility model — is knowledge this exam assumes you arrive with. What I lost was a shortcut, not the learning.
+The hours were not wasted. *Machine Learning Foundations* is this exam's own subject matter, and the cloud groundwork, storage, compute, functions, access management, networking, the shared responsibility model, is knowledge this exam assumes you arrive with. What I lost was a shortcut, not the learning.
 
 The same applies to the free exam voucher on offer there. It is earned through ninety-day posting and liking streaks rather than through study, so it would arrive after the events I want the certificate for, and I would spend three months starting conversations for a counter instead of an answer. I will pay for the seat.
 
@@ -67,12 +67,12 @@ The same applies to the free exam voucher on offer there. It is earned through n
 
 <img src="certificate.png" alt="AWS Certified AI Practitioner certificate, issued to Daniel Arne on 25 September 2026, valid until 25 September 2029" width="100%">
 
-**Issued 25 September 2026** — the day of the exam; it expires on 25 September 2029<br>
-**Validation number e5f371b6c4af42e78d0c234950589197** — printed on the certificate itself, so it can be checked without this page linking anywhere<br>
-**The certificate is English, the exam was not** — I sat it in German
+**Issued 25 September 2026**: the day of the exam; it expires on 25 September 2029<br>
+**Validation number e5f371b6c4af42e78d0c234950589197**: printed on the certificate itself, so it can be checked without this page linking anywhere<br>
+**The certificate is English, the exam was not**: I sat it in German
 
 ### <a name="leaf-5"><img src="../../assets/leaves/leaf-end.svg" width="16" alt=""></a> &nbsp;The files here
 
-[`progress.md`](./progress.md) — dated entries: what I studied and what stuck<br>
-[`study-plan.md`](./study-plan.md) — the eight courses, then the measuring<br>
-[`certificate.png`](./certificate.png) — the certificate, shown above
+[`progress.md`](./progress.md): dated entries of what I studied and what stuck<br>
+[`study-plan.md`](./study-plan.md): the eight courses, then the measuring<br>
+[`certificate.png`](./certificate.png): the certificate, shown above
