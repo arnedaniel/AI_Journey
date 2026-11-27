@@ -26,7 +26,7 @@ Finished 3 September 2026: all 158 lessons, Excel and PowerPoint included
 Finished 27 November 2026: passed the CLF-C02
 
 **AI Ticket System with RAG Chatbot**: my university project, a ticket system whose bot answers from a company's own documents.<br>
-Running since 27 November 2026: the code lives in the seminar's repository for now
+Running since 27 November 2026: the code sits in a private repository for now
 
 Three more are queued and not started yet: they are listed, with the reasoning, on the [projects page](projects/).
 
